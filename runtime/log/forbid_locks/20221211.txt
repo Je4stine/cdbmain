@@ -1,0 +1,35 @@
+2022-12-11 23:11:37
+Array
+(
+    [device_id] => CT054220400091
+    [locks] => Array
+        (
+            [0] => 2
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 2022-12-11 23:11:43
+Array
+(
+    [device_id] => CT054220400091
+    [locks] => Array
+        (
+            [0] => 2
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 

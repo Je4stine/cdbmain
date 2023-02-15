@@ -1,0 +1,56 @@
+2022-11-08 04:46:21
+
+ 
+ 
+ 2022-11-08 12:11:49
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QK80I9AX8C",
+            "TransTime": "20221108121148",
+            "TransAmount": "100.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "961156",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "100.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 2022-11-08 12:17:11
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QK88I9PQHS",
+            "TransTime": "20221108121711",
+            "TransAmount": "1.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "0713083924",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "101.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 924",
+            "FirstName": "WASHINGTON"
+        }
+        
+ 
+ 
+ 2022-11-08 13:09:09
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QK80IDU4FA",
+            "TransTime": "20221108130908",
+            "TransAmount": "1.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "654476",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "102.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 

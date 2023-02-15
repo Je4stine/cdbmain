@@ -1,0 +1,5 @@
+2022-11-24 21:44:22
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"53295-19918036-1","ConversationID":"AG_20221124_20305380910eb5472d88","TransactionID":"QKO0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254726004813 - AMISH LAXMAN DEV GUPTA"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID"},{"Key":"InitiatedTime","Value":20221124214418},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221124214420},{"Key":"Amount","Value":999.00},{"Key":"ConversationID"},{"Key":"ReceiptNo","Value":"QKO5LN2RTN"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

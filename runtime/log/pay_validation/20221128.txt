@@ -1,0 +1,71 @@
+2022-11-28 09:56:05
+Array
+(
+    [recharge_amount] => 
+    [deposit] => 999
+    [deposit_delay] => 
+    [billingtime] => 90
+    [amount] => 100
+    [billingunit] => 2
+    [freetime] => 0
+    [ceiling] => 999
+    [device_price] => 999
+    [wired_amount] => Array
+        (
+            [0] => Array
+                (
+                    [time] => 1
+                    [text] => 1小时
+                    [amount] => 
+                )
+
+            [1] => Array
+                (
+                    [time] => 2
+                    [text] => 2小时
+                    [amount] => 
+                )
+
+            [2] => Array
+                (
+                    [time] => 3
+                    [text] => 3小时
+                    [amount] => 3
+                )
+
+            [3] => Array
+                (
+                    [time] => 4
+                    [text] => 4小时
+                    [amount] => 
+                )
+
+            [4] => Array
+                (
+                    [time] => 5
+                    [text] => 5小时
+                    [amount] => 
+                )
+
+            [5] => Array
+                (
+                    [time] => 6
+                    [text] => 6小时
+                    [amount] => 5
+                )
+
+            [6] => Array
+                (
+                    [time] => 12
+                    [text] => 12小时
+                    [amount] => 7
+                )
+
+        )
+
+    [device_code] => 961156
+)
+
+ 
+ 
+ 

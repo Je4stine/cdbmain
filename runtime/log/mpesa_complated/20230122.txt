@@ -1,0 +1,18 @@
+2023-01-22 00:45:07
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAM0WE1RKG",
+            "TransTime": "20230122004504",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "961156",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "999.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 852",
+            "FirstName": "EMMA"
+        }
+        
+ 
+ 
+ 

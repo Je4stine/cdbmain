@@ -1,0 +1,5 @@
+2022-12-24 03:06:13
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"53271-110123207-1","ConversationID":"AG_20221224_201017fbeed602d26ada","TransactionID":"QLO0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254727550583 - DANIEL MULINGE MUTUKU"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"ae995eac-542e-4bb9-a0c5-c3e2bcb36950"},{"Key":"InitiatedTime","Value":20221224030609},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility with OD Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221224030611},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20221224_2040011b44ce150c9997"},{"Key":"ReceiptNo","Value":"QLO9VG8IWJ"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

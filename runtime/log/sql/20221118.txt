@@ -1,0 +1,5 @@
+2022-11-18 20:53:01
+SQLSTATE[HY000]: General error: 1366 Incorrect integer value: 'DAVID' for column 'phone' at row 1
+ 
+ 
+ 

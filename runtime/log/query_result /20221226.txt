@@ -1,0 +1,5 @@
+2022-12-26 01:47:57
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"73199-96379568-1","ConversationID":"AG_20221226_20407f491e16afc7a90f","TransactionID":"QLQ0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254790478761 - MARY WANGARI GIKARU"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID"},{"Key":"InitiatedTime","Value":20221226014748},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221226014751},{"Key":"Amount","Value":999.00},{"Key":"ConversationID"},{"Key":"ReceiptNo","Value":"QLQ01QYAJK"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

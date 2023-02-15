@@ -1,0 +1,18 @@
+2023-01-07 09:29:26
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA77UPBZSN",
+            "TransTime": "20230107092923",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "974398",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "999.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 

@@ -1,0 +1,82 @@
+2022-11-04 11:50:06
+https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+ 
+ 
+ 2022-11-04 11:50:06
+Array
+(
+    [Initiator] => wanglei
+    [SecurityCredential] => DUuXgAoX2gt1fVKsJpwtdAJpnQ0eYqhP+3wfKfrcZ1KFSanWWSrbULtxhpaEGgbBxqgEdoLH+Q7K2Yo2OseFb4BNepawR1D8abwcvN1QRomFXrUyAJSq2+aSubu4f7L//60N1NdwLHSGkHjEGyfMA2MqZmC3n81hOC8svSEgwIbF1syHxH1+DlZcwZn1Eg/lmy9HyMj644sz3DLd/DmvV25COfloEG3QAgGX2clcWmhTtcj3Qoqf1zm/AhcBGtnm9Te31gfKPV4OPeGrYPME04THqoK/WzQjOMjlRHYNUBrVGsf7KJTKi+xqwb2p1nDSWMaB+lTxGZ/LHMpP0fXXyg==
+    [CommandID] => TransactionStatusQuery
+    [TransactionID] => QIU8XXQFI8
+    [PartyA] => 444333
+    [IdentifierType] => 4
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/queryResult
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/queryQueue
+    [Remarks] => test
+    [Occassion] => 
+)
+
+ 
+ 
+ 2022-11-04 11:50:06
+{
+            "OriginatorConversationID": "19095-146871697-1",
+            "ConversationID": "AG_20221104_20205d8f974c86aa20c0",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+ 
+ 
+ 2022-11-04 11:52:06
+https://api.safaricom.co.ke/mpesa/c2b/v2/registerurl
+ 
+ 
+ 2022-11-04 11:52:06
+Array
+(
+    [ShortCode] => 444333
+    [ResponseType] => Completed
+    [ConfirmationURL] => https://cdb.mopawa.co.ke/app/callback/complatedConfirmation
+    [ValidationURL] => https://cdb.mopawa.co.ke/app/callback/complatedValidation
+)
+
+ 
+ 
+ 2022-11-04 11:52:06
+{
+                    "requestId":"28905-53273672-1",
+                    "errorCode": "400.003.02",
+                    "errorMessage": "Bad Request - Kindly use your own ShortCode"
+                }
+            
+ 
+ 
+ 2022-11-04 14:23:03
+https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+ 
+ 
+ 2022-11-04 14:23:03
+Array
+(
+    [Initiator] => wanglei
+    [SecurityCredential] => iCu0HOw4TiebGnepIR2PwtACX/r2Dbe4B5ZLfSvpcURvLZ6kJbBFkFzoGhMtXpaqQqbNDlT2SeSmRQXSLOLkZMLIl/xwU7uQQEKTXzyZyGV6S3TAEgKuf4qzrbLouGWzY4ZbcNmlc65KnuA/Eh4WkwnANUG7zvNbxFXInueu+abZjN+hu8Is4N4Oz3+xAlQ+Rk7D7odz5ZXUaqCpxfIyxBBdCbD2ELq4yH5E/Fd2UQSsVJuUCnlVua4TrgBr30FSL3JJJM7e928VfRUpiHWaVOmHZclA/dDOgWSpMCRCTIGdELPL6E6c2alPZyCnzn51uvQ1SLb/e/lY8cku6D+6GA==
+    [CommandID] => TransactionStatusQuery
+    [TransactionID] => 
+    [PartyA] => 444333
+    [IdentifierType] => 4
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/queryResult
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/queryQueue
+    [Remarks] => test
+    [Occassion] => 
+)
+
+ 
+ 
+ 2022-11-04 14:23:03
+{"fault":{"faultstring":"Execution of JS-ValidateRequest failed with error: Exception thrown from JavaScript : false (ValidateRequest_js#38)","detail":{"errorcode":"steps.javascript.ScriptExecutionFailed"}}}
+ 
+ 
+ 

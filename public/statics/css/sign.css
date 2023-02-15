@@ -1,0 +1,89 @@
+body {
+    background:url("../images/login/1.jpg") no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+.pages{
+    width: 100vw;
+    height: 100vh;
+    justify-content:center;
+    -webkit-box-pack:center;
+    -webkit-box-align:center;
+    align-items:center;
+    text-align:center;
+    -webkit-flex-direction:row;
+    display:flex;
+}
+.content{
+    background:rgba(253,253,254,0.8);
+    box-shadow: 12px 12px 15px rgba(0,0,0,0.15);
+    width: 500px;
+}
+
+.login-header{
+    margin-top: 30px;
+}
+
+.login-input-box{
+    display: inline-block;
+    margin-left: -15px;
+}
+
+.login-input-box input{
+    margin-top: 50px;
+    padding-left: 50px;
+    width: 340px;
+    height: 32px;
+    margin-left: 18px;
+    border-bottom:1px solid #999999; 
+    border-top:0px; 
+    border-left:0px; 
+    border-right:0px; 
+    background-color:transparent; 
+    outline: none;
+}
+
+.login-input-box .icon{
+    width: 24px;
+    height: 24px;
+    margin: 55px 4px 6px 24px;
+    position: absolute;
+}
+
+.login-input-box .icon.icon-user{
+    background: url("../images/login/mima-icon.png");
+    background-repeat: no-repeat;
+    
+}
+
+.login-input-box .icon.icon-password{
+    background: url("../images/login/zhanghu-icon.png");
+    background-repeat: no-repeat;
+}
+
+.login-button-box{
+    background: url("../images/login/button.jpg");
+    background-repeat: no-repeat;
+    margin-top: 15%;
+    height: 47.1px;
+    margin-bottom: 10%;
+    margin-left: 20%;      
+}
+.login-input-box .icon-biaoshi{
+    background: url("../images/login/biaoshi.png") no-repeat left center;
+}
+.copyright{
+    font-size: 12px; color: #999;
+}
+
+.copyright a{
+    color:#03c5ff; text-decoration:none;
+}
+
+.nav ul a{ font-size: 14px; color: #333333; text-decoration: none; }
+.nav ul a:hover,.nav ul a.active{ color: #da251c; }
+.pane{display: none;}

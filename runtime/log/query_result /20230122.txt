@@ -1,0 +1,5 @@
+2023-01-22 00:45:09
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"2297-201409358-1","ConversationID":"AG_20230122_20105d9f14f2433f8805","TransactionID":"RAM0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"0748655852 - EMMA KAWIRA MARANGU"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"e6957da6-7586-4e92-8db0-f74130f014fb"},{"Key":"InitiatedTime","Value":20230122004504},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Bill Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20230122004506},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20230122_20304bc7acad51157f49"},{"Key":"ReceiptNo","Value":"RAM0WE1RKG"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

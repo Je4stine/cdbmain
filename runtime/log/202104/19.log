@@ -1,0 +1,136 @@
+---------------------------------------------------------------
+[ 2021-04-19T04:20:16+02:00 ] 172.31.69.200 119.136.114.165 POST /App/auth/sms
+[ info ] cdb.gobattery.cl/App/auth/sms [运行时间：0.308250s][吞吐率：3.24req/s] [内存消耗：2,506.13kb] [文件加载：130]
+[ info ] [ LANG ] /www/wwwroot/chile/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/chile/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'App',
+    1 => 'auth',
+    2 => 'sms',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'content-length' => '388',
+  'content-type' => 'multipart/form-data; boundary=--------------------------956765318802675605864479',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'think_var=zh-cn',
+  'host' => 'cdb.gobattery.cl',
+  'postman-token' => '01bea40c-8ab9-475d-a7b5-e83e296869a3',
+  'cache-control' => 'no-cache',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.15.2',
+)
+[ info ] [ PARAM ] array (
+  'area' => '+86',
+  'phone' => '18344021532',
+  'type' => 'register',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-04-19T04:21:47+02:00 ] 172.31.69.200 119.136.114.165 POST /App/auth/sms
+[ info ] cdb.gobattery.cl/App/auth/sms [运行时间：0.393743s][吞吐率：2.54req/s] [内存消耗：3,119.50kb] [文件加载：130]
+[ info ] [ LANG ] /www/wwwroot/chile/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/chile/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'App',
+    1 => 'auth',
+    2 => 'sms',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'content-length' => '388',
+  'content-type' => 'multipart/form-data; boundary=--------------------------652875106068827517530741',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'think_var=zh-cn',
+  'host' => 'cdb.gobattery.cl',
+  'postman-token' => '43efa682-4fdb-4bc4-beea-c3876b5c0998',
+  'cache-control' => 'no-cache',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.15.2',
+)
+[ info ] [ PARAM ] array (
+  'area' => '+86',
+  'phone' => '18344021532',
+  'type' => 'register',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-04-19T04:21:51+02:00 ] 172.31.69.200 119.136.114.165 POST /App/auth/sms
+[ info ] cdb.gobattery.cl/App/auth/sms [运行时间：0.311357s][吞吐率：3.21req/s] [内存消耗：2,380.67kb] [文件加载：127]
+[ info ] [ LANG ] /www/wwwroot/chile/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/chile/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'App',
+    1 => 'auth',
+    2 => 'sms',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'content-length' => '388',
+  'content-type' => 'multipart/form-data; boundary=--------------------------462208813585482674482321',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'think_var=zh-cn',
+  'host' => 'cdb.gobattery.cl',
+  'postman-token' => '7ed67787-8600-4f95-8480-974a8bc969e1',
+  'cache-control' => 'no-cache',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.15.2',
+)
+[ info ] [ PARAM ] array (
+  'area' => '+86',
+  'phone' => '18344021532',
+  'type' => 'register',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2021-04-19T04:22:34+02:00 ] 172.31.69.200 119.136.114.165 POST /App/auth/sms
+[ info ] cdb.gobattery.cl/App/auth/sms [运行时间：0.294975s][吞吐率：3.39req/s] [内存消耗：2,380.67kb] [文件加载：127]
+[ info ] [ LANG ] /www/wwwroot/chile/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /www/wwwroot/chile/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'App',
+    1 => 'auth',
+    2 => 'sms',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'content-length' => '388',
+  'content-type' => 'multipart/form-data; boundary=--------------------------965250408131118514457372',
+  'accept-encoding' => 'gzip, deflate',
+  'cookie' => 'think_var=zh-cn',
+  'host' => 'cdb.gobattery.cl',
+  'postman-token' => '0f4b2ea7-65d0-437e-a1e5-dd2f335ffdd7',
+  'cache-control' => 'no-cache',
+  'accept' => '*/*',
+  'user-agent' => 'PostmanRuntime/7.15.2',
+)
+[ info ] [ PARAM ] array (
+  'area' => '+86',
+  'phone' => '18344021532',
+  'type' => 'register',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File

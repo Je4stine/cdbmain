@@ -1,0 +1,86 @@
+2023-01-08 00:59:35
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA83WVRLWZ",
+            "TransTime": "20230108005932",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "972723",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "999.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 000",
+            "FirstName": "JOSEPH"
+        }
+        
+ 
+ 
+ 2023-01-08 07:05:03
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA80WYWFZM",
+            "TransTime": "20230108070500",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "992094",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "1998.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 143",
+            "FirstName": "NAFTAL"
+        }
+        
+ 
+ 
+ 2023-01-08 14:42:14
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA88XU8ERQ",
+            "TransTime": "20230108144211",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "974398",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "2997.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 274",
+            "FirstName": "HENRY"
+        }
+        
+ 
+ 
+ 2023-01-08 15:28:55
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA89XY5ZFR",
+            "TransTime": "20230108152852",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "974398",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "3996.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 783",
+            "FirstName": "GEOFFREY"
+        }
+        
+ 
+ 
+ 2023-01-08 15:49:19
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA89XZWLN5",
+            "TransTime": "20230108154917",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "974398",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "4995.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 000",
+            "FirstName": "WANG"
+        }
+        
+ 
+ 
+ 

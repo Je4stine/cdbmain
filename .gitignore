@@ -1,0 +1,12 @@
+.idea
+.svn
+/public/uploads/
+/public/qrcode/device
+/public/oa/
+/public/agency/
+/extend/cert/
+.DS_Store
+*/.DS_Store
+.user.ini
+application/database.php
+application/config.php

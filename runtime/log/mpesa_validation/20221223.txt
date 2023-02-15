@@ -1,0 +1,52 @@
+2022-12-23 02:34:30
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QLN6SKZ36E",
+            "TransTime": "20221223023429",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "972723",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 446",
+            "FirstName": "ALEX"
+        }
+        
+ 
+ 
+ 2022-12-23 19:06:16
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QLN7UOB1XD",
+            "TransTime": "20221223190615",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "969726",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 125",
+            "FirstName": "FREDRICK"
+        }
+        
+ 
+ 
+ 2022-12-23 19:53:13
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QLN8UV2AJG",
+            "TransTime": "20221223195312",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "972723",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 428",
+            "FirstName": "AGNES"
+        }
+        
+ 
+ 
+ 

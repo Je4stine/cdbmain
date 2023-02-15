@@ -1,0 +1,61 @@
+2022-12-22 09:13:33
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"32496-56492727-1","ConversationID":"AG_20221222_20303829f8734a7384f6","TransactionID":"QLM1Q77YS9","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:13:45
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"32496-56492727-1","ConversationID":"AG_20221222_20303829f8734a7384f6","TransactionID":"QLM1Q77YS9","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:13:57
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"32496-56492727-1","ConversationID":"AG_20221222_20303829f8734a7384f6","TransactionID":"QLM1Q77YS9","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:14:08
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"32496-56492727-1","ConversationID":"AG_20221222_20303829f8734a7384f6","TransactionID":"QLM1Q77YS9","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:19:31
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"115207-103814194-1","ConversationID":"AG_20221222_207021285ffdd82e3d45","TransactionID":"QLM6Q7Q4US","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:19:43
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"115207-103814194-1","ConversationID":"AG_20221222_207021285ffdd82e3d45","TransactionID":"QLM6Q7Q4US","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:19:55
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"115207-103814194-1","ConversationID":"AG_20221222_207021285ffdd82e3d45","TransactionID":"QLM6Q7Q4US","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:20:06
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"115207-103814194-1","ConversationID":"AG_20221222_207021285ffdd82e3d45","TransactionID":"QLM6Q7Q4US","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:32:18
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"59555-105500433-1","ConversationID":"AG_20221222_20302e72dc881a416320","TransactionID":"QLM0Q8SSIC","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:32:30
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"59555-105500433-1","ConversationID":"AG_20221222_20302e72dc881a416320","TransactionID":"QLM0Q8SSIC","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:32:41
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"59555-105500433-1","ConversationID":"AG_20221222_20302e72dc881a416320","TransactionID":"QLM0Q8SSIC","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:32:53
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"59555-105500433-1","ConversationID":"AG_20221222_20302e72dc881a416320","TransactionID":"QLM0Q8SSIC","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 09:55:28
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"5481-107272013-1","ConversationID":"AG_20221222_20604620ec72fd6f0b4e","TransactionID":"QLM3QAT2TH","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":999.00},{"Key":"TransactionReceipt","Value":"QLM3QAT2TH"},{"Key":"ReceiverPartyPublicName","Value":"0758555738 - LEI   WANG"},{"Key":"TransactionCompletedDateTime","Value":"22.12.2022 09:55:27"},{"Key":"B2CUtilityAccountAvailableFunds","Value":123687.67},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 23:17:07
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"32476-59229578-1","ConversationID":"AG_20221222_20702a45e8a02740c39a","TransactionID":"QLM3SIC203","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":999.00},{"Key":"TransactionReceipt","Value":"QLM3SIC203"},{"Key":"ReceiverPartyPublicName","Value":"0758555738 - LEI   WANG"},{"Key":"TransactionCompletedDateTime","Value":"22.12.2022 23:17:07"},{"Key":"B2CUtilityAccountAvailableFunds","Value":121759.13},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-22 23:50:44
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"8483-109822660-1","ConversationID":"AG_20221222_204044503723b9ac1c8c","TransactionID":"QLM1SJ7OYJ","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QLM1SJ7OYJ"},{"Key":"ReceiverPartyPublicName","Value":"254722758717 - DAVID KIGO"},{"Key":"TransactionCompletedDateTime","Value":"22.12.2022 23:50:43"},{"Key":"B2CUtilityAccountAvailableFunds","Value":120844.86},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

@@ -1,0 +1,5 @@
+2022-11-24 22:20:51
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"63283-20298574-1","ConversationID":"AG_20221124_204046d1d18d5ecb8fb6","TransactionID":"QKO8LP0ZZC","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QKO8LP0ZZC"},{"Key":"ReceiverPartyPublicName","Value":"254726004813 - AMISH LAXMAN DEV GUPTA"},{"Key":"TransactionCompletedDateTime","Value":"24.11.2022 22:20:51"},{"Key":"B2CUtilityAccountAvailableFunds","Value":90975.06},{"Key":"B2CWorkingAccountAvailableFunds","Value":201.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

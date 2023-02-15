@@ -1,0 +1,6 @@
+---------------------------------------------------------------
+[ 2022-11-27T09:52:58+03:00 ] 172.31.39.51 45.134.144.48 GET ///remote/fgt_lang?lang=/../../../..//////////dev/
+[ error ] [2]is_file(): open_basedir restriction in effect. File(/data/wwwroot/cdb/thinkphp/lang//../../../..//////////dev/.php) is not within the allowed path(s): (/data/wwwroot/cdb/:/tmp/)[/data/wwwroot/cdb/thinkphp/library/think/Lang.php:83]
+---------------------------------------------------------------
+[ 2022-11-27T20:03:11+03:00 ] 172.31.39.51 185.7.214.218 GET /remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
+[ error ] [2]is_file(): open_basedir restriction in effect. File(/data/wwwroot/cdb/thinkphp/lang//../../../..//////////dev/cmdb/sslvpn_websession.php) is not within the allowed path(s): (/data/wwwroot/cdb/:/tmp/)[/data/wwwroot/cdb/thinkphp/library/think/Lang.php:83]

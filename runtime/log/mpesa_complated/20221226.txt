@@ -1,0 +1,18 @@
+2022-12-26 01:47:52
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QLQ01QYAJK",
+            "TransTime": "20221226014748",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "972723",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "999.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 761",
+            "FirstName": "MARY"
+        }
+        
+ 
+ 
+ 

@@ -1,0 +1,9 @@
+2023-01-11 11:16:16
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"12426-173686187-1","ConversationID":"AG_20230111_20601edacc59de9231ab","TransactionID":"RAB0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254720044830 - EDWARD BOUNDI ORIANGO"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID"},{"Key":"InitiatedTime","Value":20230111111612},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility with OD via STK"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20230111111614},{"Key":"Amount","Value":999.00},{"Key":"ConversationID"},{"Key":"ReceiptNo","Value":"RAB05KY10A"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2023-01-11 12:14:25
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"25141-124614161-1","ConversationID":"AG_20230111_20505902284fe229634d","TransactionID":"RAB0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254720044830 - EDWARD BOUNDI ORIANGO"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID"},{"Key":"InitiatedTime","Value":20230111121422},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility with OD via STK"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20230111121424},{"Key":"Amount","Value":999.00},{"Key":"ConversationID"},{"Key":"ReceiptNo","Value":"RAB45PUTLO"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

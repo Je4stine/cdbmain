@@ -1,0 +1,561 @@
+2023-01-28 16:55:15
+Array
+(
+    [recharge_amount] => 
+    [deposit] => 999
+    [deposit_delay] => 
+    [billingtime] => 30
+    [amount] => 30
+    [billingunit] => 2
+    [freetime] => 15
+    [ceiling] => 999
+    [device_price] => 999
+    [wired_amount] => Array
+        (
+            [0] => Array
+                (
+                    [time] => 1
+                    [text] => 1小时
+                    [amount] => 
+                )
+
+            [1] => Array
+                (
+                    [time] => 2
+                    [text] => 2小时
+                    [amount] => 
+                )
+
+            [2] => Array
+                (
+                    [time] => 3
+                    [text] => 3小时
+                    [amount] => 3
+                )
+
+            [3] => Array
+                (
+                    [time] => 4
+                    [text] => 4小时
+                    [amount] => 
+                )
+
+            [4] => Array
+                (
+                    [time] => 5
+                    [text] => 5小时
+                    [amount] => 
+                )
+
+            [5] => Array
+                (
+                    [time] => 6
+                    [text] => 6小时
+                    [amount] => 5
+                )
+
+            [6] => Array
+                (
+                    [time] => 12
+                    [text] => 12小时
+                    [amount] => 7
+                )
+
+        )
+
+    [device_code] => 975459
+)
+
+ 
+ 
+ 2023-01-28 16:56:28
+Array
+(
+    [recharge_amount] => 
+    [deposit] => 999
+    [deposit_delay] => 
+    [billingtime] => 30
+    [amount] => 30
+    [billingunit] => 2
+    [freetime] => 15
+    [ceiling] => 999
+    [device_price] => 999
+    [wired_amount] => Array
+        (
+            [0] => Array
+                (
+                    [time] => 1
+                    [text] => 1小时
+                    [amount] => 
+                )
+
+            [1] => Array
+                (
+                    [time] => 2
+                    [text] => 2小时
+                    [amount] => 
+                )
+
+            [2] => Array
+                (
+                    [time] => 3
+                    [text] => 3小时
+                    [amount] => 3
+                )
+
+            [3] => Array
+                (
+                    [time] => 4
+                    [text] => 4小时
+                    [amount] => 
+                )
+
+            [4] => Array
+                (
+                    [time] => 5
+                    [text] => 5小时
+                    [amount] => 
+                )
+
+            [5] => Array
+                (
+                    [time] => 6
+                    [text] => 6小时
+                    [amount] => 5
+                )
+
+            [6] => Array
+                (
+                    [time] => 12
+                    [text] => 12小时
+                    [amount] => 7
+                )
+
+        )
+
+    [device_code] => 975459
+)
+
+ 
+ 
+ 2023-01-28 18:46:30
+Array
+(
+    [recharge_amount] => 
+    [deposit] => 999
+    [deposit_delay] => 
+    [billingtime] => 30
+    [amount] => 30
+    [billingunit] => 2
+    [freetime] => 15
+    [ceiling] => 999
+    [device_price] => 999
+    [wired_amount] => Array
+        (
+            [0] => Array
+                (
+                    [time] => 1
+                    [text] => 1小时
+                    [amount] => 
+                )
+
+            [1] => Array
+                (
+                    [time] => 2
+                    [text] => 2小时
+                    [amount] => 
+                )
+
+            [2] => Array
+                (
+                    [time] => 3
+                    [text] => 3小时
+                    [amount] => 3
+                )
+
+            [3] => Array
+                (
+                    [time] => 4
+                    [text] => 4小时
+                    [amount] => 
+                )
+
+            [4] => Array
+                (
+                    [time] => 5
+                    [text] => 5小时
+                    [amount] => 
+                )
+
+            [5] => Array
+                (
+                    [time] => 6
+                    [text] => 6小时
+                    [amount] => 5
+                )
+
+            [6] => Array
+                (
+                    [time] => 12
+                    [text] => 12小时
+                    [amount] => 7
+                )
+
+        )
+
+    [device_code] => 972723
+)
+
+ 
+ 
+ 2023-01-28 20:05:03
+Array
+(
+    [recharge_amount] => 
+    [deposit] => 999
+    [deposit_delay] => 
+    [billingtime] => 30
+    [amount] => 30
+    [billingunit] => 2
+    [freetime] => 15
+    [ceiling] => 999
+    [device_price] => 999
+    [wired_amount] => Array
+        (
+            [0] => Array
+                (
+                    [time] => 1
+                    [text] => 1小时
+                    [amount] => 
+                )
+
+            [1] => Array
+                (
+                    [time] => 2
+                    [text] => 2小时
+                    [amount] => 
+                )
+
+            [2] => Array
+                (
+                    [time] => 3
+                    [text] => 3小时
+                    [amount] => 3
+                )
+
+            [3] => Array
+                (
+                    [time] => 4
+                    [text] => 4小时
+                    [amount] => 
+                )
+
+            [4] => Array
+                (
+                    [time] => 5
+                    [text] => 5小时
+                    [amount] => 
+                )
+
+            [5] => Array
+                (
+                    [time] => 6
+                    [text] => 6小时
+                    [amount] => 5
+                )
+
+            [6] => Array
+                (
+                    [time] => 12
+                    [text] => 12小时
+                    [amount] => 7
+                )
+
+        )
+
+    [device_code] => 975459
+)
+
+ 
+ 
+ 2023-01-28 20:28:42
+Array
+(
+    [recharge_amount] => 
+    [deposit] => 999
+    [deposit_delay] => 
+    [billingtime] => 30
+    [amount] => 30
+    [billingunit] => 2
+    [freetime] => 15
+    [ceiling] => 999
+    [device_price] => 999
+    [wired_amount] => Array
+        (
+            [0] => Array
+                (
+                    [time] => 1
+                    [text] => 1小时
+                    [amount] => 
+                )
+
+            [1] => Array
+                (
+                    [time] => 2
+                    [text] => 2小时
+                    [amount] => 
+                )
+
+            [2] => Array
+                (
+                    [time] => 3
+                    [text] => 3小时
+                    [amount] => 3
+                )
+
+            [3] => Array
+                (
+                    [time] => 4
+                    [text] => 4小时
+                    [amount] => 
+                )
+
+            [4] => Array
+                (
+                    [time] => 5
+                    [text] => 5小时
+                    [amount] => 
+                )
+
+            [5] => Array
+                (
+                    [time] => 6
+                    [text] => 6小时
+                    [amount] => 5
+                )
+
+            [6] => Array
+                (
+                    [time] => 12
+                    [text] => 12小时
+                    [amount] => 7
+                )
+
+        )
+
+    [device_code] => 975459
+)
+
+ 
+ 
+ 2023-01-28 21:42:01
+Array
+(
+    [recharge_amount] => 
+    [deposit] => 999
+    [deposit_delay] => 
+    [billingtime] => 30
+    [amount] => 30
+    [billingunit] => 2
+    [freetime] => 15
+    [ceiling] => 999
+    [device_price] => 999
+    [wired_amount] => Array
+        (
+            [0] => Array
+                (
+                    [time] => 1
+                    [text] => 1小时
+                    [amount] => 
+                )
+
+            [1] => Array
+                (
+                    [time] => 2
+                    [text] => 2小时
+                    [amount] => 
+                )
+
+            [2] => Array
+                (
+                    [time] => 3
+                    [text] => 3小时
+                    [amount] => 3
+                )
+
+            [3] => Array
+                (
+                    [time] => 4
+                    [text] => 4小时
+                    [amount] => 
+                )
+
+            [4] => Array
+                (
+                    [time] => 5
+                    [text] => 5小时
+                    [amount] => 
+                )
+
+            [5] => Array
+                (
+                    [time] => 6
+                    [text] => 6小时
+                    [amount] => 5
+                )
+
+            [6] => Array
+                (
+                    [time] => 12
+                    [text] => 12小时
+                    [amount] => 7
+                )
+
+        )
+
+    [device_code] => 975459
+)
+
+ 
+ 
+ 2023-01-28 22:27:09
+Array
+(
+    [recharge_amount] => 
+    [deposit] => 999
+    [deposit_delay] => 
+    [billingtime] => 30
+    [amount] => 30
+    [billingunit] => 2
+    [freetime] => 15
+    [ceiling] => 999
+    [device_price] => 999
+    [wired_amount] => Array
+        (
+            [0] => Array
+                (
+                    [time] => 1
+                    [text] => 1小时
+                    [amount] => 
+                )
+
+            [1] => Array
+                (
+                    [time] => 2
+                    [text] => 2小时
+                    [amount] => 
+                )
+
+            [2] => Array
+                (
+                    [time] => 3
+                    [text] => 3小时
+                    [amount] => 3
+                )
+
+            [3] => Array
+                (
+                    [time] => 4
+                    [text] => 4小时
+                    [amount] => 
+                )
+
+            [4] => Array
+                (
+                    [time] => 5
+                    [text] => 5小时
+                    [amount] => 
+                )
+
+            [5] => Array
+                (
+                    [time] => 6
+                    [text] => 6小时
+                    [amount] => 5
+                )
+
+            [6] => Array
+                (
+                    [time] => 12
+                    [text] => 12小时
+                    [amount] => 7
+                )
+
+        )
+
+    [device_code] => 975459
+)
+
+ 
+ 
+ 2023-01-28 23:15:41
+Array
+(
+    [recharge_amount] => 
+    [deposit] => 999
+    [deposit_delay] => 
+    [billingtime] => 30
+    [amount] => 30
+    [billingunit] => 2
+    [freetime] => 15
+    [ceiling] => 999
+    [device_price] => 999
+    [wired_amount] => Array
+        (
+            [0] => Array
+                (
+                    [time] => 1
+                    [text] => 1小时
+                    [amount] => 
+                )
+
+            [1] => Array
+                (
+                    [time] => 2
+                    [text] => 2小时
+                    [amount] => 
+                )
+
+            [2] => Array
+                (
+                    [time] => 3
+                    [text] => 3小时
+                    [amount] => 3
+                )
+
+            [3] => Array
+                (
+                    [time] => 4
+                    [text] => 4小时
+                    [amount] => 
+                )
+
+            [4] => Array
+                (
+                    [time] => 5
+                    [text] => 5小时
+                    [amount] => 
+                )
+
+            [5] => Array
+                (
+                    [time] => 6
+                    [text] => 6小时
+                    [amount] => 5
+                )
+
+            [6] => Array
+                (
+                    [time] => 12
+                    [text] => 12小时
+                    [amount] => 7
+                )
+
+        )
+
+    [device_code] => 975459
+)
+
+ 
+ 
+ 

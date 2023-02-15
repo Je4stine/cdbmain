@@ -1,0 +1,15 @@
+---------------------------------------------------------------
+[ 2022-11-04T11:47:53+03:00 ] 172.31.39.51 159.138.63.251 GET /app/callback/test
+[ error ] [2]file_get_contents(/data/wwwroot/cdb/extend/ProductionCertificate.cer): failed to open stream: No such file or directory[/data/wwwroot/cdb/application/common/service/Mpesa.php:176]
+---------------------------------------------------------------
+[ 2022-11-04T11:50:08+03:00 ] 172.31.39.51 196.201.212.129 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:154]
+---------------------------------------------------------------
+[ 2022-11-04T11:50:19+03:00 ] 172.31.39.51 196.201.214.208 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:154]
+---------------------------------------------------------------
+[ 2022-11-04T11:50:31+03:00 ] 172.31.39.51 196.201.212.138 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:154]
+---------------------------------------------------------------
+[ 2022-11-04T11:50:42+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:154]

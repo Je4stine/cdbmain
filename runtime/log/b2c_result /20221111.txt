@@ -1,0 +1,77 @@
+2022-11-11 11:33:13
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"106223-70824421-1","ConversationID":"AG_20221111_20204cf45c6eae23ee27","TransactionID":"QKB4PBTN0Q","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 11:33:23
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"106223-70824421-1","ConversationID":"AG_20221111_20204cf45c6eae23ee27","TransactionID":"QKB4PBTN0Q","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 11:33:34
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"106223-70824421-1","ConversationID":"AG_20221111_20204cf45c6eae23ee27","TransactionID":"QKB4PBTN0Q","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 11:33:44
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"106223-70824421-1","ConversationID":"AG_20221111_20204cf45c6eae23ee27","TransactionID":"QKB4PBTN0Q","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 11:40:33
+{"Result":{"ResultType":0,"ResultCode":1,"ResultDesc":"The balance is insufficient for the transaction.","OriginatorConversationID":"28903-75320991-1","ConversationID":"AG_20221111_201075d5499076c75eb0","TransactionID":"QKB1PCE6SB","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 11:40:44
+{"Result":{"ResultType":0,"ResultCode":1,"ResultDesc":"The balance is insufficient for the transaction.","OriginatorConversationID":"28903-75320991-1","ConversationID":"AG_20221111_201075d5499076c75eb0","TransactionID":"QKB1PCE6SB","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 11:40:54
+{"Result":{"ResultType":0,"ResultCode":1,"ResultDesc":"The balance is insufficient for the transaction.","OriginatorConversationID":"28903-75320991-1","ConversationID":"AG_20221111_201075d5499076c75eb0","TransactionID":"QKB1PCE6SB","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 11:41:05
+{"Result":{"ResultType":0,"ResultCode":1,"ResultDesc":"The balance is insufficient for the transaction.","OriginatorConversationID":"28903-75320991-1","ConversationID":"AG_20221111_201075d5499076c75eb0","TransactionID":"QKB1PCE6SB","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:02:44
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"68444-109627944-1","ConversationID":"AG_20221111_207037e1099fa409378d","TransactionID":"QKB6PE3T96","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:02:55
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"68444-109627944-1","ConversationID":"AG_20221111_207037e1099fa409378d","TransactionID":"QKB6PE3T96","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:03:05
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"68444-109627944-1","ConversationID":"AG_20221111_207037e1099fa409378d","TransactionID":"QKB6PE3T96","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:03:09
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"7390-67507194-1","ConversationID":"AG_20221111_2050632bac9a27976008","TransactionID":"QKB0PE4LEM","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:03:15
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"68444-109627944-1","ConversationID":"AG_20221111_207037e1099fa409378d","TransactionID":"QKB6PE3T96","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:03:19
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"7390-67507194-1","ConversationID":"AG_20221111_2050632bac9a27976008","TransactionID":"QKB0PE4LEM","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:03:30
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"7390-67507194-1","ConversationID":"AG_20221111_2050632bac9a27976008","TransactionID":"QKB0PE4LEM","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:03:40
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"7390-67507194-1","ConversationID":"AG_20221111_2050632bac9a27976008","TransactionID":"QKB0PE4LEM","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:03:57
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"4916-70958453-1","ConversationID":"AG_20221111_203029013deeb1301a21","TransactionID":"QKB9PE73IH","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":10},{"Key":"TransactionReceipt","Value":"QKB9PE73IH"},{"Key":"ReceiverPartyPublicName","Value":"0758555738 - LEI   WANG"},{"Key":"TransactionCompletedDateTime","Value":"11.11.2022 12:03:57"},{"Key":"B2CUtilityAccountAvailableFunds","Value":9974.73},{"Key":"B2CWorkingAccountAvailableFunds","Value":201.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 12:07:31
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"29254-18540199-1","ConversationID":"AG_20221111_20205ccf7fa8370cd958","TransactionID":"QKB1PEHC2L","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QKB1PEHC2L"},{"Key":"ReceiverPartyPublicName","Value":"0758555738 - LEI   WANG"},{"Key":"TransactionCompletedDateTime","Value":"11.11.2022 12:07:30"},{"Key":"B2CUtilityAccountAvailableFunds","Value":9060.46},{"Key":"B2CWorkingAccountAvailableFunds","Value":201.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-11 18:40:21
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"109145-71793354-1","ConversationID":"AG_20221111_20306eae9083d1279b2c","TransactionID":"QKB5QEBE0P","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QKB5QEBE0P"},{"Key":"ReceiverPartyPublicName","Value":"0758555738 - LEI   WANG"},{"Key":"TransactionCompletedDateTime","Value":"11.11.2022 18:40:21"},{"Key":"B2CUtilityAccountAvailableFunds","Value":8146.19},{"Key":"B2CWorkingAccountAvailableFunds","Value":201.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

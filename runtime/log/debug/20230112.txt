@@ -1,0 +1,61 @@
+2023-01-12 12:32:20
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301121232192748
+            [device_num] => 8
+            [lock_id] => 2
+        )
+
+)
+
+ 
+ 
+ 2023-01-12 13:38:16
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301121338149413
+            [device_num] => 8
+            [lock_id] => 6
+        )
+
+)
+
+ 
+ 
+ 2023-01-12 15:21:13
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301121521126152
+            [device_num] => 8
+            [lock_id] => 8
+        )
+
+)
+
+ 
+ 
+ 2023-01-12 18:22:42
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301121822415786
+            [device_num] => 8
+            [lock_id] => 4
+        )
+
+)
+
+ 
+ 
+ 

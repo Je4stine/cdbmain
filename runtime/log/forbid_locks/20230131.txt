@@ -1,0 +1,35 @@
+2023-01-31 20:24:34
+Array
+(
+    [device_id] => CT054220400130
+    [locks] => Array
+        (
+            [0] => 7
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 2023-01-31 20:24:36
+Array
+(
+    [device_id] => CT054220400130
+    [locks] => Array
+        (
+            [0] => 7
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 

@@ -1,0 +1,1598 @@
+---------------------------------------------------------------
+[ 2022-11-07T00:46:49+03:00 ] 172.31.39.51 143.198.17.233 GET /
+[ info ] mail.mopawa.co.ke/ [运行时间：0.024080s][吞吐率：41.53req/s] [内存消耗：1,869.68kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)',
+  'host' => 'mail.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T00:52:05+03:00 ] 172.31.39.51 198.235.24.16 GET /
+[ info ] 13.245.77.239:443/ [运行时间：0.021577s][吞吐率：46.35req/s] [内存消耗：1,870.59kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T02:13:59+03:00 ] 172.31.39.51 154.209.125.119 GET /
+[ info ] 13.245.77.239:443/ [运行时间：0.022097s][吞吐率：45.25req/s] [内存消耗：1,870.18kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T03:51:47+03:00 ] 172.31.39.51 192.241.206.55 GET /
+[ info ] 13.245.77.239/ [运行时间：0.021206s][吞吐率：47.16req/s] [内存消耗：1,869.94kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T03:57:39+03:00 ] 172.31.39.51 128.14.209.162 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.025075s][吞吐率：39.88req/s] [内存消耗：1,870.79kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:02:19+03:00 ] 172.31.39.51 94.102.61.10 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.020893s][吞吐率：47.86req/s] [内存消耗：1,870.79kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24:80/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:34:35+03:00 ] 172.31.39.51 205.210.31.9 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.024726s][吞吐率：40.44req/s] [内存消耗：1,871.11kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://44.240.60.24:80/',
+  'user-agent' => 'Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:45:12+03:00 ] 172.31.39.51 128.199.17.149 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.052845s][吞吐率：18.92req/s] [内存消耗：1,870.26kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:55:00+03:00 ] 172.31.39.51 5.182.210.92 GET /
+[ info ] 13.245.77.239/ [运行时间：0.025665s][吞吐率：38.96req/s] [内存消耗：1,873.51kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
+  'accept-language' => 'en;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:55:01+03:00 ] 172.31.39.51 5.182.210.92 POST /
+[ info ] 13.245.77.239/ [运行时间：0.079961s][吞吐率：12.51req/s] [内存消耗：1,876.60kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '44',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'authorization' => 'Basic MTVyWHc0dEVUQVdkelpzVnJpYks1aTNWMWpXc3AxVmNpVTp4',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
+  'accept-language' => 'en;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => '13.245.77.239',
+)
+[ info ] [ PARAM ] array (
+  '{"id":_1,_"method":_"getwork",_"params":_' => 
+  array (
+    0 => '',
+  ),
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:55:03+03:00 ] 172.31.39.51 5.182.210.92 POST /
+[ info ] 13.245.77.239/ [运行时间：0.023994s][吞吐率：41.68req/s] [内存消耗：1,876.65kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-length' => '48',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'authorization' => 'Basic MHhhZGRlNzgyNmI1MjU3OWYyOTZmMmFkMmNhOGQ1MmM1MGM5MWE1YWNmOng=',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
+  'accept-language' => 'en;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => '13.245.77.239',
+)
+[ info ] [ PARAM ] array (
+  '{"id":_1,_"method":_"eth_getWork",_"params":_' => 
+  array (
+    0 => '',
+  ),
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:55:04+03:00 ] 172.31.39.51 5.182.210.92 GET /WuEL
+[ info ] 13.245.77.239/WuEL [运行时间：0.022872s][吞吐率：43.72req/s] [内存消耗：1,918.84kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'WuEL',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cache-control' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'host' => '13.245.77.239',
+  'user-agent' => 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; ; NCLIENT50_AAPCDA5841E333)',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:55:15+03:00 ] 172.31.39.51 5.182.210.92 GET /a
+[ info ] 13.245.77.239/a [运行时间：0.023920s][吞吐率：41.81req/s] [内存消耗：1,923.36kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'a',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
+  'accept-language' => 'en;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:55:17+03:00 ] 172.31.39.51 5.182.210.92 GET /download/file.ext
+[ info ] 13.245.77.239/download/file.ext [运行时间：0.021222s][吞吐率：47.12req/s] [内存消耗：1,923.53kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'download',
+    1 => 'file.ext',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
+  'accept-language' => 'en;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:55:18+03:00 ] 172.31.39.51 5.182.210.92 GET /SiteLoader
+[ info ] 13.245.77.239/SiteLoader [运行时间：0.022925s][吞吐率：43.62req/s] [内存消耗：1,923.41kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'SiteLoader',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
+  'accept-language' => 'en;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T04:55:19+03:00 ] 172.31.39.51 5.182.210.92 GET /mPlayer
+[ info ] 13.245.77.239/mPlayer [运行时间：0.028684s][吞吐率：34.86req/s] [内存消耗：1,923.40kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mPlayer',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36',
+  'accept-language' => 'en;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T05:11:33+03:00 ] 172.31.39.51 152.89.196.211 GET /
+[ info ] 13.245.77.239:443/ [运行时间：0.023156s][吞吐率：43.19req/s] [内存消耗：1,870.34kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T05:35:52+03:00 ] 172.31.39.51 152.89.196.211 GET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21
+[ info ] 13.245.77.239:443/index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 [运行时间：0.023351s][吞吐率：42.82req/s] [内存消耗：1,920.72kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => '\\think\\app',
+    2 => 'invokefunction',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'function' => 'call_user_func_array',
+  'vars' => 
+  array (
+    0 => 'md5',
+    1 => 
+    array (
+      0 => 'HelloThinkPHP21',
+    ),
+  ),
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T05:54:21+03:00 ] 172.31.39.51 192.241.192.199 GET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f
+[ info ] 13.245.77.239/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f [运行时间：0.021973s][吞吐率：45.51req/s] [内存消耗：1,919.24kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'owa',
+    1 => 'auth',
+    2 => 'logon.aspx',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'url' => 'https://1/ecp/',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T06:20:37+03:00 ] 172.31.39.51 152.89.196.211 GET /?XDEBUG_SESSION_START=phpstorm
+[ info ] 13.245.77.239:443/?XDEBUG_SESSION_START=phpstorm [运行时间：0.024278s][吞吐率：41.19req/s] [内存消耗：1,871.42kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'XDEBUG_SESSION_START' => 'phpstorm',
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T06:39:19+03:00 ] 172.31.39.51 152.89.196.211 POST /mifs/.;/services/LogService
+[ info ] 13.245.77.239:443/mifs/.;/services/LogService [运行时间：0.032272s][吞吐率：30.99req/s] [内存消耗：1,922.20kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'mifs',
+    1 => '.;',
+    2 => 'services',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'referer' => 'https://13.245.77.239:443',
+  'content-type' => 'x-application/hessian',
+  'content-length' => '6',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T06:42:58+03:00 ] 172.31.39.51 152.89.196.211 GET /console/
+[ info ] 13.245.77.239:443/console/ [运行时间：0.029292s][吞吐率：34.14req/s] [内存消耗：1,919.27kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'console',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T06:48:50+03:00 ] 172.31.39.51 134.209.118.165 GET /ab2g
+[ info ] 13.245.77.239/ab2g [运行时间：0.023548s][吞吐率：42.47req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2g',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T06:48:51+03:00 ] 172.31.39.51 134.209.118.165 GET /ab2h
+[ info ] 13.245.77.239/ab2h [运行时间：0.024307s][吞吐率：41.14req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2h',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T06:48:57+03:00 ] 172.31.39.51 134.209.118.165 GET /
+[ info ] 13.245.77.239/ [运行时间：0.023633s][吞吐率：42.31req/s] [内存消耗：1,869.94kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T06:49:36+03:00 ] 172.31.39.51 152.89.196.211 POST /Autodiscover/Autodiscover.xml
+[ info ] 13.245.77.239:443/Autodiscover/Autodiscover.xml [运行时间：0.023034s][吞吐率：43.41req/s] [内存消耗：1,922.27kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Autodiscover',
+    1 => 'Autodiscover.xml',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'content-type' => 'application/xml',
+  'content-length' => '314',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T07:02:46+03:00 ] 172.31.39.51 152.89.196.211 GET /_ignition/execute-solution
+[ info ] 13.245.77.239:443/_ignition/execute-solution [运行时间：0.023171s][吞吐率：43.16req/s] [内存消耗：1,919.75kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '_ignition',
+    1 => 'execute-solution',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T07:14:05+03:00 ] 172.31.39.51 152.89.196.211 GET /
+[ info ] 13.245.77.239:443/ [运行时间：0.030961s][吞吐率：32.30req/s] [内存消耗：1,870.34kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T07:21:50+03:00 ] 172.31.39.51 152.89.196.211 GET /
+[ info ] 13.245.77.239:443/ [运行时间：0.042250s][吞吐率：23.67req/s] [内存消耗：1,870.88kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'content-type' => 'application/json',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T07:42:23+03:00 ] 172.31.39.51 152.89.196.211 GET /
+[ info ] 13.245.77.239:443/ [运行时间：0.020818s][吞吐率：48.04req/s] [内存消耗：1,870.34kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T08:27:14+03:00 ] 172.31.39.51 152.89.196.211 GET /actuator/gateway/routes
+[ info ] 13.245.77.239:443/actuator/gateway/routes [运行时间：0.024278s][吞吐率：41.19req/s] [内存消耗：1,919.44kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'actuator',
+    1 => 'gateway',
+    2 => 'routes',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T08:32:10+03:00 ] 172.31.39.51 34.78.6.216 GET /
+[ info ] 13.245.77.239/ [运行时间：0.021551s][吞吐率：46.40req/s] [内存消耗：1,872.91kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-datadog-sampling-priority' => '0',
+  'x-datadog-parent-id' => '16865169494951460374',
+  'x-datadog-trace-id' => '2091023968739659814',
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'python-requests/2.28.1',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T08:33:04+03:00 ] 172.31.39.51 154.209.125.119 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.021106s][吞吐率：47.38req/s] [内存消耗：1,870.18kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'keep-alive',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T08:40:07+03:00 ] 172.31.39.51 64.225.2.16 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.023348s][吞吐率：42.83req/s] [内存消耗：1,870.26kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T08:55:25+03:00 ] 172.31.39.51 128.14.209.162 GET /
+[ info ] 13.245.77.239/ [运行时间：0.032814s][吞吐率：30.47req/s] [内存消耗：1,870.25kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T09:35:21+03:00 ] 172.31.39.51 205.185.116.89 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.021206s][吞吐率：47.16req/s] [内存消耗：1,876.16kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'upgrade-insecure-requests' => '1',
+  'sec-gpc' => '1',
+  'referer' => 'http://44.240.60.24',
+  'dnt' => '1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'accept-language' => 'en;q=0.9',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T09:52:10+03:00 ] 172.31.39.51 65.49.20.103 GET /
+[ info ] 13.245.77.239/ [运行时间：0.032339s][吞吐率：30.92req/s] [内存消耗：1,870.25kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T10:03:39+03:00 ] 172.31.39.51 65.49.20.79 GET /favicon.ico
+[ info ] 13.245.77.239/favicon.ico [运行时间：0.024909s][吞吐率：40.15req/s] [内存消耗：1,919.16kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T10:49:37+03:00 ] 172.31.39.51 178.62.74.185 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.022790s][吞吐率：43.88req/s] [内存消耗：1,870.26kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T11:38:19+03:00 ] 172.31.39.51 209.145.49.53 GET /
+[ info ] 13.245.77.239:443/ [运行时间：0.025616s][吞吐率：39.04req/s] [内存消耗：1,870.01kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'libwww-perl/6.43',
+  'host' => '13.245.77.239:443',
+  'connection' => 'TE, close',
+  'te' => 'deflate,gzip;q=0.3',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T11:53:21+03:00 ] 172.31.39.51 192.241.197.157 GET /autodiscover/autodiscover.json?@zdi/Powershell
+[ info ] 13.245.77.239/autodiscover/autodiscover.json?@zdi/Powershell [运行时间：0.023088s][吞吐率：43.31req/s] [内存消耗：1,919.27kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'autodiscover',
+    1 => 'autodiscover.json',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '@zdi/Powershell' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T15:50:07+03:00 ] 172.31.39.51 128.199.47.153 GET /ab2g
+[ info ] 13.245.77.239/ab2g [运行时间：0.022563s][吞吐率：44.32req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2g',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T15:50:07+03:00 ] 172.31.39.51 128.199.47.153 GET /ab2h
+[ info ] 13.245.77.239/ab2h [运行时间：0.022696s][吞吐率：44.06req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2h',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T15:50:11+03:00 ] 172.31.39.51 128.199.47.153 GET /
+[ info ] 13.245.77.239/ [运行时间：0.026059s][吞吐率：38.37req/s] [内存消耗：1,869.94kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T16:07:21+03:00 ] 172.31.39.51 192.241.194.144 GET /actuator/health
+[ info ] 13.245.77.239/actuator/health [运行时间：0.024403s][吞吐率：40.98req/s] [内存消耗：1,918.70kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'actuator',
+    1 => 'health',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T18:25:55+03:00 ] 172.31.39.51 64.62.197.85 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.022994s][吞吐率：43.49req/s] [内存消耗：1,870.79kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T18:44:18+03:00 ] 172.31.39.51 137.184.174.220 GET /ab2g
+[ info ] 13.245.77.239/ab2g [运行时间：0.028959s][吞吐率：34.53req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2g',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T18:44:19+03:00 ] 172.31.39.51 137.184.174.220 GET /ab2h
+[ info ] 13.245.77.239/ab2h [运行时间：0.021091s][吞吐率：47.41req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2h',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T18:44:30+03:00 ] 172.31.39.51 137.184.174.220 GET /
+[ info ] 13.245.77.239/ [运行时间：0.051588s][吞吐率：19.38req/s] [内存消耗：1,869.94kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T20:04:01+03:00 ] 172.31.39.51 178.128.114.94 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.021214s][吞吐率：47.14req/s] [内存消耗：1,870.26kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T20:40:44+03:00 ] 172.31.39.51 123.57.13.121 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.027437s][吞吐率：36.45req/s] [内存消耗：1,870.78kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T22:18:35+03:00 ] 172.31.39.51 128.14.209.170 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.022274s][吞吐率：44.90req/s] [内存消耗：1,870.79kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T22:49:48+03:00 ] 172.31.39.51 65.1.227.157 POST /_ignition/execute-solution
+[ info ] 13.245.77.239:443/_ignition/execute-solution [运行时间：0.025397s][吞吐率：39.37req/s] [内存消耗：1,924.14kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '_ignition',
+    1 => 'execute-solution',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'content-type' => 'application/json',
+  'connection' => 'close',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept' => '*/*',
+  'content-length' => '155',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0',
+  'host' => '13.245.77.239:443',
+)
+[ info ] [ PARAM ] array (
+  'solution' => 'Facade\\Ignition\\Solutions\\MakeViewVariableOptionalSolution',
+  'parameters' => 
+  array (
+    'variableName' => 'username',
+    'viewFile' => '',
+  ),
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T22:49:49+03:00 ] 172.31.39.51 65.1.227.157 GET /
+[ info ] 13.245.77.239:443/ [运行时间：0.026980s][吞吐率：37.06req/s] [内存消耗：1,873.23kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'content-type' => '%{#context[\'com.opensymphony.xwork2.dispatcher.HttpServletResponse\'].addHeader(\'x0ohbvvh\',\'1\')}.multipart/form-data',
+  'connection' => 'close',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0',
+  'host' => '13.245.77.239:443',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T22:49:49+03:00 ] 172.31.39.51 65.1.227.157 GET /script
+[ info ] 13.245.77.239:443/script [运行时间：0.022837s][吞吐率：43.79req/s] [内存消耗：1,922.01kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'script',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T22:49:50+03:00 ] 172.31.39.51 65.1.227.157 GET /login
+[ info ] 13.245.77.239:443/login [运行时间：0.025817s][吞吐率：38.73req/s] [内存消耗：1,922.00kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'login',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'cookie' => 'think_var=zh-cn',
+  'connection' => 'close',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T22:49:51+03:00 ] 172.31.39.51 65.1.227.157 GET /jenkins/login
+[ info ] 13.245.77.239:443/jenkins/login [运行时间：0.023303s][吞吐率：42.91req/s] [内存消耗：1,922.11kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'jenkins',
+    1 => 'login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'cookie' => 'think_var=zh-cn',
+  'connection' => 'close',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T22:49:51+03:00 ] 172.31.39.51 65.1.227.157 GET /manager/html
+[ info ] 13.245.77.239:443/manager/html [运行时间：0.022953s][吞吐率：43.57req/s] [内存消耗：1,922.87kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'manager',
+    1 => 'html',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+  'authorization' => 'Basic OGhZVFNVRms6OGhZVFNVRms=',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-07T22:49:52+03:00 ] 172.31.39.51 65.1.227.157 GET /?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=x0ohbvvh
+[ info ] 13.245.77.239:443/?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=x0ohbvvh [运行时间：0.032625s][吞吐率：30.65req/s] [内存消耗：1,923.45kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Index',
+    1 => '\\think\\app',
+    2 => 'invokefunction',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+  'accept-language' => 'en-US,en;q=0.5',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'function' => 'call_user_func_array',
+  'vars' => 
+  array (
+    0 => 'md5',
+    1 => 
+    array (
+      0 => 'x0ohbvvh',
+    ),
+  ),
+)
+[ info ] [ LOG ] INIT File

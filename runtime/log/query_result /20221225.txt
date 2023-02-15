@@ -1,0 +1,5 @@
+2022-12-25 20:55:53
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"118508-117841009-1","ConversationID":"AG_20221225_205025d4e885d533a0ea","TransactionID":"QLP0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254722631623 - NICHOLAS KAGUO"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"e390bbb0-001f-4f03-b8b5-31c223f40924"},{"Key":"InitiatedTime","Value":20221225205545},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility with OD Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221225205548},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20221225_20403192f4dee5c9baab"},{"Key":"ReceiptNo","Value":"QLP81HILEC"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

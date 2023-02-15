@@ -1,0 +1,16 @@
+2022-11-09 11:09:06
+Array
+(
+    [code] => 0
+    [msg] => 设备信息不存在
+    [data] => Array
+        (
+            [ResultCode] => C2B00012
+            [ResultDesc] => Invalid Account Number
+        )
+
+)
+
+ 
+ 
+ 

@@ -1,0 +1,5 @@
+2022-11-28 09:56:57
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"32288-31403675-1","ConversationID":"AG_20221128_204037a6df9d91c805f8","TransactionID":"QKS8T84IUE","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QKS8T84IUE"},{"Key":"ReceiverPartyPublicName","Value":"254707717544 - PETER NDUNGU"},{"Key":"TransactionCompletedDateTime","Value":"28.11.2022 09:56:56"},{"Key":"B2CUtilityAccountAvailableFunds","Value":89146.52},{"Key":"B2CWorkingAccountAvailableFunds","Value":201.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

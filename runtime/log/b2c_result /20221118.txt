@@ -1,0 +1,13 @@
+2022-11-18 13:13:26
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"53741-1154132-1","ConversationID":"AG_20221118_2020246f5862bb23a5d7","TransactionID":"QKI76J61BT","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QKI76J61BT"},{"Key":"ReceiverPartyPublicName","Value":"0758555738 - LEI   WANG"},{"Key":"TransactionCompletedDateTime","Value":"18.11.2022 13:13:25"},{"Key":"B2CUtilityAccountAvailableFunds","Value":100832.03},{"Key":"B2CWorkingAccountAvailableFunds","Value":201.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-18 16:36:30
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"29302-1659545-1","ConversationID":"AG_20221118_2050474699ccd0053343","TransactionID":"QKI66ZZNK2","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QKI66ZZNK2"},{"Key":"ReceiverPartyPublicName","Value":"254723410467 - HADIK HEMENDRAKUMAR"},{"Key":"TransactionCompletedDateTime","Value":"18.11.2022 16:36:29"},{"Key":"B2CUtilityAccountAvailableFunds","Value":99917.76},{"Key":"B2CWorkingAccountAvailableFunds","Value":201.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-18 23:23:50
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"29289-2890904-1","ConversationID":"AG_20221118_20201837c5e6333b8a99","TransactionID":"QKI781LDOP","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QKI781LDOP"},{"Key":"ReceiverPartyPublicName","Value":"0759969322 - kenneth mutembei kirimi"},{"Key":"TransactionCompletedDateTime","Value":"18.11.2022 23:23:49"},{"Key":"B2CUtilityAccountAvailableFunds","Value":99003.49},{"Key":"B2CWorkingAccountAvailableFunds","Value":201.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

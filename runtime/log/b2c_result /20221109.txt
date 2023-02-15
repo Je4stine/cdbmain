@@ -1,0 +1,49 @@
+2022-11-09 11:09:07
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"4931-64805733-1","ConversationID":"AG_20221109_20300001db32a08d7b9f","TransactionID":"QK93KIF1AJ","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:09:17
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"4931-64805733-1","ConversationID":"AG_20221109_20300001db32a08d7b9f","TransactionID":"QK93KIF1AJ","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:09:28
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"4931-64805733-1","ConversationID":"AG_20221109_20300001db32a08d7b9f","TransactionID":"QK93KIF1AJ","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:09:38
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"4931-64805733-1","ConversationID":"AG_20221109_20300001db32a08d7b9f","TransactionID":"QK93KIF1AJ","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:26:39
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"4930-64848861-1","ConversationID":"AG_20221109_20305a5308e6f321fb41","TransactionID":"QK90000000","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:26:49
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"4930-64848861-1","ConversationID":"AG_20221109_20305a5308e6f321fb41","TransactionID":"QK90000000","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:27:00
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"4930-64848861-1","ConversationID":"AG_20221109_20305a5308e6f321fb41","TransactionID":"QK90000000","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:27:10
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"4930-64848861-1","ConversationID":"AG_20221109_20305a5308e6f321fb41","TransactionID":"QK90000000","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:28:48
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"45436-64710460-1","ConversationID":"AG_20221109_20706ac15ed44394043e","TransactionID":"QK91KJXTP5","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:28:58
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"45436-64710460-1","ConversationID":"AG_20221109_20706ac15ed44394043e","TransactionID":"QK91KJXTP5","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:29:09
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"45436-64710460-1","ConversationID":"AG_20221109_20706ac15ed44394043e","TransactionID":"QK91KJXTP5","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-11-09 11:29:19
+{"Result":{"ResultType":0,"ResultCode":21,"ResultDesc":"The initiator is not allowed to initiate this request.","OriginatorConversationID":"45436-64710460-1","ConversationID":"AG_20221109_20706ac15ed44394043e","TransactionID":"QK91KJXTP5","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

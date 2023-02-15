@@ -1,0 +1,10 @@
+---------------------------------------------------------------
+[ 2023-02-03T10:00:38+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000515s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000788s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('FS2206200289','FS2206200130','FS2206200141','FS2206200998','FS2206200563','FS2206201002')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000413s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000517s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT054210504240'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000398s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000394s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('FS2206200289','FS2206200130','FS2206200141','FS2206200998','FS2206200563','FS2206201002')  AND `not_delete` = 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1675407638  WHERE  `cabinet_id` = 'CT054210504240' [ RunTime:0.002821s ]

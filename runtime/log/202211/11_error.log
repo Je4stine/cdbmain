@@ -1,0 +1,63 @@
+---------------------------------------------------------------
+[ 2022-11-11T00:22:38+03:00 ] 172.31.39.51 45.134.144.48 GET ///remote/fgt_lang?lang=/../../../..//////////dev/
+[ error ] [2]is_file(): open_basedir restriction in effect. File(/data/wwwroot/cdb/thinkphp/lang//../../../..//////////dev/.php) is not within the allowed path(s): (/data/wwwroot/cdb/:/tmp/)[/data/wwwroot/cdb/thinkphp/library/think/Lang.php:83]
+---------------------------------------------------------------
+[ 2022-11-11T11:33:13+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T11:33:23+03:00 ] 172.31.39.51 196.201.213.44 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T11:33:34+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T11:33:44+03:00 ] 172.31.39.51 196.201.214.200 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T11:40:33+03:00 ] 172.31.39.51 196.201.212.74 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T11:40:44+03:00 ] 172.31.39.51 196.201.214.200 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T11:40:54+03:00 ] 172.31.39.51 196.201.212.74 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T11:41:05+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T11:52:30+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:156]
+---------------------------------------------------------------
+[ 2022-11-11T11:52:40+03:00 ] 172.31.39.51 196.201.212.74 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:156]
+---------------------------------------------------------------
+[ 2022-11-11T11:52:51+03:00 ] 172.31.39.51 196.201.212.129 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:156]
+---------------------------------------------------------------
+[ 2022-11-11T11:53:02+03:00 ] 172.31.39.51 196.201.214.200 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:156]
+---------------------------------------------------------------
+[ 2022-11-11T12:02:44+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T12:02:55+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T12:03:05+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T12:03:09+03:00 ] 172.31.39.51 196.201.213.44 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T12:03:15+03:00 ] 172.31.39.51 196.201.214.200 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T12:03:19+03:00 ] 172.31.39.51 196.201.214.206 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T12:03:30+03:00 ] 172.31.39.51 196.201.214.200 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]
+---------------------------------------------------------------
+[ 2022-11-11T12:03:40+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:271]

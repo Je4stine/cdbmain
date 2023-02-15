@@ -1,0 +1,52 @@
+2022-12-01 10:37:13
+{
+            "TransactionType": "Organization To Organization Transfer",
+            "TransID": "QL101ULCME",
+            "TransTime": "20221201103712",
+            "TransAmount": "9000.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "ANN",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 853",
+            "FirstName": "Ann   Wanjiru Mwangi"
+        }
+        
+ 
+ 
+ 2022-12-01 14:40:58
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QL182IUKNK",
+            "TransTime": "20221201144057",
+            "TransAmount": "50.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "0784941510",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 094",
+            "FirstName": "SAMUEL"
+        }
+        
+ 
+ 
+ 2022-12-01 19:15:25
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QL143GHBH0",
+            "TransTime": "20221201191524",
+            "TransAmount": "70.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "34494660",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 997",
+            "FirstName": "Justine"
+        }
+        
+ 
+ 
+ 

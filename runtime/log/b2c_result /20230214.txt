@@ -1,0 +1,9 @@
+2023-02-14 18:36:29
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"88252-74588733-1","ConversationID":"AG_20230214_207079a25f52bb444d6e","TransactionID":"RBE5NLVOAV","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":879.00},{"Key":"TransactionReceipt","Value":"RBE5NLVOAV"},{"Key":"ReceiverPartyPublicName","Value":"254722222422 - SAM MURIITHI"},{"Key":"TransactionCompletedDateTime","Value":"14.02.2023 18:36:28"},{"Key":"B2CUtilityAccountAvailableFunds","Value":51861.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-02-14 18:36:56
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"5518-242266416-1","ConversationID":"AG_20230214_2070138ed8fc4bf2e09a","TransactionID":"RBE2NLX4GU","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":909.00},{"Key":"TransactionReceipt","Value":"RBE2NLX4GU"},{"Key":"ReceiverPartyPublicName","Value":"254706644576 - RICHARD GACHII"},{"Key":"TransactionCompletedDateTime","Value":"14.02.2023 18:36:55"},{"Key":"B2CUtilityAccountAvailableFunds","Value":50948.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

@@ -1,0 +1,72 @@
+---------------------------------------------------------------
+[ 2022-11-08T12:11:50+03:00 ] 172.31.39.51 196.201.212.69 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:12:01+03:00 ] 172.31.39.51 196.201.214.206 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:12:11+03:00 ] 172.31.39.51 196.201.214.206 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:12:22+03:00 ] 172.31.39.51 196.201.212.69 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:14:19+03:00 ] 172.31.39.51 196.201.214.208 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:14:30+03:00 ] 172.31.39.51 196.201.214.200 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:14:40+03:00 ] 172.31.39.51 196.201.212.129 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:14:51+03:00 ] 172.31.39.51 196.201.213.44 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:17:12+03:00 ] 172.31.39.51 196.201.214.206 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:17:23+03:00 ] 172.31.39.51 196.201.214.206 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:17:33+03:00 ] 172.31.39.51 196.201.214.206 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:17:44+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:19:29+03:00 ] 172.31.39.51 196.201.212.74 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:19:40+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:19:50+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T12:20:01+03:00 ] 172.31.39.51 196.201.214.200 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T13:20:06+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T13:20:16+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T13:20:27+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T13:20:37+03:00 ] 172.31.39.51 196.201.214.200 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T13:21:56+03:00 ] 172.31.39.51 196.201.214.200 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T13:22:06+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T13:22:17+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]
+---------------------------------------------------------------
+[ 2022-11-08T13:22:27+03:00 ] 172.31.39.51 196.201.212.69 POST /app/callback/queryResult
+[ error ] [2]Invalid argument supplied for foreach()[/data/wwwroot/cdb/application/app/controller/Callback.php:155]

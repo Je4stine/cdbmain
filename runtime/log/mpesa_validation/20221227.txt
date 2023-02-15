@@ -1,0 +1,18 @@
+2022-12-27 09:23:43
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QLR7477VE9",
+            "TransTime": "20221227092343",
+            "TransAmount": "50.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "38897588",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 118",
+            "FirstName": "Winnie"
+        }
+        
+ 
+ 
+ 

@@ -1,0 +1,106 @@
+2023-02-02 01:09:26
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302020109259370
+            [device_num] => 8
+            [lock_id] => 1
+        )
+
+)
+
+ 
+ 
+ 2023-02-02 09:29:39
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302020929388045
+            [device_num] => 8
+            [lock_id] => 2
+        )
+
+)
+
+ 
+ 
+ 2023-02-02 14:10:50
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302021410483669
+            [device_num] => 8
+            [lock_id] => 2
+        )
+
+)
+
+ 
+ 
+ 2023-02-02 16:18:31
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302021618292159
+            [device_num] => 12
+            [lock_id] => 5
+        )
+
+)
+
+ 
+ 
+ 2023-02-02 17:45:49
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302021745474900
+            [device_num] => 8
+            [lock_id] => 3
+        )
+
+)
+
+ 
+ 
+ 2023-02-02 18:17:04
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302021817034918
+            [device_num] => 8
+            [lock_id] => 8
+        )
+
+)
+
+ 
+ 
+ 2023-02-02 21:11:49
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302022111489299
+            [device_num] => 8
+            [lock_id] => 7
+        )
+
+)
+
+ 
+ 
+ 

@@ -1,0 +1,18 @@
+2022-11-22 15:35:29
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QKM5FY3KR1",
+            "TransTime": "20221122153526",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "961156",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "999.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 

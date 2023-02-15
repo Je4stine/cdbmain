@@ -1,0 +1,31 @@
+2023-01-09 12:33:15
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301091233133430
+            [device_num] => 8
+            [lock_id] => 1
+        )
+
+)
+
+ 
+ 
+ 2023-01-09 15:37:18
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301091537178213
+            [device_num] => 8
+            [lock_id] => 3
+        )
+
+)
+
+ 
+ 
+ 

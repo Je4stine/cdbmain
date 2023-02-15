@@ -1,0 +1,3056 @@
+---------------------------------------------------------------
+[ 2022-11-02T07:07:19+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/login
+[ info ] cdb.mopawa.co.ke/cloud/Reception/login [运行时间：0.041020s][吞吐率：24.38req/s] [内存消耗：3,418.51kb] [文件加载：134]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------57efd40c54c7834a',
+  'content-length' => '1204',
+  'time' => '1667369238',
+  'key' => 'cf3243dab4b9c3f0966103ec731a8cdb',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'client_id' => '7f000001100600000001',
+  'md5' => '939beae985ba2c42',
+  'ccid' => '89860448041980033196',
+  'type' => 'zd',
+  'ip' => '39.144.14.220',
+  'soft_version' => 'FW_V199',
+  'hard_version' => 'HW_V100',
+  'hard_type' => 'CT02',
+  'signal' => '25',
+  'bn' => '1',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->login[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:07:20+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.069665s][吞吐率：14.35req/s] [内存消耗：3,597.94kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------040fa4fa307c0743',
+  'content-length' => '818',
+  'time' => '1667369240',
+  'key' => 'fe93c70481605f7cea0a9a12924fb837',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":50,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":50,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:07:49+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/set/info
+[ info ] cdb.mopawa.co.ke/operate/set/info [运行时间：0.097200s][吞吐率：10.29req/s] [内存消耗：3,267.20kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'set',
+    2 => 'info',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '21',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'basic_info',
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Set->info[ /data/wwwroot/cdb/application/operate/controller/Set.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:07:49+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/user/detail
+[ info ] cdb.mopawa.co.ke/operate/user/detail [运行时间：0.087488s][吞吐率：11.43req/s] [内存消耗：3,165.33kb] [文件加载：133]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'user',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '2',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\User->detail[ /data/wwwroot/cdb/application/operate/controller/User.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:07:49+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/set/info
+[ info ] cdb.mopawa.co.ke/operate/set/info [运行时间：0.102264s][吞吐率：9.78req/s] [内存消耗：3,268.13kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'set',
+    2 => 'info',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '17',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'charge',
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Set->info[ /data/wwwroot/cdb/application/operate/controller/Set.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:07:52+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.044516s][吞吐率：22.46req/s] [内存消耗：3,846.03kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '125',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:07:55+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.047218s][吞吐率：21.18req/s] [内存消耗：3,820.25kb] [文件加载：140]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '125',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '',
+  'qrcode' => '',
+  'is_online' => 1,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:04+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.052532s][吞吐率：19.04req/s] [内存消耗：3,820.25kb] [文件加载：140]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '130',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '49019',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:09+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/info
+[ info ] cdb.mopawa.co.ke/operate/equipment/info [运行时间：0.046142s][吞吐率：21.67req/s] [内存消耗：3,213.42kb] [文件加载：133]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'info',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '8',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'id' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->info[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:11+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/add
+[ info ] cdb.mopawa.co.ke/operate/equipment/add [运行时间：0.056471s][吞吐率：17.71req/s] [内存消耗：3,613.63kb] [文件加载：137]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '139',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'qrcode' => 'CT021907049019',
+  'model' => 'zs6',
+  'device_num' => 6,
+  'agency_id' => -1,
+  'employee_id' => 0,
+  'sid' => '',
+  'is_fault' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->add[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:11+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.057167s][吞吐率：17.49req/s] [内存消耗：3,846.06kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '130',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '49019',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:15+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.048321s][吞吐率：20.69req/s] [内存消耗：3,594.81kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------7c246ebc746408dd',
+  'content-length' => '818',
+  'time' => '1667369295',
+  'key' => '90a0f8933a030e46960062dcce62b3a7',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":50,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":50,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:18+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/detail
+[ info ] cdb.mopawa.co.ke/operate/equipment/detail [运行时间：4.044403s][吞吐率：0.25req/s] [内存消耗：3,864.73kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '8',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'id' => 1,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->detail[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:23+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/borrowDevice
+[ info ] cdb.mopawa.co.ke/cloud/Reception/borrowDevice [运行时间：0.032791s][吞吐率：30.50req/s] [内存消耗：2,706.73kb] [文件加载：130]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'borrowDevice',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------d2e2e92b721d7443',
+  'content-length' => '633',
+  'time' => '1667369303',
+  'key' => '3a2b1cd860d6fac05c4430cf0f41a590',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'lock_id' => '5',
+  'finally' => '1',
+  'aims' => '0',
+  'hex' => '',
+  'error' => '',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->borrowDevice[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:23+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.059758s][吞吐率：16.73req/s] [内存消耗：3,594.72kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------d150ebd75f156c52',
+  'content-length' => '762',
+  'time' => '1667369303',
+  'key' => '3a2b1cd860d6fac05c4430cf0f41a590',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '4',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":50,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":50,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:23+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/operate
+[ info ] cdb.mopawa.co.ke/operate/equipment/operate [运行时间：2.868997s][吞吐率：0.35req/s] [内存消耗：3,986.61kb] [文件加载：139]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'operate',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '47',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'type' => 'borrow',
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->operate[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:25+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.046272s][吞吐率：21.61req/s] [内存消耗：3,594.72kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------671ec2541e7052e6',
+  'content-length' => '762',
+  'time' => '1667369305',
+  'key' => '5878c9418ea2f5a33a49115a31d98fc4',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '4',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":50,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":50,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:27+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/returnBattery
+[ info ] cdb.mopawa.co.ke/cloud/Reception/returnBattery [运行时间：0.063197s][吞吐率：15.82req/s] [内存消耗：3,361.36kb] [文件加载：131]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'returnBattery',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------428eca61ec4f9fb0',
+  'content-length' => '560',
+  'time' => '1667369307',
+  'key' => 'd97832230040a19d54dad79a50ab5236',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'battery_id' => 'LC2111422595',
+  'lock_id' => '5',
+  'producer' => 'zd',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->returnBattery[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:27+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.093090s][吞吐率：10.74req/s] [内存消耗：3,598.05kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------ea8e3b53d7bb945c',
+  'content-length' => '818',
+  'time' => '1667369307',
+  'key' => 'd97832230040a19d54dad79a50ab5236',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":50,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":50,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:28+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/detail
+[ info ] cdb.mopawa.co.ke/operate/equipment/detail [运行时间：4.040986s][吞吐率：0.25req/s] [内存消耗：3,864.73kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '8',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'id' => 1,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->detail[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:08:33+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.065105s][吞吐率：15.36req/s] [内存消耗：3,846.06kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '130',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '49019',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:09:09+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/login
+[ info ] cdb.mopawa.co.ke/cloud/Reception/login [运行时间：0.043539s][吞吐率：22.97req/s] [内存消耗：3,419.17kb] [文件加载：134]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------7d994a554e4857b4',
+  'content-length' => '1204',
+  'time' => '1667369348',
+  'key' => '1f501f98bef99355ea5d4db01c6c49f8',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'client_id' => '7f000001100500000001',
+  'md5' => '939beae985ba2c42',
+  'ccid' => '89860448041980033196',
+  'type' => 'zd',
+  'ip' => '39.144.14.220',
+  'soft_version' => 'FW_V199',
+  'hard_version' => 'HW_V100',
+  'hard_type' => 'CT02',
+  'signal' => '25',
+  'bn' => '1',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->login[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T07:09:10+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.049010s][吞吐率：20.40req/s] [内存消耗：3,594.81kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------ef1b4aa761b76b41',
+  'content-length' => '818',
+  'time' => '1667369350',
+  'key' => 'c636c3dbae04444577fc7e4ae586142a',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":50,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":50,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:20:03+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/user/detail
+[ info ] cdb.mopawa.co.ke/operate/user/detail [运行时间：0.084018s][吞吐率：11.90req/s] [内存消耗：3,164.38kb] [文件加载：133]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'user',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '2',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\User->detail[ /data/wwwroot/cdb/application/operate/controller/User.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:20:03+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.094478s][吞吐率：10.58req/s] [内存消耗：3,845.08kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '125',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:20:08+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.057186s][吞吐率：17.49req/s] [内存消耗：3,845.08kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '125',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:20:16+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.056236s][吞吐率：17.78req/s] [内存消耗：3,845.08kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '125',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:20:17+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.045499s][吞吐率：21.98req/s] [内存消耗：3,845.08kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '125',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:23:48+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/detail
+[ info ] cdb.mopawa.co.ke/operate/equipment/detail [运行时间：4.051076s][吞吐率：0.25req/s] [内存消耗：3,863.78kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'detail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '8',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'id' => 1,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->detail[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:23:49+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.052628s][吞吐率：19.00req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------24356cc0a0cc7c05',
+  'content-length' => '818',
+  'time' => '1667370229',
+  'key' => '543e3bc3b330b8371722f06037317550',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":50,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":50,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:23:51+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.077943s][吞吐率：12.83req/s] [内存消耗：3,845.08kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '125',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:31:05+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ info ] cdb.mopawa.co.ke/operate/equipment/index?page=1 [运行时间：0.044973s][吞吐率：22.24req/s] [内存消耗：3,845.08kb] [文件加载：141]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'operate',
+    1 => 'equipment',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'te' => 'trailers',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'cors',
+  'sec-fetch-dest' => 'empty',
+  'referer' => 'https://cdb.mopawa.co.ke/oa/',
+  'origin' => 'https://cdb.mopawa.co.ke',
+  'content-length' => '125',
+  'ocode' => 'malta',
+  'token' => 'TG0C6fAOr9',
+  'content-type' => 'application/json;charset=utf-8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'page_size' => 20,
+  'cabinet_id' => '',
+  'qrcode' => '',
+  'is_online' => 0,
+  'model' => '',
+  'agency_id' => '',
+  'employee_id' => 0,
+  'sid' => '',
+  'outline_day' => 0,
+)
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/operate/lang/zh-cn.php
+[ info ] [ DB ] INIT mysql
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\operate\controller\Equipment->index[ /data/wwwroot/cdb/application/operate/controller/Equipment.php ]
+[ info ] [ CACHE ] INIT redis
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:36:27+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.053201s][吞吐率：18.80req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------59c13f68f7d53201',
+  'content-length' => '818',
+  'time' => '1667370986',
+  'key' => '5da241d3dcde4eeeb0818655fe28e47b',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":50,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":50,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:46:42+03:00 ] 172.31.39.51 51.159.164.227 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.033457s][吞吐率：29.89req/s] [内存消耗：1,869.89kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:47:12+03:00 ] 172.31.39.51 205.210.31.17 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.030199s][吞吐率：33.11req/s] [内存消耗：1,871.11kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'referer' => 'http://44.240.60.24:80/',
+  'user-agent' => 'Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:59:58+03:00 ] 172.31.39.51 167.94.138.118 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.022665s][吞吐率：44.12req/s] [内存消耗：1,870.15kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T09:59:59+03:00 ] 172.31.39.51 167.94.138.118 GET /favicon.ico
+[ info ] www.mopawa.co.ke/favicon.ico [运行时间：0.022650s][吞吐率：44.15req/s] [内存消耗：1,918.80kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T10:06:27+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.052307s][吞吐率：19.12req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------30616bb6060c263c',
+  'content-length' => '818',
+  'time' => '1667372787',
+  'key' => '40b791ea6a6d80fa36fa9d944db73d21',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":60,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":60,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T10:08:53+03:00 ] 172.31.39.51 165.22.74.158 GET /ab2g
+[ info ] 13.245.77.239/ab2g [运行时间：0.042956s][吞吐率：23.28req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2g',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T10:08:53+03:00 ] 172.31.39.51 165.22.74.158 GET /ab2h
+[ info ] 13.245.77.239/ab2h [运行时间：0.024925s][吞吐率：40.12req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2h',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T10:08:57+03:00 ] 172.31.39.51 165.22.74.158 GET /
+[ info ] 13.245.77.239/ [运行时间：0.023338s][吞吐率：42.85req/s] [内存消耗：1,869.94kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T10:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.054461s][吞吐率：18.36req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------4a5dec4f4040f97b',
+  'content-length' => '818',
+  'time' => '1667374586',
+  'key' => 'c4b0e40a12558216049ab1d8de7f042b',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":70,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":70,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T11:06:27+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.065795s][吞吐率：15.20req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------00ccaa51ba8dc97d',
+  'content-length' => '818',
+  'time' => '1667376387',
+  'key' => 'b3088cfaf32708f6b00430ca105b4e94',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T11:09:25+03:00 ] 172.31.39.51 128.1.248.26 GET /Telerik.Web.UI.WebResource.axd?type=rau
+[ info ] 13.245.77.239/Telerik.Web.UI.WebResource.axd?type=rau [运行时间：0.027848s][吞吐率：35.91req/s] [内存消耗：1,919.71kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'Telerik.Web.UI.WebResource.axd',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'rau',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T11:33:02+03:00 ] 172.31.39.51 43.129.97.125 GET /
+[ info ] 13.245.77.239/ [运行时间：0.032270s][吞吐率：30.99req/s] [内存消耗：1,870.16kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => '\'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0\'',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T11:36:27+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.054715s][吞吐率：18.28req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------f52096a2112c445c',
+  'content-length' => '818',
+  'time' => '1667378186',
+  'key' => '23811eff27ce1c29d59ca28bd93bf6a0',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T12:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.047389s][吞吐率：21.10req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------561c535e86ff0373',
+  'content-length' => '818',
+  'time' => '1667379986',
+  'key' => 'fcafb56a2f46e982151f88fda43b10d1',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T12:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.042718s][吞吐率：23.41req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------89ecaecde2c0f5f9',
+  'content-length' => '818',
+  'time' => '1667381786',
+  'key' => '74a4537d0131d66dde826db3f8e9f7c8',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T12:43:36+03:00 ] 172.31.39.51 74.82.47.56 GET /
+[ info ] 13.245.77.239/ [运行时间：0.025006s][吞吐率：39.99req/s] [内存消耗：1,870.31kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T12:53:46+03:00 ] 172.31.39.51 74.82.47.60 GET /favicon.ico
+[ info ] 13.245.77.239/favicon.ico [运行时间：0.031795s][吞吐率：31.45req/s] [内存消耗：1,918.81kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:104.0) Gecko/20100101 Firefox/104.0',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T13:00:32+03:00 ] 172.31.39.51 192.241.206.47 GET /autodiscover/autodiscover.json?@zdi/Powershell
+[ info ] 13.245.77.239/autodiscover/autodiscover.json?@zdi/Powershell [运行时间：0.021059s][吞吐率：47.49req/s] [内存消耗：1,919.27kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'autodiscover',
+    1 => 'autodiscover.json',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  '@zdi/Powershell' => '',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T13:02:28+03:00 ] 172.31.39.51 223.111.175.35 GET /
+[ info ] mail.mopawa.co.ke/ [运行时间：0.048989s][吞吐率：20.41req/s] [内存消耗：1,869.47kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => '*/*',
+  'host' => 'mail.mopawa.co.ke',
+  'user-agent' => 'curl/7.29.0',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T13:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.065585s][吞吐率：15.25req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------6633400ed8881925',
+  'content-length' => '818',
+  'time' => '1667383586',
+  'key' => 'ad60c1603411aeda77983a75a7b9337b',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T13:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.052062s][吞吐率：19.21req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------81f8b530a476ac4d',
+  'content-length' => '818',
+  'time' => '1667385386',
+  'key' => 'f8336fa6c331ce79a316d3b4a749c0eb',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T14:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.047513s][吞吐率：21.05req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------d572baa7b2bf0e70',
+  'content-length' => '818',
+  'time' => '1667387186',
+  'key' => 'f308dd0ca9b299e4dcb3af3fd109b27d',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T14:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.043334s][吞吐率：23.08req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------7046b6cecc1d27e2',
+  'content-length' => '818',
+  'time' => '1667388986',
+  'key' => '857a734b3a953270cc29bae3bb22b3ee',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T15:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.044211s][吞吐率：22.62req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------bb11d49fcdbb78cd',
+  'content-length' => '818',
+  'time' => '1667390786',
+  'key' => '0d7141ff9c6de676c770881627e14318',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T15:16:02+03:00 ] 172.31.39.51 128.14.141.34 GET /remote/login
+[ info ] 13.245.77.239/remote/login [运行时间：0.021015s][吞吐率：47.59req/s] [内存消耗：1,919.22kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'remote',
+    1 => 'login',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T15:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.042730s][吞吐率：23.40req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------9aa2e11b2f651a81',
+  'content-length' => '818',
+  'time' => '1667392586',
+  'key' => '0f286476ef8a70824b4f8f4d10d60bb7',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T16:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.044026s][吞吐率：22.71req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------1b86fd7db94d7ac8',
+  'content-length' => '818',
+  'time' => '1667394385',
+  'key' => 'ee3ce6ceced58e38e013f2ec44cf0915',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T16:19:48+03:00 ] 172.31.39.51 128.14.209.162 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.021458s][吞吐率：46.60req/s] [内存消耗：1,870.79kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T16:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.057137s][吞吐率：17.50req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------4603ca1e25389a7d',
+  'content-length' => '818',
+  'time' => '1667396186',
+  'key' => '29ca600483f40217fb3a695f6e2fb5a3',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T16:48:26+03:00 ] 172.31.39.51 159.75.163.228 GET /
+[ info ] cdb.mopawa.co.ke/ [运行时间：0.044128s][吞吐率：22.66req/s] [内存消耗：1,876.89kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'en-US,en;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'sec-fetch-dest' => 'document',
+  'sec-fetch-user' => '?1',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-site' => 'none',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'upgrade-insecure-requests' => '1',
+  'sec-ch-ua-platform' => '"Linux"',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"',
+  'host' => 'cdb.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T16:48:29+03:00 ] 172.31.39.51 159.75.163.228 GET /favicon.ico
+[ info ] cdb.mopawa.co.ke/favicon.ico [运行时间：0.023887s][吞吐率：41.86req/s] [内存消耗：1,926.38kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'favicon.ico',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'think_var=zh-cn',
+  'accept-language' => 'en-US,en;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'https://cdb.mopawa.co.ke/',
+  'sec-fetch-dest' => 'image',
+  'sec-fetch-mode' => 'no-cors',
+  'sec-fetch-site' => 'same-origin',
+  'accept' => 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'sec-ch-ua-platform' => '"Linux"',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-ch-ua-mobile' => '?0',
+  'sec-ch-ua' => '"Google Chrome";v="93", " Not;A Brand";v="99", "Chromium";v="93"',
+  'host' => 'cdb.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T17:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.063298s][吞吐率：15.80req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------5004c99824ebec70',
+  'content-length' => '818',
+  'time' => '1667397986',
+  'key' => 'fba44d2b6a7f2e2deb36e8e6eb4fdcaf',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T17:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.086977s][吞吐率：11.50req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------93ec498f127c4582',
+  'content-length' => '818',
+  'time' => '1667399785',
+  'key' => '02c2911dd7c3514be8de50602400b988',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T17:53:15+03:00 ] 172.31.39.51 128.14.134.170 GET /
+[ info ] 13.245.77.239/ [运行时间：0.030440s][吞吐率：32.85req/s] [内存消耗：1,870.25kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T18:06:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.079894s][吞吐率：12.52req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------c4a5f006f02060c4',
+  'content-length' => '818',
+  'time' => '1667401585',
+  'key' => '0ae1125557029ba3521ebc87a03cb519',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T18:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.058654s][吞吐率：17.05req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------e5de630383cd83c8',
+  'content-length' => '818',
+  'time' => '1667403385',
+  'key' => '6780afef8ca9244a86c7be6c2585c032',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T19:06:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.054785s][吞吐率：18.25req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------cbb53181f6c436f4',
+  'content-length' => '818',
+  'time' => '1667405185',
+  'key' => '9914c9f367a00695142d69ca8f18c540',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T19:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.045727s][吞吐率：21.87req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------fb7a183a28fca1e3',
+  'content-length' => '818',
+  'time' => '1667406985',
+  'key' => '283c7c12dbb7d2153f3e4e0651c795c9',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T20:00:22+03:00 ] 172.31.39.51 192.241.202.131 GET /owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f
+[ info ] 13.245.77.239/owa/auth/logon.aspx?url=https%3a%2f%2f1%2fecp%2f [运行时间：0.024042s][吞吐率：41.59req/s] [内存消耗：1,919.24kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'owa',
+    1 => 'auth',
+    2 => 'logon.aspx',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+  'url' => 'https://1/ecp/',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T20:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.053563s][吞吐率：18.67req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------bccfc903a410c979',
+  'content-length' => '818',
+  'time' => '1667408786',
+  'key' => '571ccf411c4920a2848d236812ae0c29',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T20:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.052957s][吞吐率：18.88req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------2131ba14a9853f71',
+  'content-length' => '818',
+  'time' => '1667410585',
+  'key' => 'f21c0fb24b7b7b673ed6f961ee18b05e',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T20:39:07+03:00 ] 172.31.39.51 123.57.13.121 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.022470s][吞吐率：44.50req/s] [内存消耗：1,870.78kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T20:39:22+03:00 ] 172.31.39.51 128.14.134.170 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.024535s][吞吐率：40.76req/s] [内存消耗：1,870.79kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T21:06:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.047326s][吞吐率：21.13req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------f53f370a95b78272',
+  'content-length' => '818',
+  'time' => '1667412385',
+  'key' => '422f7c4d6377d6742b1026e9759047cc',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T21:34:37+03:00 ] 172.31.39.51 128.199.156.215 GET /ab2g
+[ info ] 13.245.77.239/ab2g [运行时间：0.022814s][吞吐率：43.83req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2g',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T21:34:38+03:00 ] 172.31.39.51 128.199.156.215 GET /ab2h
+[ info ] 13.245.77.239/ab2h [运行时间：0.021455s][吞吐率：46.61req/s] [内存消耗：1,918.55kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'ab2h',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T21:34:46+03:00 ] 172.31.39.51 128.199.156.215 GET /
+[ info ] 13.245.77.239/ [运行时间：0.039085s][吞吐率：25.59req/s] [内存消耗：1,869.94kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T21:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.043941s][吞吐率：22.76req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------9bb884a35b867494',
+  'content-length' => '818',
+  'time' => '1667414185',
+  'key' => 'c715911c6a56c588775927a60d55bf7d',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T22:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.046683s][吞吐率：21.42req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------ae8847ed75bf76b7',
+  'content-length' => '818',
+  'time' => '1667415985',
+  'key' => '420b14caa27a6ac20085702adb9e4273',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T22:15:16+03:00 ] 172.31.39.51 198.235.24.22 GET /
+[ info ] 13.245.77.239:443/ [运行时间：0.022156s][吞吐率：45.13req/s] [内存消耗：1,870.59kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com',
+  'host' => '13.245.77.239:443',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T22:27:56+03:00 ] 172.31.39.51 35.187.15.145 POST /api/report
+[ info ] 13.245.77.239/api/report [运行时间：0.031367s][吞吐率：31.88req/s] [内存消耗：1,920.30kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'report',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'content-type' => 'application/json',
+  'content-length' => '1024',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
+  'host' => '13.245.77.239',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T22:36:00+03:00 ] 172.31.39.51 89.248.165.169 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.034510s][吞吐率：28.98req/s] [内存消耗：1,870.79kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'referer' => 'http://44.240.60.24/',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T22:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.065190s][吞吐率：15.34req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------091ccdeb50a1a6cf',
+  'content-length' => '818',
+  'time' => '1667417785',
+  'key' => 'aad0a5c0c2f1e8a434134bd93a25fc06',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T23:06:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.058558s][吞吐率：17.08req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------37e89098627c5bbf',
+  'content-length' => '818',
+  'time' => '1667419585',
+  'key' => 'e4b8c899846291db019d2449e70cb47f',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T23:07:49+03:00 ] 172.31.39.51 58.17.6.9 GET /
+[ info ] www.mopawa.co.ke/ [运行时间：0.021908s][吞吐率：45.65req/s] [内存消耗：1,870.77kb] [文件加载：112]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'close',
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'UCWEB/2.0 (Java; U; MIDP-2.0; Nokia203/20.37) U2/1.0.0 UCMini/11.1.0.1041 (SpeedMode; Proxy; Android 7.1.2; DLI-TL20 ) U2/1.0.0 Mobile',
+  'host' => 'www.mopawa.co.ke',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /data/wwwroot/cdb/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T23:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.096507s][吞吐率：10.36req/s] [内存消耗：3,593.86kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------8152cb174c68e4c0',
+  'content-length' => '818',
+  'time' => '1667421384',
+  'key' => 'a9a10edcb30748cb90372b0bb3a7b4cb',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT021907049019',
+  'stock_num' => '5',
+  'details' => '{"2":{"battery_id":"CT1905111118","power":80,"fault":0},"3":{"battery_id":"BT1905210007","power":100,"fault":0},"4":{"battery_id":"CT1905111575","power":80,"fault":0},"5":{"battery_id":"LC2111422595","power":100,"fault":0},"6":{"battery_id":"LC2104169034","power":90,"fault":0}}',
+  'hex' => '',
+  'aims' => '0',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2022-11-02T23:58:06+03:00 ] 172.31.39.51 192.241.205.175 GET /version
+[ info ] 13.245.77.239/version [运行时间：0.024474s][吞吐率：40.86req/s] [内存消耗：1,918.58kb] [文件加载：114]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'version',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'accept' => '*/*',
+  'user-agent' => 'Mozilla/5.0 zgrab/0.x',
+  'host' => '13.245.77.239',
+  'content-type' => '',
+  'content-length' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File

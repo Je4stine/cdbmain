@@ -1,0 +1,127 @@
+2023-01-11 11:16:16
+https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+ 
+ 
+ 2023-01-11 11:16:16
+Array
+(
+    [Initiator] => peterwanglei
+    [SecurityCredential] => JFPYmYV23kzMGm3zQhVVicE0qs6Ekj54T3fMAn1g+Q1ZFMzhsDRyzUdk8vSUSTdjIaItvxoSUfzIzIgx6/51DAwfe17rGYgFwMcxtPSTVv6YCOhyy5mujgC4sdLZc79B1jJZnRfa4d59WGBTYHL9wfTBA6Te56VxZFIclj0O2UnMF1LYJ6OnX8dvgxmrYfdlJFPwCVS75pDtCcyYED2fq0s+5gLdTxs43+qlMWmc5rZno7KNb//fhzKZyLsWewSuBO08/3+RuiYhk1NIMbpiF/baR1OoeIsMwDLn3yHq6+jSBmbcdp1yDGSPZ/Q/xKgl6edZc6mBT1RqEhVe3lBiyw==
+    [CommandID] => TransactionStatusQuery
+    [TransactionID] => RAB05KY10A
+    [PartyA] => 444333
+    [IdentifierType] => 4
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/queryResult
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/queryQueue
+    [Remarks] => test
+    [Occassion] => 
+)
+
+ 
+ 
+ 2023-01-11 11:16:16
+{
+            "OriginatorConversationID": "12426-173686187-1",
+            "ConversationID": "AG_20230111_20601edacc59de9231ab",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+ 
+ 
+ 2023-01-11 11:30:53
+https://api.safaricom.co.ke/mpesa/b2c/v1/paymentrequest
+ 
+ 
+ 2023-01-11 11:30:53
+Array
+(
+    [InitiatorName] => ppyutian
+    [SecurityCredential] => GRIYaJ9jo0afaISYqK48sU3pFqbT1KrSxl+51QYNYedfOGDrkHsdgtc8VZC/Z0Kx8p0KxMH40Pr1z/ccYF9gJh1AcWCUIoPanUFPmDoJy9s7rOE7dDEikVs+Pxp9ZkSaD++tT0B0Zlj0xa9w3AF72Tz6WJIHsDkA9kvX5sTILIJzHs72I/RlnvhWh5hLPKuRQfk857Dzeq1o3tfimyIDQp5b+Hn5U0NeDcfoHKuMo9+oUbjLdaZsuu+lL8wM8+TTpwj0LS39uSw7jGRdFXjSUgSWIu1yEkfzEaOZpLRPT+kWHQABFakj+9XYyzH4Nj/8AJO74r18JJKCY+0cfwjw7w==
+    [CommandID] => BusinessPayment
+    [Amount] => 999.00
+    [PartyA] => 3035609
+    [PartyB] => 254720044830
+    [Remarks] => refund
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/b2cQueue
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/b2cResult
+    [Occassion] => 
+)
+
+ 
+ 
+ 2023-01-11 11:30:53
+{
+            "ConversationID": "AG_20230111_20600b229db1978162bf",
+            "OriginatorConversationID": "2286-167636680-1",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+        }
+        
+ 
+ 
+ 2023-01-11 12:14:25
+https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+ 
+ 
+ 2023-01-11 12:14:25
+Array
+(
+    [Initiator] => peterwanglei
+    [SecurityCredential] => BCrOmXkP1wMN87mq/LtpR69e2Tt0xrof+YXds907ElSrn13D4YQneymnpFXg4Y/IyLdTTRJ8++1TuFekyUmDH+vEg7TvUVBmHrJ/jGLdx5QarIHcG50WNnOUP2I1cgSHnxoU+85mtxQpGOa1zZMVZd3z2Az9u8r3YEEzqqMIckM7cbLlK8pkr592TT71mv8PQkMKpvAW6hkgoz2JuY1O8lJAZP78/63xkQ2wa9QrAhrvDsMAt5Wec1A/s2E4n4s3vkQSL3PX7n5Z7CcVGM+ryQBTV8x+0Dx4ELBxwIuNWL2PYmcr9DJ546P/c7X+gan6LW62aYoHfgkBPC3ud3ZIMw==
+    [CommandID] => TransactionStatusQuery
+    [TransactionID] => RAB45PUTLO
+    [PartyA] => 444333
+    [IdentifierType] => 4
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/queryResult
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/queryQueue
+    [Remarks] => test
+    [Occassion] => 
+)
+
+ 
+ 
+ 2023-01-11 12:14:25
+{
+            "OriginatorConversationID": "25141-124614161-1",
+            "ConversationID": "AG_20230111_20505902284fe229634d",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+ 
+ 
+ 2023-01-11 12:17:57
+https://api.safaricom.co.ke/mpesa/b2c/v1/paymentrequest
+ 
+ 
+ 2023-01-11 12:17:57
+Array
+(
+    [InitiatorName] => ppyutian
+    [SecurityCredential] => Dua/fMmZd0mF51wkoLvY4lakq8eUGj6jxHz4mobruOAoBDafqSi1kznMmKk9PHVI3eGFfvA25nRPDzcO9sBu73pXfOLYhKhjofPD5uo1NRjF6yIiNhPUs0mGt+NdTB+RCCaNTSTeUHML2UfQQPi3vsKNgx9C2S7NjH2slNKdTIhDXewmgFPckJYaXt0tiMmq+ISbgGKNau7RCkCVShb0dgPuIah5bJ1Acyy9fBBhENxEYZY1nfL8Eh9LPcBkeSAdW0f0R/bJFL9hdwOErHet5PmquLVs6J3oGefARfcorMccm6YZ8O6LqcdYdk0qv9SLQiwxYoH6UBogx9YqQ1w7Iw==
+    [CommandID] => BusinessPayment
+    [Amount] => 999.00
+    [PartyA] => 3035609
+    [PartyB] => 254720044830
+    [Remarks] => refund
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/b2cQueue
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/b2cResult
+    [Occassion] => 
+)
+
+ 
+ 
+ 2023-01-11 12:17:57
+{
+            "ConversationID": "AG_20230111_2070416f51a34194bef0",
+            "OriginatorConversationID": "25159-124624051-1",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+        }
+        
+ 
+ 
+ 

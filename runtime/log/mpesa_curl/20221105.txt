@@ -1,0 +1,76 @@
+2022-11-05 14:13:29
+https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+ 
+ 
+ 2022-11-05 14:13:29
+Array
+(
+    [Initiator] => wanglei
+    [SecurityCredential] => N0Vi+96VszYJ45iVl8u/4BS3CpCkE1rDTT2DQGMzY3bo3ilUwzxuctWjYnWeARNevvO4Mm/tP1O3vqhN8p8F31Djji4925kCOE+byS4wxJkEO3yITvtD7mUw1CVgDxXjPm2VmVRgBf4v1y6/T72uEfjtfFcA9/Xf+WIN8bLP3hiHGccj3Q81AqLLQp5hCIjgfNXx73rWvVtjwEZfd0kcg0Hf9OA+2h+wIUjCbxAwJ+Tl1t+DXkb3ThNAvqoREB5PpelkvFGyy0Gw8/DjxFKG1EazAseTV3cJz9I98hswpXq/BAzMh9lADVRsCzo0xbZGbBV6IJ4d0MV/WMXdCKF7Xw==
+    [CommandID] => TransactionStatusQuery
+    [TransactionID] => 
+    [PartyA] => 444333
+    [IdentifierType] => 4
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/queryResult
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/queryQueue
+    [Remarks] => test
+    [Occassion] => 
+)
+
+ 
+ 
+ 2022-11-05 14:13:29
+{"fault":{"faultstring":"Execution of JS-ValidateRequest failed with error: Exception thrown from JavaScript : false (ValidateRequest_js#38)","detail":{"errorcode":"steps.javascript.ScriptExecutionFailed"}}}
+ 
+ 
+ 2022-11-05 14:13:34
+https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+ 
+ 
+ 2022-11-05 14:13:34
+Array
+(
+    [Initiator] => wanglei
+    [SecurityCredential] => bE8OpncgSCj98Qmf06sAPSoqS0dxKEQ66AeAjGTNzYBxms2bzmnzVlBnG82zAcs2bUCYfLVIZ8MaA/DKCL7+6NvBt5EbkAAQXx6Qb6NQJzK7Qvp9m9piQR57/daBWfMqflCvtV+iny/LmJlQNVqfPcM4N+0VE9EN22Su56fktl4cUNQleZ8bSruG9UxvdRV4LhrG7Qnxjiv2Jv92UH4INkSfi/G6df3NpphQm9b9Ybe5jpON34J06ALQbD/Q+IlpQZAQOUM4WTPvuy+0JfwDGvXxaQhyzzxXyU1UoAqbbw7pyGuYPiSTkNQPah/aPwj8lKxejRsYOvt1Z4GamR7mqg==
+    [CommandID] => TransactionStatusQuery
+    [TransactionID] => 
+    [PartyA] => 444333
+    [IdentifierType] => 4
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/queryResult
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/queryQueue
+    [Remarks] => test
+    [Occassion] => 
+)
+
+ 
+ 
+ 2022-11-05 14:13:34
+{"fault":{"faultstring":"Execution of JS-ValidateRequest failed with error: Exception thrown from JavaScript : false (ValidateRequest_js#38)","detail":{"errorcode":"steps.javascript.ScriptExecutionFailed"}}}
+ 
+ 
+ 2022-11-05 17:28:55
+https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+ 
+ 
+ 2022-11-05 17:28:55
+Array
+(
+    [Initiator] => wanglei
+    [SecurityCredential] => kAvY4Q5aJ3V10OVc8yDx7psjYkObyEIG0tAyIWCg4nFp25bT8xd3VHxps/2b7Ie8tIsBiWgE/qhVVBnJxvZazkpHoq5RsYBmUwT8423Zj87DfByRa+ArWz+pmzdCe3JNVgvRO+cyuIylZEui0VqYjLFywAk/3KhxzUyOBm5wv6kT4dTMM/wKPvUaV0lRRs3dKhnBxTUXDtj/68wJ58sS8wfbi2hSI96KKAM5JcDCjOi2egQwnc26vZ29w36RYA61gjt3FftspuFeYGTSqBSQ5ZJMfOGuuPDB+0oesNPq5iDAtfGKomiC7Xu1EGFl+OULdpOiODF4X9ImzLXnOlSxCw==
+    [CommandID] => TransactionStatusQuery
+    [TransactionID] => 
+    [PartyA] => 444333
+    [IdentifierType] => 4
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/queryResult
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/queryQueue
+    [Remarks] => test
+    [Occassion] => 
+)
+
+ 
+ 
+ 2022-11-05 17:28:55
+{"fault":{"faultstring":"Execution of JS-ValidateRequest failed with error: Exception thrown from JavaScript : false (ValidateRequest_js#38)","detail":{"errorcode":"steps.javascript.ScriptExecutionFailed"}}}
+ 
+ 
+ 

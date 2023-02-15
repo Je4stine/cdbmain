@@ -1,0 +1,5 @@
+2022-11-16 19:23:18
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"106231-86817555-1","ConversationID":"AG_20221116_2020173127e29c031f13","TransactionID":"QKG0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254722758717 - DAVID KIGO"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID"},{"Key":"InitiatedTime","Value":20221116192309},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221116192312},{"Key":"Amount","Value":999.00},{"Key":"ConversationID"},{"Key":"ReceiptNo","Value":"QKG02ZFOP4"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

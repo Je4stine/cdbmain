@@ -1,0 +1,5 @@
+2022-12-30 21:34:49
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"10755-71832227-1","ConversationID":"AG_20221230_20607c0ead51ff4d4ed6","TransactionID":"QLU0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254722742552 - STEPHEN GITHII KAMAU"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"d6f069a1-bbed-452c-a334-5faa25be7ca9"},{"Key":"InitiatedTime","Value":20221230213443},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility with OD Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221230213446},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20221230_20404f130db7a7da59f7"},{"Key":"ReceiptNo","Value":"QLU9D28E7P"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

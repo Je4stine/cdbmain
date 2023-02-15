@@ -1,0 +1,17 @@
+---------------------------------------------------------------
+[ 2022-11-10T06:44:48+03:00 ] 172.31.39.51 196.201.214.206 POST /app/callback/complatedValidation
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001091s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `config` [ RunTime:0.000658s ]
+[ sql ] [ SQL ] SELECT * FROM `config` [ RunTime:0.000300s ]
+---------------------------------------------------------------
+[ 2022-11-10T10:36:17+03:00 ] 172.31.39.51 196.201.212.69 POST /app/callback/complatedValidation
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000956s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `config` [ RunTime:0.000587s ]
+[ sql ] [ SQL ] SELECT * FROM `config` [ RunTime:0.000432s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000457s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `qrcode` = '123456'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000334s ]
+---------------------------------------------------------------
+[ 2022-11-10T19:40:45+03:00 ] 172.31.39.51 196.201.213.44 POST /app/callback/complatedValidation
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001038s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `config` [ RunTime:0.000568s ]
+[ sql ] [ SQL ] SELECT * FROM `config` [ RunTime:0.000294s ]

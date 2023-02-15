@@ -1,0 +1,103 @@
+2023-01-15 09:06:26
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAF0F7EYXW",
+            "TransTime": "20230115090625",
+            "TransAmount": "45.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "40947781",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 008",
+            "FirstName": "PENINA"
+        }
+        
+ 
+ 
+ 2023-01-15 11:30:37
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAF5FHMWH7",
+            "TransTime": "20230115113035",
+            "TransAmount": "29000.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "516600",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 441",
+            "FirstName": "ALI"
+        }
+        
+ 
+ 
+ 2023-01-15 11:31:43
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAF1FHQ2CT",
+            "TransTime": "20230115113143",
+            "TransAmount": "29000.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "516600",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 441",
+            "FirstName": "ALI"
+        }
+        
+ 
+ 
+ 2023-01-15 15:31:35
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAF2G0RU0E",
+            "TransTime": "20230115153135",
+            "TransAmount": "567.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "961156",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 2023-01-15 15:37:13
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAF8G19H9Q",
+            "TransTime": "20230115153712",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "961156",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 2023-01-15 15:51:26
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAF7G2IU2T",
+            "TransTime": "20230115155125",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "961156",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 

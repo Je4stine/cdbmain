@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+    <title>Opening app</title>
+    <link rel="stylesheet" href="/statics/css/weui.css"/>
+</head>
+<body>
+
+<div class="page">
+    <div class="weui-msg">
+        <div class="weui-msg__icon-area"><i class="weui-icon-warn weui-icon_msg"></i></div>
+        <div class="weui-msg__text-area">
+            <!--<h2 class="weui-msg__title">operation failed</h2>-->
+            <p class="weui-msg__desc"> Opening app</p>
+        </div>
+
+        <div class="weui-msg__extra-area">
+            <div class="weui-footer">
+                <p class="weui-footer__text">GOBATTERY</p>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    function openapp() {
+        var u = navigator.userAgent;
+        var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Linux') > -1; //g
+        var isIOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+        //这个是安卓操作系统
+        if (isAndroid) {
+            //安卓app的scheme协议
+            window.location = 'gobattery://gobattery/gobattery';
+            var clickedAt = +new Date;
+            setTimeout(function(){
+                !window.document.webkitHidden && setTimeout(function(){
+                    if (+new Date - clickedAt < 2000){
+                        window.location = 'https://play.google.com/store/apps/details?id=com.gobattery.zdhx';
+                    }
+                }, 500);
+            }, 500)
+        }
+        //这个是ios操作系统
+        if (isIOS) {
+            //ios的scheme协议
+            window.location = 'https://apps.apple.com/us/app/GoBattery/id1602165688';
+            var clickedAt = +new Date;
+            setTimeout(function(){
+                !window.document.webkitHidden && setTimeout(function(){
+                    if (+new Date - clickedAt < 5000){
+                        window.location = 'https://apps.apple.com/us/app/GoBattery/id1602165688';
+                    }
+                }, 500);
+            }, 2000)
+
+            document.addEventListener("visibilitychange", () => {
+                if(document.hidden) {
+                    alert('Successful')
+                }
+                else {
+                    alert('Successful')
+                }
+            });
+        }
+    }
+    openapp();
+</script>
+</body>
+
+</html>

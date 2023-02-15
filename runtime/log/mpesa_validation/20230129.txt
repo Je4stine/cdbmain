@@ -1,0 +1,18 @@
+2023-01-29 12:28:45
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAT0FQUT96",
+            "TransTime": "20230129122843",
+            "TransAmount": "44000.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "karuga ",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 757",
+            "FirstName": "PETER"
+        }
+        
+ 
+ 
+ 

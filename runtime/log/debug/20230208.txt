@@ -1,0 +1,46 @@
+2023-02-08 15:46:47
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302081546467402
+            [device_num] => 8
+            [lock_id] => 8
+        )
+
+)
+
+ 
+ 
+ 2023-02-08 19:46:24
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302081946236711
+            [device_num] => 8
+            [lock_id] => 1
+        )
+
+)
+
+ 
+ 
+ 2023-02-08 21:19:03
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202302082119024844
+            [device_num] => 8
+            [lock_id] => 7
+        )
+
+)
+
+ 
+ 
+ 

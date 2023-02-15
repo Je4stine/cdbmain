@@ -1,0 +1,29 @@
+2022-11-11 11:52:30
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"109146-70630372-1","ConversationID":"AG_20221111_20302af57b0cce5b67e9","TransactionID":"QKB0000000","ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2022-11-11 11:52:40
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"109146-70630372-1","ConversationID":"AG_20221111_20302af57b0cce5b67e9","TransactionID":"QKB0000000","ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2022-11-11 11:52:51
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"109146-70630372-1","ConversationID":"AG_20221111_20302af57b0cce5b67e9","TransactionID":"QKB0000000","ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2022-11-11 11:53:02
+{"Result":{"ResultType":0,"ResultCode":2001,"ResultDesc":"The initiator information is invalid.","OriginatorConversationID":"109146-70630372-1","ConversationID":"AG_20221111_20302af57b0cce5b67e9","TransactionID":"QKB0000000","ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2022-11-11 11:54:54
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"7390-67486170-1","ConversationID":"AG_20221111_204068b5ce8a3eb4ad12","TransactionID":"QKB0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"0758555738 - LEI   WANG"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"1e06181f-0a93-4e99-86ee-a8fad77bc52a"},{"Key":"InitiatedTime","Value":20221111115227},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Bill Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221111115227},{"Key":"Amount","Value":1.00},{"Key":"ConversationID","Value":"AG_20221111_201049a2059d21f7e615"},{"Key":"ReceiptNo","Value":"QKB2PDASWY"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2022-11-11 12:06:54
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"45428-70918053-1","ConversationID":"AG_20221111_20100b4981f702966017","TransactionID":"QKB0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"0758555738 - LEI   WANG"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"c0755b3b-68bc-4e4b-827e-951f06ffb09b"},{"Key":"InitiatedTime","Value":20221111120651},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Bill Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221111120653},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20221111_2070043fef4dea5030fc"},{"Key":"ReceiptNo","Value":"QKB3PEFIIX"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2022-11-11 18:40:08
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"28897-76542276-1","ConversationID":"AG_20221111_20702ff1d385f8a4a37b","TransactionID":"QKB0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"0758555738 - LEI   WANG"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"884c732b-b51f-45fb-9efb-70a3449a39b0"},{"Key":"InitiatedTime","Value":20221111184004},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Bill Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221111184006},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20221111_2060082085dea52fdc66"},{"Key":"ReceiptNo","Value":"QKB4QEAPDQ"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

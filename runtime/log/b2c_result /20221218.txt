@@ -1,0 +1,13 @@
+2022-12-18 02:58:34
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"15622-92425248-1","ConversationID":"AG_20221218_20501cb6d63b70973312","TransactionID":"QLI0FHW7D6","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QLI0FHW7D6"},{"Key":"ReceiverPartyPublicName","Value":"254724444333 - PETERSON KIMENYE"},{"Key":"TransactionCompletedDateTime","Value":"18.12.2022 02:58:33"},{"Key":"B2CUtilityAccountAvailableFunds","Value":130901.83},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-18 03:03:04
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"63286-92543642-1","ConversationID":"AG_20221218_20401fde40bd52f62d04","TransactionID":"QLI0FHXM5S","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":699.00},{"Key":"TransactionReceipt","Value":"QLI0FHXM5S"},{"Key":"ReceiverPartyPublicName","Value":"0712542655 - Margaret Mutindi Makau"},{"Key":"TransactionCompletedDateTime","Value":"18.12.2022 03:03:03"},{"Key":"B2CUtilityAccountAvailableFunds","Value":130187.56},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-18 23:07:04
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"5481-96642669-1","ConversationID":"AG_20221218_20203e994355d2ece39c","TransactionID":"QLI5HSU9PL","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QLI5HSU9PL"},{"Key":"ReceiverPartyPublicName","Value":"254703163256 - MORRIS MUNENE KIMATHI"},{"Key":"TransactionCompletedDateTime","Value":"18.12.2022 23:07:04"},{"Key":"B2CUtilityAccountAvailableFunds","Value":129273.29},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

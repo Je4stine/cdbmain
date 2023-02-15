@@ -1,0 +1,13 @@
+2023-01-04 08:18:33
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"73198-124428826-1","ConversationID":"AG_20230104_201034cab316dfcb79ea","TransactionID":"RA45N3TDR5","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":999.00},{"Key":"TransactionReceipt","Value":"RA45N3TDR5"},{"Key":"ReceiverPartyPublicName","Value":"0758555738 - LEI   WANG"},{"Key":"TransactionCompletedDateTime","Value":"04.01.2023 08:18:33"},{"Key":"B2CUtilityAccountAvailableFunds","Value":61278.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":41422.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-01-04 09:57:47
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"59534-145388617-1","ConversationID":"AG_20230104_20500a53dfd918931c93","TransactionID":"RA48NB376S","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":999.00},{"Key":"TransactionReceipt","Value":"RA48NB376S"},{"Key":"ReceiverPartyPublicName","Value":"0758555738 - LEI   WANG"},{"Key":"TransactionCompletedDateTime","Value":"04.01.2023 09:57:47"},{"Key":"B2CUtilityAccountAvailableFunds","Value":101697.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-01-04 15:52:01
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"15638-146257986-1","ConversationID":"AG_20230104_2040426c0d84a8784d62","TransactionID":"RA44O5MS50","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":999.00},{"Key":"TransactionReceipt","Value":"RA44O5MS50"},{"Key":"ReceiverPartyPublicName","Value":"254720044830 - EDWARD BOUNDI ORIANGO"},{"Key":"TransactionCompletedDateTime","Value":"04.01.2023 15:52:00"},{"Key":"B2CUtilityAccountAvailableFunds","Value":100694.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

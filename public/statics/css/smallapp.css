@@ -1,0 +1,19 @@
+.wechates{ width:250px; height: 444px; background: url('../images/t23.png') no-repeat;  }
+.wechat_top {
+    padding-top: 1px;
+    padding-left: 40px;
+}
+.wechat_top h3 {
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+}
+.jilu {
+    padding-top: 168px;padding-left: 10px;
+}
+.zhanhao {
+    padding-top: 23px;padding-left: 10px;
+}
+.help {
+    padding-top: 25px;padding-left: 10px;
+}

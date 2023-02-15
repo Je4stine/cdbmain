@@ -1,0 +1,22 @@
+---------------------------------------------------------------
+[ 2022-11-05T14:13:29+03:00 ] 172.31.39.51 105.160.121.163 GET /app/callback/complatedConfirmation
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000989s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `config` [ RunTime:0.000642s ]
+[ sql ] [ SQL ] SELECT * FROM `config` [ RunTime:0.000305s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `recharge_log` [ RunTime:0.000515s ]
+[ sql ] [ SQL ] SELECT * FROM `recharge_log` WHERE  `trade_no` = null LIMIT 1 [ RunTime:0.000227s ]
+[ sql ] [ SQL ] INSERT INTO `recharge_log` (`trade_no` , `amount` , `payment_time` , `bill_no` , `create_time`) VALUES (NULL , NULL , 0 , NULL , 1667646807) [ RunTime:0.002613s ]
+---------------------------------------------------------------
+[ 2022-11-05T14:13:34+03:00 ] 172.31.39.51 105.160.121.163 GET /app/callback/complatedConfirmation
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000557s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `recharge_log` [ RunTime:0.000768s ]
+[ sql ] [ SQL ] SELECT * FROM `recharge_log` WHERE  `trade_no` = null LIMIT 1 [ RunTime:0.000233s ]
+[ sql ] [ SQL ] INSERT INTO `recharge_log` (`trade_no` , `amount` , `payment_time` , `bill_no` , `create_time`) VALUES (NULL , NULL , 0 , NULL , 1667646813) [ RunTime:0.002983s ]
+---------------------------------------------------------------
+[ 2022-11-05T17:28:55+03:00 ] 172.31.39.51 154.154.58.166 GET /app/callback/complatedConfirmation
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000920s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `config` [ RunTime:0.000560s ]
+[ sql ] [ SQL ] SELECT * FROM `config` [ RunTime:0.000286s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `recharge_log` [ RunTime:0.000529s ]
+[ sql ] [ SQL ] SELECT * FROM `recharge_log` WHERE  `trade_no` = null LIMIT 1 [ RunTime:0.000201s ]
+[ sql ] [ SQL ] INSERT INTO `recharge_log` (`trade_no` , `amount` , `payment_time` , `bill_no` , `create_time`) VALUES (NULL , NULL , 0 , NULL , 1667658534) [ RunTime:0.002101s ]

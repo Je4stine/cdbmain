@@ -1,0 +1,5 @@
+2022-11-23 18:18:14
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"8506-16948467-1","ConversationID":"AG_20221123_207054844a007a59cd3d","TransactionID":"QKN0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254723369162 - GEORGE MANGUSA"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"2bcc5ff6-6fd8-4802-a770-60080c8978aa"},{"Key":"InitiatedTime","Value":20221123181810},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Bill Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221123181812},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20221123_2040662128c909affd74"},{"Key":"ReceiptNo","Value":"QKN2IQ04HC"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

@@ -1,0 +1,5 @@
+2022-11-27 05:45:24
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"5466-27308292-1","ConversationID":"AG_20221127_20607fc0c92411917768","TransactionID":"QKR0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"0792330244 - peter gachui mwangi"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"414e2db1-4bd2-4034-ba8a-5af9f0003aee"},{"Key":"InitiatedTime","Value":20221127054520},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Bill Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221127054522},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20221127_20503df298d19b8066e8"},{"Key":"ReceiptNo","Value":"QKR4QQXVSU"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

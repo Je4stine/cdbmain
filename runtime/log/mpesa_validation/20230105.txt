@@ -1,0 +1,188 @@
+2023-01-05 08:42:12
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA58PL6XGW",
+            "TransTime": "20230105084211",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "969726",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 2023-01-05 11:05:27
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA50PWLAOI",
+            "TransTime": "20230105110527",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "969726",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 830",
+            "FirstName": "EDWARD BOUNDI"
+        }
+        
+ 
+ 
+ 2023-01-05 11:11:50
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA51PX4X3N",
+            "TransTime": "20230105111150",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "969726",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 830",
+            "FirstName": "EDWARD BOUNDI"
+        }
+        
+ 
+ 
+ 2023-01-05 11:57:58
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA59Q118UN",
+            "TransTime": "20230105115757",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "969726",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 830",
+            "FirstName": "EDWARD BOUNDI"
+        }
+        
+ 
+ 
+ 2023-01-05 12:20:22
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA50Q2Y4SG",
+            "TransTime": "20230105122020",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "971666",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 2023-01-05 13:01:21
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA56Q6IOX4",
+            "TransTime": "20230105130120",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "969726",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 830",
+            "FirstName": "EDWARD BOUNDI"
+        }
+        
+ 
+ 
+ 2023-01-05 15:24:56
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA56QJ8SX2",
+            "TransTime": "20230105152455",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "971666",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 2023-01-05 16:07:26
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA53QN0BP3",
+            "TransTime": "20230105160726",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "971666",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 2023-01-05 16:34:39
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA56QPICAU",
+            "TransTime": "20230105163438",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "971666",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 2023-01-05 16:59:29
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA58QRWFKS",
+            "TransTime": "20230105165929",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "969726",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 830",
+            "FirstName": "EDWARD BOUNDI"
+        }
+        
+ 
+ 
+ 2023-01-05 18:10:17
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RA52QZAYT8",
+            "TransTime": "20230105181017",
+            "TransAmount": "950.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "dtb",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 370",
+            "FirstName": "ABDIFATAH"
+        }
+        
+ 
+ 
+ 

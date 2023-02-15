@@ -1,0 +1,9 @@
+2023-01-16 13:27:57
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"15622-183009074-1","ConversationID":"AG_20230116_20502fd862b1e3675465","TransactionID":"RAG0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254722306518 - JAMES I IRUNGU"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID"},{"Key":"InitiatedTime","Value":20230116132753},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20230116132755},{"Key":"Amount","Value":999.00},{"Key":"ConversationID"},{"Key":"ReceiptNo","Value":"RAG0I3P7V6"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2023-01-16 17:47:52
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"32480-135012487-1","ConversationID":"AG_20230116_205025b14257ae91e60d","TransactionID":"RAG0000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254705693211 - BASIL OKOTH OMOLLO"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID"},{"Key":"InitiatedTime","Value":20230116174748},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Utility"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20230116174750},{"Key":"Amount","Value":999.00},{"Key":"ConversationID"},{"Key":"ReceiptNo","Value":"RAG8IRG69W"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

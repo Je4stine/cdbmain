@@ -1,0 +1,24 @@
+li{ list-style: none; }
+		.cdb-box{
+			width:1000px; 
+			height:483px;
+			background: url('../images/cdg.png') no-repeat;
+			margin:0 auto;
+			margin-top: 100px;
+			
+		}
+		.dl_main{ margin-top: 217px; }
+		.dl_list{ margin-left: 13px; }
+		.dl_list li{ width: 45px; height: 192px;  float: left; margin-right: 49px;}
+		.dl_list li.list_6,.dl_list li.list_9.dl_list li.list_3{ margin-left: 2.5px; }
+		.dl_list li.list_10{ margin-right: 0px; }
+		.dl_list li img{ width: 45px; height: 192px;border: 1px solid #1f1f1f;border-radius: 8px;border-bottom-right-radius:20px; }
+		.dl_list li div{ width: 45px; height: 192px; line-height: 186px; }
+		.progress.vertical{ width: 45px; border-radius: 8px;border-bottom-right-radius:20px; border: 1px solid #1f1f1f; }
+		.progress .progress-bar.progress-bar-success{background-color: #5cb85c !important;color: #000}
+		.dl_list li .progress .progress-bar.progress-bar-success.dl01{background-color: #ed3745 !important;}
+		.dl_list li .progress .progress-bar.progress-bar-success.dl02{background-color: #f9d023 !important;}
+		.dl_list li .progress .progress-bar.progress-bar-success.dl03{background-color: #d9e021 !important;}
+		.dl_list li .progress .progress-bar.progress-bar-success.dl04{background-color: #b8db23 !important;}
+		.dl_list li .progress .progress-bar.progress-bar-success.dl05{background-color: #97dd45 !important;}
+		.dl_list li .progress .progress-bar.progress-bar-success.dl06{background-color: #5cb85c !important;}

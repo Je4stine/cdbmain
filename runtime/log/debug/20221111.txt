@@ -1,0 +1,46 @@
+2022-11-11 11:54:54
+Array
+(
+    [code] => 0
+    [msg] => 设备信息不存在
+    [data] => Array
+        (
+            [ResultCode] => C2B00012
+            [ResultDesc] => Invalid Account Number
+        )
+
+)
+
+ 
+ 
+ 2022-11-11 12:06:56
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202211111206553070
+            [device_num] => 8
+            [lock_id] => 3
+        )
+
+)
+
+ 
+ 
+ 2022-11-11 18:40:10
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202211111840098387
+            [device_num] => 8
+            [lock_id] => 7
+        )
+
+)
+
+ 
+ 
+ 

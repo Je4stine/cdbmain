@@ -1,0 +1,13 @@
+2023-02-08 20:00:22
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"19828-100629902-1","ConversationID":"AG_20230208_207004032298bb9793ce","TransactionID":"RB888AFUIM","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":999.00},{"Key":"TransactionReceipt","Value":"RB888AFUIM"},{"Key":"ReceiverPartyPublicName","Value":"254726712261 - BENARD OKOTH ONG'IRA"},{"Key":"TransactionCompletedDateTime","Value":"08.02.2023 20:00:21"},{"Key":"B2CUtilityAccountAvailableFunds","Value":75115.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-02-08 21:18:48
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"9577-64004492-1","ConversationID":"AG_20230208_20507e9aea13f66e8adb","TransactionID":"RB808JQHH8","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":669.00},{"Key":"TransactionReceipt","Value":"RB808JQHH8"},{"Key":"ReceiverPartyPublicName","Value":"254722559195 - HAILE ADAN"},{"Key":"TransactionCompletedDateTime","Value":"08.02.2023 21:18:46"},{"Key":"B2CUtilityAccountAvailableFunds","Value":74442.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-02-08 21:19:55
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"90190-49176928-1","ConversationID":"AG_20230208_205014cfcd99acd9b239","TransactionID":"RB828JUN1G","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":999.00},{"Key":"TransactionReceipt","Value":"RB828JUN1G"},{"Key":"ReceiverPartyPublicName","Value":"254722244844 - STEPHEN KEKO"},{"Key":"TransactionCompletedDateTime","Value":"08.02.2023 21:19:54"},{"Key":"B2CUtilityAccountAvailableFunds","Value":73439.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

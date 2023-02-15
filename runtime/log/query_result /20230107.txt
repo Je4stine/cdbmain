@@ -1,0 +1,5 @@
+2023-01-07 09:29:28
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"12410-160481974-1","ConversationID":"AG_20230107_202051826f129438da5e","TransactionID":"RA70000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"0758555738 - LEI   WANG"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"1cf20aa7-d892-4aef-944c-37a78b29a790"},{"Key":"InitiatedTime","Value":20230107092923},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Bill Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20230107092926},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20230107_20305e18c8a6a356b65d"},{"Key":"ReceiptNo","Value":"RA77UPBZSN"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

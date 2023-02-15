@@ -1,0 +1,5 @@
+2022-12-07 14:04:44
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"15622-59097313-1","ConversationID":"AG_20221207_20501fff0e6b5521c8ff","TransactionID":"QL70000000","ResultParameters":{"ResultParameter":[{"Key":"DebitPartyName","Value":"254705888666 - YUTAO SONG"},{"Key":"CreditPartyName","Value":"444333 - MOPAWA SOFWARE LIMITED"},{"Key":"OriginatorConversationID","Value":"4e48e31c-30ac-4624-a67f-f779731bb76b"},{"Key":"InitiatedTime","Value":20221207140440},{"Key":"CreditPartyCharges"},{"Key":"DebitAccountType","Value":"MMF Account For Customer"},{"Key":"TransactionReason"},{"Key":"ReasonType","Value":"Pay Bill Online"},{"Key":"TransactionStatus","Value":"Completed"},{"Key":"FinalisedTime","Value":20221207140441},{"Key":"Amount","Value":999.00},{"Key":"ConversationID","Value":"AG_20221207_207074028ebd5bccb9b9"},{"Key":"ReceiptNo","Value":"QL72LJAHVY"}]},"ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

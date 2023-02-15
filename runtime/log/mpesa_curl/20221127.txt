@@ -1,0 +1,64 @@
+2022-11-27 05:45:24
+https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+ 
+ 
+ 2022-11-27 05:45:24
+Array
+(
+    [Initiator] => peterwanglei
+    [SecurityCredential] => JCYSVt30ZBubaX9pbIP8ZH5wY2AuK2q2WEwjKiV7yi0rv4xFxBQ5RLPzg99x1HShHZiph0/IJ4uygzMtithSAh0/EG6LE0jpCK/n5HfoCjm5Ei9vPCf6al+bqopRiDxFO6YF+O5rOUAHSMlKfMaDrDxG6MPG3GKvxUF3R8EATlRtbx9RhAoF3fFamRrW87O7LJSYaRI/qYAAb33TDvSH8mT+eeE+8kwpPDpmzpAUosutDPiENClDnAuzltANvpJ2uKOV6Wz3dc1eKQWWFj5vVWpVgP+6uO7TNkBQhS2dI8QJ5U3a6qPAn5TUH9NyKjXIByTt/sfkPlMAtC41jLoVRg==
+    [CommandID] => TransactionStatusQuery
+    [TransactionID] => QKR4QQXVSU
+    [PartyA] => 444333
+    [IdentifierType] => 4
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/queryResult
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/queryQueue
+    [Remarks] => test
+    [Occassion] => 
+)
+
+ 
+ 
+ 2022-11-27 05:45:24
+{
+            "OriginatorConversationID": "5466-27308292-1",
+            "ConversationID": "AG_20221127_20607fc0c92411917768",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+ 
+ 
+ 2022-11-27 05:46:36
+https://api.safaricom.co.ke/mpesa/b2c/v1/paymentrequest
+ 
+ 
+ 2022-11-27 05:46:36
+Array
+(
+    [InitiatorName] => ppyutian
+    [SecurityCredential] => FeODFXZXDhFRvzZw9klXf9qcbkuOu6i2Xfntt9+RsjkOOl/xiQcYwuh8w5zo8uqyo9N4Qsh8zTghgFtyFF5Phw5tcgsAXTBOFSoZbcL4atZLpf48BfT4nisqJmecMYN7ppUxHb5HbTCmW1E1kEnvtkJfEFLuYpQjXMDU1CO+oRzabEqBDN43aEYJHfy9RozljLk4hvFwl4rbC21FF6mCzGMIohjEPtCHssZ4J2PKOx8B4LZEZOJiLAPAi0InRlWWS0imdLmbbuUnU8NureoCRTzfewB5U9sDeFZFmvgUbdOV/hT9xZPOPJSXyiA0wD4AWOpw19QogttK/ivgKHK8kg==
+    [CommandID] => BusinessPayment
+    [Amount] => 899.00
+    [PartyA] => 3035609
+    [PartyB] => 254792330244
+    [Remarks] => refund
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/b2cQueue
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/b2cResult
+    [Occassion] => 
+)
+
+ 
+ 
+ 2022-11-27 05:46:36
+{
+            "ConversationID": "AG_20221127_205026085c34db23c76b",
+            "OriginatorConversationID": "9950-26883841-1",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+        }
+        
+ 
+ 
+ 

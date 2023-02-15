@@ -1,0 +1,18 @@
+2023-01-14 01:51:28
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAE9CFIHCZ",
+            "TransTime": "20230114015125",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "972723",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "999.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 404",
+            "FirstName": "ELDRIDGE"
+        }
+        
+ 
+ 
+ 

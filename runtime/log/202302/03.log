@@ -1,0 +1,33 @@
+---------------------------------------------------------------
+[ 2023-02-03T10:00:38+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ info ] cdb.mopawa.co.ke/cloud/Reception/stockDetail [运行时间：0.043176s][吞吐率：23.16req/s] [内存消耗：3,594.14kb] [文件加载：135]
+[ info ] [ LANG ] /data/wwwroot/cdb/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /data/wwwroot/cdb/public/../application/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'cloud',
+    1 => 'Reception',
+    2 => 'stockDetail',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'content-type' => 'multipart/form-data; boundary=------------------------a0ea8c61f8f8e3d8',
+  'content-length' => '877',
+  'time' => '1675407638',
+  'key' => 'a0282c55929218886a0844170a2aad83',
+  'accept' => '*/*',
+  'host' => 'cdb.mopawa.co.ke',
+)
+[ info ] [ PARAM ] array (
+  'cabinet_id' => 'CT054210504240',
+  'stock_num' => '6',
+  'details' => '{"1":{"battery_id":"FS2206200289","power":100,"fault":0},"2":{"battery_id":"FS2206200130","power":100,"fault":0},"3":{"battery_id":"FS2206200141","power":100,"fault":0},"4":{"battery_id":"FS2206200998","power":100,"fault":0},"5":{"battery_id":"FS2206200563","power":100,"fault":0},"6":{"battery_id":"FS2206201002","power":100,"fault":0}}',
+  'hex' => '',
+  'aims' => '1',
+)
+[ info ] [ CACHE ] INIT redis
+[ info ] [ RUN ] app\cloud\controller\Reception->stockDetail[ /data/wwwroot/cdb/application/cloud/controller/Reception.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File

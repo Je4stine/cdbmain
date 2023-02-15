@@ -1,0 +1,33 @@
+2022-11-26 12:05:38
+https://api.safaricom.co.ke/mpesa/transactionstatus/v1/query
+ 
+ 
+ 2022-11-26 12:05:38
+Array
+(
+    [Initiator] => peterwanglei
+    [SecurityCredential] => fOpSCqW//5bxd5k0Mc6IHr3HJh0HLbM0PT0XIkUZ26ONUAdmowe3IMu6zy27DndI5g/g/msuzDk1WaUdYfhvlLsL0rFhcl8slUHz7IFqLfh2XPCtl4nRlnSszn2M0vZl3Q1rrdDDyMpwP0IU/6854YGnp6lF+VhONTbxoxrufARm48yJaHilQkkMEEjH+RDZCN0u/6o2P9sGuHOapxXbc47k/CZDXwswjEr6WG29+o7AbJYqf4DQynqIKFGZsF6EyXgJqBj1xXKHV/f2DNiHBYvknQr1hVknApudTjGs6j6/FIQtwiNXQal2WQ7gOKf2ATCWQ7ofbL5QNUMTuIhV6g==
+    [CommandID] => TransactionStatusQuery
+    [TransactionID] => QKQ4OYE2RI
+    [PartyA] => 444333
+    [IdentifierType] => 4
+    [ResultURL] => https://cdb.mopawa.co.ke/app/callback/queryResult
+    [QueueTimeOutURL] => https://cdb.mopawa.co.ke/app/callback/queryQueue
+    [Remarks] => test
+    [Occassion] => 
+)
+
+ 
+ 
+ 2022-11-26 12:05:38
+{
+            "OriginatorConversationID": "118510-24444865-1",
+            "ConversationID": "AG_20221126_203016dac95e95030f8b",
+            "ResponseCode":"0",
+            "ResponseDescription": "Accept the service request successfully."
+            
+        }
+        
+ 
+ 
+ 

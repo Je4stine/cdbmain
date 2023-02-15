@@ -1,0 +1,103 @@
+2022-12-12 14:47:20
+Array
+(
+    [device_id] => CT054220400060
+    [locks] => Array
+        (
+            [0] => 8
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 2022-12-12 14:47:25
+Array
+(
+    [device_id] => CT054220400060
+    [locks] => Array
+        (
+            [0] => 8
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 2022-12-12 15:42:16
+Array
+(
+    [device_id] => CT054220400060
+    [locks] => Array
+        (
+            [0] => 8
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 2022-12-12 15:42:21
+Array
+(
+    [device_id] => CT054220400060
+    [locks] => Array
+        (
+            [0] => 8
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 2022-12-12 15:42:21
+Array
+(
+    [device_id] => CT054220400060
+    [locks] => Array
+        (
+            [0] => 8
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 2022-12-12 15:42:26
+Array
+(
+    [device_id] => CT054220400060
+    [locks] => Array
+        (
+            [0] => 8
+        )
+
+    [errors] => Array
+        (
+        )
+
+)
+
+ 
+ 
+ 

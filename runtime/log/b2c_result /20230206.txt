@@ -1,0 +1,29 @@
+2023-02-06 16:30:43
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"123744-249226038-1","ConversationID":"AG_20230206_203061e0aee7dde47752","TransactionID":"RB6029VICI","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-02-06 16:30:54
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"123744-249226038-1","ConversationID":"AG_20230206_203061e0aee7dde47752","TransactionID":"RB6029VICI","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-02-06 16:31:04
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"123744-249226038-1","ConversationID":"AG_20230206_203061e0aee7dde47752","TransactionID":"RB6029VICI","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-02-06 16:31:15
+{"Result":{"ResultType":0,"ResultCode":2,"ResultDesc":"Declined due to limit rule: less than the minimum transaction amount.","OriginatorConversationID":"123744-249226038-1","ConversationID":"AG_20230206_203061e0aee7dde47752","TransactionID":"RB6029VICI","ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-02-06 19:32:08
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"29462-47399982-1","ConversationID":"AG_20230206_20306908a380e33535f4","TransactionID":"RB662UXOBG","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":909.00},{"Key":"TransactionReceipt","Value":"RB662UXOBG"},{"Key":"ReceiverPartyPublicName","Value":"254725417553 - CAROLINE KARIUKI"},{"Key":"TransactionCompletedDateTime","Value":"06.02.2023 19:32:06"},{"Key":"B2CUtilityAccountAvailableFunds","Value":100779.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-02-06 20:39:07
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"90188-42153712-1","ConversationID":"AG_20230206_2020266e4a84a3ecec55","TransactionID":"RB67346MQL","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":969.00},{"Key":"TransactionReceipt","Value":"RB67346MQL"},{"Key":"ReceiverPartyPublicName","Value":"0705294899 - AWEYS MOHAMAD OMAR"},{"Key":"TransactionCompletedDateTime","Value":"06.02.2023 20:39:06"},{"Key":"B2CUtilityAccountAvailableFunds","Value":99806.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2023-02-06 23:56:34
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"93720-33506668-1","ConversationID":"AG_20230206_20501bcf8c16ddd84351","TransactionID":"RB603GL5O6","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":759.00},{"Key":"TransactionReceipt","Value":"RB603GL5O6"},{"Key":"ReceiverPartyPublicName","Value":"254722559195 - HAILE ADAN"},{"Key":"TransactionCompletedDateTime","Value":"06.02.2023 23:56:33"},{"Key":"B2CUtilityAccountAvailableFunds","Value":99043.97},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

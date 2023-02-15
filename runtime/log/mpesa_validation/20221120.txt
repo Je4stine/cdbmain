@@ -1,0 +1,18 @@
+2022-11-20 20:50:03
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QKK2C8KU20",
+            "TransTime": "20221120205001",
+            "TransAmount": "50.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "40795885",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2541 ***** 986",
+            "FirstName": "Felix"
+        }
+        
+ 
+ 
+ 

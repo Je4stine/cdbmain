@@ -1,0 +1,18 @@
+2022-12-03 20:05:41
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QL30AA1F54",
+            "TransTime": "20221203200541",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "974398",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 019",
+            "FirstName": "TIRUS"
+        }
+        
+ 
+ 
+ 

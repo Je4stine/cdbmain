@@ -1,0 +1,2551 @@
+2023-01-02 00:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 00:16:47
+Array
+(
+    [end_time] => 1672607807
+    [billing_unit] => 2
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672607807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672607807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 00:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 00:16:47
+Array
+(
+    [end_time] => 1672607807
+    [billing_unit] => 1
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672607807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672607807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 00:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 00:46:47
+Array
+(
+    [end_time] => 1672609607
+    [billing_unit] => 2
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672609607
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672609607
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 00:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 00:46:47
+Array
+(
+    [end_time] => 1672609607
+    [billing_unit] => 1
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672609607
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672609607
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 01:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 01:16:47
+Array
+(
+    [end_time] => 1672611407
+    [billing_unit] => 2
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672611407
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672611407
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 01:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 01:16:47
+Array
+(
+    [end_time] => 1672611407
+    [billing_unit] => 2
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672611407
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672611407
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 01:20:59
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 01:20:59
+Array
+(
+    [end_time] => 1672611659
+    [billing_unit] => 2
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672611659
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672611659
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 01:20:59
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 01:20:59
+Array
+(
+    [end_time] => 1672611659
+    [billing_unit] => 2
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672611659
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672611659
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 01:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 01:46:47
+Array
+(
+    [end_time] => 1672613207
+    [billing_unit] => 3
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672613207
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672613207
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 01:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 01:46:47
+Array
+(
+    [end_time] => 1672613207
+    [billing_unit] => 2
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672613207
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672613207
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 02:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 02:16:47
+Array
+(
+    [end_time] => 1672615007
+    [billing_unit] => 3
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672615007
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672615007
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 02:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 02:16:47
+Array
+(
+    [end_time] => 1672615007
+    [billing_unit] => 2
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672615007
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672615007
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 02:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 02:46:47
+Array
+(
+    [end_time] => 1672616807
+    [billing_unit] => 3
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672616807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672616807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 02:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 02:46:47
+Array
+(
+    [end_time] => 1672616807
+    [billing_unit] => 3
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672616807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672616807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 03:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 03:16:47
+Array
+(
+    [end_time] => 1672618607
+    [billing_unit] => 4
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672618607
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672618607
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 03:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 03:16:47
+Array
+(
+    [end_time] => 1672618607
+    [billing_unit] => 3
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672618607
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672618607
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 03:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 03:46:47
+Array
+(
+    [end_time] => 1672620407
+    [billing_unit] => 4
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672620407
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672620407
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 03:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 03:46:47
+Array
+(
+    [end_time] => 1672620407
+    [billing_unit] => 3
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672620407
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672620407
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 04:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 04:16:47
+Array
+(
+    [end_time] => 1672622207
+    [billing_unit] => 4
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672622207
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672622207
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 04:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 04:16:47
+Array
+(
+    [end_time] => 1672622207
+    [billing_unit] => 4
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672622207
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672622207
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 04:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 04:46:47
+Array
+(
+    [end_time] => 1672624007
+    [billing_unit] => 5
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672624007
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672624007
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 04:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 04:46:47
+Array
+(
+    [end_time] => 1672624007
+    [billing_unit] => 4
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672624007
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672624007
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 05:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 05:16:47
+Array
+(
+    [end_time] => 1672625807
+    [billing_unit] => 5
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672625807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672625807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 05:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 05:16:47
+Array
+(
+    [end_time] => 1672625807
+    [billing_unit] => 4
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672625807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672625807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 05:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 05:46:47
+Array
+(
+    [end_time] => 1672627607
+    [billing_unit] => 5
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672627607
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672627607
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 05:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 05:46:47
+Array
+(
+    [end_time] => 1672627607
+    [billing_unit] => 5
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672627607
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672627607
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 06:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 06:16:47
+Array
+(
+    [end_time] => 1672629407
+    [billing_unit] => 6
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672629407
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672629407
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 06:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 06:16:47
+Array
+(
+    [end_time] => 1672629407
+    [billing_unit] => 5
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672629407
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672629407
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 06:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 06:46:47
+Array
+(
+    [end_time] => 1672631207
+    [billing_unit] => 6
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672631207
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672631207
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 06:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 06:46:47
+Array
+(
+    [end_time] => 1672631207
+    [billing_unit] => 5
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672631207
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672631207
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 07:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 07:16:47
+Array
+(
+    [end_time] => 1672633007
+    [billing_unit] => 6
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672633007
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672633007
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 07:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 07:16:47
+Array
+(
+    [end_time] => 1672633007
+    [billing_unit] => 6
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672633007
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672633007
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 07:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 07:46:47
+Array
+(
+    [end_time] => 1672634807
+    [billing_unit] => 7
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672634807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672634807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 07:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 07:46:47
+Array
+(
+    [end_time] => 1672634807
+    [billing_unit] => 6
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672634807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672634807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 08:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 08:16:47
+Array
+(
+    [end_time] => 1672636607
+    [billing_unit] => 7
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672636607
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672636607
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 08:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 08:16:47
+Array
+(
+    [end_time] => 1672636607
+    [billing_unit] => 6
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672636607
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672636607
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 08:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 08:46:47
+Array
+(
+    [end_time] => 1672638407
+    [billing_unit] => 7
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672638407
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672638407
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 08:46:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 08:46:47
+Array
+(
+    [end_time] => 1672638407
+    [billing_unit] => 7
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672638407
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672638407
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 09:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 09:16:47
+Array
+(
+    [end_time] => 1672640206
+    [billing_unit] => 8
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672640207
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672640207
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 09:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 09:16:47
+Array
+(
+    [end_time] => 1672640207
+    [billing_unit] => 7
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672640207
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672640207
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 09:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 09:46:46
+Array
+(
+    [end_time] => 1672642006
+    [billing_unit] => 8
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672642006
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672642006
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 09:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 09:46:46
+Array
+(
+    [end_time] => 1672642006
+    [billing_unit] => 7
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672642006
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672642006
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 10:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 10:16:47
+Array
+(
+    [end_time] => 1672643807
+    [billing_unit] => 8
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672643807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672643807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 10:16:47
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 10:16:47
+Array
+(
+    [end_time] => 1672643807
+    [billing_unit] => 8
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672643807
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672643807
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 10:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 10:46:46
+Array
+(
+    [end_time] => 1672645606
+    [billing_unit] => 9
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672645606
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672645606
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 10:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 10:46:46
+Array
+(
+    [end_time] => 1672645606
+    [billing_unit] => 8
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672645606
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672645606
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 11:16:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 11:16:46
+Array
+(
+    [end_time] => 1672647406
+    [billing_unit] => 9
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672647406
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672647406
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 11:16:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 11:16:46
+Array
+(
+    [end_time] => 1672647406
+    [billing_unit] => 8
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672647406
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672647406
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 11:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 11:46:46
+Array
+(
+    [end_time] => 1672649206
+    [billing_unit] => 9
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672649206
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672649206
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 11:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 11:46:46
+Array
+(
+    [end_time] => 1672649206
+    [billing_unit] => 9
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672649206
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672649206
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 12:16:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 12:16:46
+Array
+(
+    [end_time] => 1672651006
+    [billing_unit] => 10
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672651006
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672651006
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 12:16:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 12:16:46
+Array
+(
+    [end_time] => 1672651006
+    [billing_unit] => 9
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672651006
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672651006
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 12:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 12:46:46
+Array
+(
+    [end_time] => 1672652806
+    [billing_unit] => 10
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672652806
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672652806
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 12:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 12:46:46
+Array
+(
+    [end_time] => 1672652806
+    [billing_unit] => 9
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672652806
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672652806
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 13:16:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 13:16:46
+Array
+(
+    [end_time] => 1672654606
+    [billing_unit] => 10
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672654606
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672654606
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 13:16:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 13:16:46
+Array
+(
+    [end_time] => 1672654606
+    [billing_unit] => 10
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672654606
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672654606
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 13:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 13:46:46
+Array
+(
+    [end_time] => 1672656406
+    [billing_unit] => 11
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672656406
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672656406
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 13:46:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 13:46:46
+Array
+(
+    [end_time] => 1672656406
+    [billing_unit] => 10
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672656406
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672656406
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 14:16:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 14:16:46
+Array
+(
+    [end_time] => 1672658206
+    [billing_unit] => 11
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672658206
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672658206
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 14:16:46
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 14:16:46
+Array
+(
+    [end_time] => 1672658206
+    [billing_unit] => 10
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672658206
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672658206
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 14:34:41
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 14:34:41
+Array
+(
+    [end_time] => 1672659281
+    [billing_unit] => 11
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672659281
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672659281
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 14:34:41
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 14:34:41
+Array
+(
+    [end_time] => 1672659281
+    [billing_unit] => 10
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672659281
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672659281
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 14:47:27
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 14:47:27
+Array
+(
+    [end_time] => 1672660047
+    [billing_unit] => 11
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672660047
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672660047
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 14:47:27
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 14:47:27
+Array
+(
+    [end_time] => 1672660047
+    [billing_unit] => 11
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672660047
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672660047
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 15:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 15:16:30
+Array
+(
+    [end_time] => 1672661790
+    [billing_unit] => 12
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672661790
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672661790
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 15:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 15:16:30
+Array
+(
+    [end_time] => 1672661790
+    [billing_unit] => 11
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672661790
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672661790
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 15:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 15:46:30
+Array
+(
+    [end_time] => 1672663590
+    [billing_unit] => 12
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672663590
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672663590
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 15:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 15:46:30
+Array
+(
+    [end_time] => 1672663590
+    [billing_unit] => 11
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672663590
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672663590
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 16:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 16:16:30
+Array
+(
+    [end_time] => 1672665390
+    [billing_unit] => 12
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672665390
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672665390
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 16:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 16:16:30
+Array
+(
+    [end_time] => 1672665390
+    [billing_unit] => 12
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672665390
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672665390
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 16:46:31
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 16:46:31
+Array
+(
+    [end_time] => 1672667191
+    [billing_unit] => 13
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672667191
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672667191
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 16:46:31
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 16:46:31
+Array
+(
+    [end_time] => 1672667191
+    [billing_unit] => 12
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672667191
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672667191
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 17:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 17:16:30
+Array
+(
+    [end_time] => 1672668990
+    [billing_unit] => 13
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672668990
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672668990
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 17:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 17:16:30
+Array
+(
+    [end_time] => 1672668990
+    [billing_unit] => 12
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672668990
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672668990
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 17:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 17:46:30
+Array
+(
+    [end_time] => 1672670790
+    [billing_unit] => 13
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672670790
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672670790
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 17:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 17:46:30
+Array
+(
+    [end_time] => 1672670790
+    [billing_unit] => 13
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672670790
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672670790
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 18:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 18:16:30
+Array
+(
+    [end_time] => 1672672590
+    [billing_unit] => 14
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672672590
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672672590
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 18:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 18:16:30
+Array
+(
+    [end_time] => 1672672590
+    [billing_unit] => 13
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672672590
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672672590
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 18:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 18:46:30
+Array
+(
+    [end_time] => 1672674390
+    [billing_unit] => 14
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672674390
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672674390
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 18:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 18:46:30
+Array
+(
+    [end_time] => 1672674390
+    [billing_unit] => 13
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672674390
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672674390
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 19:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 19:16:30
+Array
+(
+    [end_time] => 1672676190
+    [billing_unit] => 14
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672676190
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672676190
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 19:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 19:16:30
+Array
+(
+    [end_time] => 1672676190
+    [billing_unit] => 14
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672676190
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672676190
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 19:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 19:46:30
+Array
+(
+    [end_time] => 1672677990
+    [billing_unit] => 15
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672677990
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672677990
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 19:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 19:46:30
+Array
+(
+    [end_time] => 1672677990
+    [billing_unit] => 14
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672677990
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672677990
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 20:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 20:16:30
+Array
+(
+    [end_time] => 1672679790
+    [billing_unit] => 15
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672679790
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672679790
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 20:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 20:16:30
+Array
+(
+    [end_time] => 1672679790
+    [billing_unit] => 14
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672679790
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672679790
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 20:28:55
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 20:28:55
+Array
+(
+    [end_time] => 1672680535
+    [billing_unit] => 15
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672680535
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672680535
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 20:28:55
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 20:28:55
+Array
+(
+    [end_time] => 1672680535
+    [billing_unit] => 14
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672680535
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672680535
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 20:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 20:46:30
+Array
+(
+    [end_time] => 1672681590
+    [billing_unit] => 15
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672681590
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672681590
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 20:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 20:46:30
+Array
+(
+    [end_time] => 1672681590
+    [billing_unit] => 15
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672681590
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672681590
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 21:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 21:16:30
+Array
+(
+    [end_time] => 1672683390
+    [billing_unit] => 16
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672683390
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672683390
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 21:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 21:16:30
+Array
+(
+    [end_time] => 1672683390
+    [billing_unit] => 15
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672683390
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672683390
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 21:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 21:46:30
+Array
+(
+    [end_time] => 1672685190
+    [billing_unit] => 16
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672685190
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672685190
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 21:46:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 21:46:30
+Array
+(
+    [end_time] => 1672685190
+    [billing_unit] => 15
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672685190
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672685190
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 22:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 22:16:30
+Array
+(
+    [end_time] => 1672686990
+    [billing_unit] => 16
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672686990
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672686990
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 22:16:30
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 22:16:30
+Array
+(
+    [end_time] => 1672686990
+    [billing_unit] => 16
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672686990
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672686990
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 22:46:29
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 22:46:29
+Array
+(
+    [end_time] => 1672688789
+    [billing_unit] => 1
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672688789
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672688789
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 22:46:29
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 22:46:29
+Array
+(
+    [end_time] => 1672688789
+    [billing_unit] => 16
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672688789
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672688789
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 23:16:29
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 23:16:29
+Array
+(
+    [end_time] => 1672690589
+    [billing_unit] => 1
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672690589
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672690589
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 23:16:29
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 23:16:29
+Array
+(
+    [end_time] => 1672690589
+    [billing_unit] => 16
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672690589
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672690589
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 23:46:29
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 23:46:29
+Array
+(
+    [end_time] => 1672692389
+    [billing_unit] => 1
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672692389
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672692389
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 2023-01-02 23:46:29
+归还出错SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cdb.order_brokerage_202301' doesn't exist
+ 
+ 
+ 2023-01-02 23:46:29
+Array
+(
+    [end_time] => 1672692389
+    [billing_unit] => 1
+    [amount] => 999.00
+    [original_amount] => 999.00
+    [status] => 2
+    [free_time] => 0
+    [update_time] => 1672692389
+    [return_sid] => 9
+    [return_device_id] => CT054220400091
+    [return_address] => Stellato Mall, 1st Floor Muthithi Rd, Nairobi
+    [is_pay] => 1
+    [payment_time] => 1672692389
+    [payment_amount] => 999.00
+    [brokerage_total] => 149.85
+)
+
+ 
+ 
+ 

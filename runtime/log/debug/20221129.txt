@@ -1,0 +1,46 @@
+2022-11-29 11:24:17
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202211291124165142
+            [device_num] => 12
+            [lock_id] => 1
+        )
+
+)
+
+ 
+ 
+ 2022-11-29 12:31:56
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202211291231556904
+            [device_num] => 8
+            [lock_id] => 8
+        )
+
+)
+
+ 
+ 
+ 2022-11-29 14:29:43
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202211291429427320
+            [device_num] => 8
+            [lock_id] => 5
+        )
+
+)
+
+ 
+ 
+ 

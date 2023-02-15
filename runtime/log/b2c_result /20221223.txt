@@ -1,0 +1,13 @@
+2022-12-23 03:58:35
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"53295-106739095-1","ConversationID":"AG_20221223_20705406fc5f48145e45","TransactionID":"QLN7SLDQSV","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QLN7SLDQSV"},{"Key":"ReceiverPartyPublicName","Value":"254721755446 - ALEX OYENDE"},{"Key":"TransactionCompletedDateTime","Value":"23.12.2022 03:58:35"},{"Key":"B2CUtilityAccountAvailableFunds","Value":119930.59},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-23 20:35:53
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"32485-37078144-1","ConversationID":"AG_20221223_20207f6f4bd43ee4b3d9","TransactionID":"QLN5V0FMO3","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":899.00},{"Key":"TransactionReceipt","Value":"QLN5V0FMO3"},{"Key":"ReceiverPartyPublicName","Value":"254723690428 - AGNES MUCHOKI WACERA MWAI"},{"Key":"TransactionCompletedDateTime","Value":"23.12.2022 20:35:52"},{"Key":"B2CUtilityAccountAvailableFunds","Value":119016.32},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 2022-12-23 22:17:18
+{"Result":{"ResultType":0,"ResultCode":0,"ResultDesc":"The service request is processed successfully.","OriginatorConversationID":"25148-65454349-1","ConversationID":"AG_20221223_20106ef21fbd1453e8c2","TransactionID":"QLN0V9RJOK","ResultParameters":{"ResultParameter":[{"Key":"TransactionAmount","Value":699.00},{"Key":"TransactionReceipt","Value":"QLN0V9RJOK"},{"Key":"ReceiverPartyPublicName","Value":"254705716125 - FREDRICK MULLUKA PESSA"},{"Key":"TransactionCompletedDateTime","Value":"23.12.2022 22:17:18"},{"Key":"B2CUtilityAccountAvailableFunds","Value":118302.05},{"Key":"B2CWorkingAccountAvailableFunds","Value":0.00},{"Key":"B2CRecipientIsRegisteredCustomer","Value":"Y"},{"Key":"B2CChargesPaidAccountAvailableFunds","Value":0.00}]},"ReferenceData":{"ReferenceItem":{"Key":"QueueTimeoutURL","Value":"http:\/\/internalapi.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"}}}}
+ 
+ 
+ 

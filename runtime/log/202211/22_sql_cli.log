@@ -1,0 +1,1365 @@
+[ 2022-11-22T23:03:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000453s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:03:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000781s ]
+[ 2022-11-22T23:03:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147396,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002720s ]
+[ 2022-11-22T23:03:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000434s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:03:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000691s ]
+[ 2022-11-22T23:03:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147401,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.009932s ]
+[ 2022-11-22T23:03:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000680s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:03:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001348s ]
+[ 2022-11-22T23:03:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147411,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002575s ]
+[ 2022-11-22T23:03:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000455s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:03:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000827s ]
+[ 2022-11-22T23:03:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147416,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002656s ]
+[ 2022-11-22T23:03:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000537s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:03:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000792s ]
+[ 2022-11-22T23:03:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147421,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004299s ]
+[ 2022-11-22T23:03:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000536s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:03:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000899s ]
+[ 2022-11-22T23:03:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147436,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002875s ]
+[ 2022-11-22T23:04:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.007500s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:04:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000649s ]
+[ 2022-11-22T23:04:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147441,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.004604s ]
+[ 2022-11-22T23:04:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000425s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:04:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000679s ]
+[ 2022-11-22T23:04:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147446,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002492s ]
+[ 2022-11-22T23:04:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000509s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:04:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000661s ]
+[ 2022-11-22T23:04:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147456,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002572s ]
+[ 2022-11-22T23:04:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000580s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:04:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000736s ]
+[ 2022-11-22T23:04:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147461,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002622s ]
+[ 2022-11-22T23:04:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000483s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:04:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000818s ]
+[ 2022-11-22T23:04:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147466,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003790s ]
+[ 2022-11-22T23:04:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000488s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:04:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000820s ]
+[ 2022-11-22T23:04:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147482,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002716s ]
+[ 2022-11-22T23:04:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000373s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:04:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000663s ]
+[ 2022-11-22T23:04:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147487,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002700s ]
+[ 2022-11-22T23:04:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000548s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:04:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000905s ]
+[ 2022-11-22T23:04:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147492,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003132s ]
+[ 2022-11-22T23:05:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.008362s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:05:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000770s ]
+[ 2022-11-22T23:05:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147501,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.016607s ]
+[ 2022-11-22T23:05:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000465s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:05:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000674s ]
+[ 2022-11-22T23:05:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147506,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002541s ]
+[ 2022-11-22T23:05:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000953s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:05:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000726s ]
+[ 2022-11-22T23:05:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147511,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003904s ]
+[ 2022-11-22T23:05:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000544s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:05:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000709s ]
+[ 2022-11-22T23:05:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147527,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003287s ]
+[ 2022-11-22T23:05:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000466s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:05:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000777s ]
+[ 2022-11-22T23:05:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147532,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003440s ]
+[ 2022-11-22T23:05:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000547s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:05:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000690s ]
+[ 2022-11-22T23:05:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147537,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003274s ]
+[ 2022-11-22T23:05:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000455s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:05:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000863s ]
+[ 2022-11-22T23:05:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147547,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.004654s ]
+[ 2022-11-22T23:05:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000629s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:05:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000902s ]
+[ 2022-11-22T23:05:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147552,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.004013s ]
+[ 2022-11-22T23:05:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000420s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:05:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000739s ]
+[ 2022-11-22T23:05:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147557,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004400s ]
+[ 2022-11-22T23:06:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000819s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:06:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001235s ]
+[ 2022-11-22T23:06:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147571,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002595s ]
+[ 2022-11-22T23:06:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000481s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:06:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000821s ]
+[ 2022-11-22T23:06:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147576,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002571s ]
+[ 2022-11-22T23:06:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000559s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:06:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000656s ]
+[ 2022-11-22T23:06:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147581,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003181s ]
+[ 2022-11-22T23:06:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000482s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:06:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000649s ]
+[ 2022-11-22T23:06:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147591,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003186s ]
+[ 2022-11-22T23:06:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000591s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:06:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001014s ]
+[ 2022-11-22T23:06:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147596,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002906s ]
+[ 2022-11-22T23:06:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000585s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:06:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000999s ]
+[ 2022-11-22T23:06:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147601,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004078s ]
+[ 2022-11-22T23:06:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000633s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:06:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000675s ]
+[ 2022-11-22T23:06:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147616,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003140s ]
+[ 2022-11-22T23:07:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000518s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:07:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000720s ]
+[ 2022-11-22T23:07:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147621,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002509s ]
+[ 2022-11-22T23:07:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000552s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:07:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000941s ]
+[ 2022-11-22T23:07:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147626,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.002834s ]
+[ 2022-11-22T23:07:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000534s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:07:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000719s ]
+[ 2022-11-22T23:07:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147636,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002467s ]
+[ 2022-11-22T23:07:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.008578s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:07:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000852s ]
+[ 2022-11-22T23:07:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147641,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002707s ]
+[ 2022-11-22T23:07:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001546s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:07:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000727s ]
+[ 2022-11-22T23:07:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147646,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002885s ]
+[ 2022-11-22T23:07:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000529s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:07:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000705s ]
+[ 2022-11-22T23:07:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147661,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003024s ]
+[ 2022-11-22T23:07:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000588s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:07:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000814s ]
+[ 2022-11-22T23:07:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147666,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.004215s ]
+[ 2022-11-22T23:07:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000445s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:07:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000681s ]
+[ 2022-11-22T23:07:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147672,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002661s ]
+[ 2022-11-22T23:08:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000502s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:08:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000760s ]
+[ 2022-11-22T23:08:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147681,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003388s ]
+[ 2022-11-22T23:08:07+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000419s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:08:07+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000804s ]
+[ 2022-11-22T23:08:07+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147687,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.004537s ]
+[ 2022-11-22T23:08:12+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000647s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:08:12+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000700s ]
+[ 2022-11-22T23:08:12+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147692,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003713s ]
+[ 2022-11-22T23:08:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000473s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:08:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000808s ]
+[ 2022-11-22T23:08:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147707,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003910s ]
+[ 2022-11-22T23:08:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000614s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:08:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000909s ]
+[ 2022-11-22T23:08:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147712,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002902s ]
+[ 2022-11-22T23:08:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000572s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:08:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001030s ]
+[ 2022-11-22T23:08:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147717,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003689s ]
+[ 2022-11-22T23:08:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000440s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:08:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000840s ]
+[ 2022-11-22T23:08:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147727,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002525s ]
+[ 2022-11-22T23:08:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000472s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:08:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000687s ]
+[ 2022-11-22T23:08:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147732,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002154s ]
+[ 2022-11-22T23:08:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000514s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:08:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.005157s ]
+[ 2022-11-22T23:08:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147737,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.005616s ]
+[ 2022-11-22T23:09:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000946s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:09:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000695s ]
+[ 2022-11-22T23:09:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147751,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002202s ]
+[ 2022-11-22T23:09:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000617s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:09:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000715s ]
+[ 2022-11-22T23:09:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147756,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002450s ]
+[ 2022-11-22T23:09:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000553s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:09:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000670s ]
+[ 2022-11-22T23:09:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147761,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003671s ]
+[ 2022-11-22T23:09:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000486s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:09:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000686s ]
+[ 2022-11-22T23:09:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147771,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002543s ]
+[ 2022-11-22T23:09:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000439s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:09:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000683s ]
+[ 2022-11-22T23:09:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147776,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002533s ]
+[ 2022-11-22T23:09:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000465s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:09:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000809s ]
+[ 2022-11-22T23:09:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147781,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004842s ]
+[ 2022-11-22T23:09:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000445s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:09:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000834s ]
+[ 2022-11-22T23:09:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147796,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003094s ]
+[ 2022-11-22T23:10:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.003126s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:10:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000782s ]
+[ 2022-11-22T23:10:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147801,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.022541s ]
+[ 2022-11-22T23:10:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000648s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:10:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000963s ]
+[ 2022-11-22T23:10:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147806,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003114s ]
+[ 2022-11-22T23:10:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000482s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:10:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000689s ]
+[ 2022-11-22T23:10:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147816,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002570s ]
+[ 2022-11-22T23:10:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000539s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:10:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000945s ]
+[ 2022-11-22T23:10:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147821,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.006155s ]
+[ 2022-11-22T23:10:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000650s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:10:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001396s ]
+[ 2022-11-22T23:10:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147826,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003097s ]
+[ 2022-11-22T23:10:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000447s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:10:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000667s ]
+[ 2022-11-22T23:10:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147842,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002540s ]
+[ 2022-11-22T23:10:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000561s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:10:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000751s ]
+[ 2022-11-22T23:10:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147847,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002752s ]
+[ 2022-11-22T23:10:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000441s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:10:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000920s ]
+[ 2022-11-22T23:10:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147852,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003489s ]
+[ 2022-11-22T23:11:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000732s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:11:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001027s ]
+[ 2022-11-22T23:11:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147861,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003644s ]
+[ 2022-11-22T23:11:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000480s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:11:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000679s ]
+[ 2022-11-22T23:11:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147866,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003182s ]
+[ 2022-11-22T23:11:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000690s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:11:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001005s ]
+[ 2022-11-22T23:11:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147871,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003661s ]
+[ 2022-11-22T23:11:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001051s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:11:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001188s ]
+[ 2022-11-22T23:11:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147887,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003217s ]
+[ 2022-11-22T23:11:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000401s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:11:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000678s ]
+[ 2022-11-22T23:11:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147892,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002728s ]
+[ 2022-11-22T23:11:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000404s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:11:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000711s ]
+[ 2022-11-22T23:11:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147897,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.005427s ]
+[ 2022-11-22T23:11:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000721s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:11:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000711s ]
+[ 2022-11-22T23:11:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147907,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002454s ]
+[ 2022-11-22T23:11:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000653s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:11:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000881s ]
+[ 2022-11-22T23:11:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147912,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002606s ]
+[ 2022-11-22T23:11:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000589s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:11:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000971s ]
+[ 2022-11-22T23:11:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147917,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004829s ]
+[ 2022-11-22T23:12:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000757s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:12:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000704s ]
+[ 2022-11-22T23:12:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147931,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.006945s ]
+[ 2022-11-22T23:12:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000504s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:12:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000883s ]
+[ 2022-11-22T23:12:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147936,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002731s ]
+[ 2022-11-22T23:12:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000574s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:12:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000854s ]
+[ 2022-11-22T23:12:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147941,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003199s ]
+[ 2022-11-22T23:12:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000475s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:12:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000646s ]
+[ 2022-11-22T23:12:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147951,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.015624s ]
+[ 2022-11-22T23:12:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000553s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:12:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000723s ]
+[ 2022-11-22T23:12:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147956,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002412s ]
+[ 2022-11-22T23:12:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000644s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:12:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001075s ]
+[ 2022-11-22T23:12:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147961,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004629s ]
+[ 2022-11-22T23:12:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000435s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:12:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000742s ]
+[ 2022-11-22T23:12:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147976,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003555s ]
+[ 2022-11-22T23:13:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.003262s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:13:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.004236s ]
+[ 2022-11-22T23:13:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147981,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.008176s ]
+[ 2022-11-22T23:13:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000547s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:13:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000800s ]
+[ 2022-11-22T23:13:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147986,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003547s ]
+[ 2022-11-22T23:13:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000558s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:13:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000703s ]
+[ 2022-11-22T23:13:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669147996,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002730s ]
+[ 2022-11-22T23:13:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000488s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:13:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000673s ]
+[ 2022-11-22T23:13:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148001,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002685s ]
+[ 2022-11-22T23:13:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000784s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:13:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000767s ]
+[ 2022-11-22T23:13:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148006,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004754s ]
+[ 2022-11-22T23:13:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000570s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:13:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000958s ]
+[ 2022-11-22T23:13:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148021,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003890s ]
+[ 2022-11-22T23:13:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000506s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:13:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000816s ]
+[ 2022-11-22T23:13:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148026,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.004128s ]
+[ 2022-11-22T23:13:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000464s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:13:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000783s ]
+[ 2022-11-22T23:13:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148032,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003314s ]
+[ 2022-11-22T23:14:02+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000601s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:14:02+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000808s ]
+[ 2022-11-22T23:14:02+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148042,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.004847s ]
+[ 2022-11-22T23:14:07+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000613s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:14:07+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000798s ]
+[ 2022-11-22T23:14:07+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148047,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003734s ]
+[ 2022-11-22T23:14:12+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000492s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:14:12+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000717s ]
+[ 2022-11-22T23:14:12+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148052,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003111s ]
+[ 2022-11-22T23:14:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000919s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:14:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000658s ]
+[ 2022-11-22T23:14:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148067,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003129s ]
+[ 2022-11-22T23:14:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000551s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:14:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000716s ]
+[ 2022-11-22T23:14:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148072,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002504s ]
+[ 2022-11-22T23:14:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000572s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:14:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000676s ]
+[ 2022-11-22T23:14:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148077,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003220s ]
+[ 2022-11-22T23:14:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000894s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:14:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001627s ]
+[ 2022-11-22T23:14:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148087,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002402s ]
+[ 2022-11-22T23:14:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000788s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:14:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000681s ]
+[ 2022-11-22T23:14:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148092,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003329s ]
+[ 2022-11-22T23:14:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000479s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:14:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000651s ]
+[ 2022-11-22T23:14:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148097,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003730s ]
+[ 2022-11-22T23:15:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000484s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:15:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000676s ]
+[ 2022-11-22T23:15:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148111,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002658s ]
+[ 2022-11-22T23:15:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000570s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:15:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000686s ]
+[ 2022-11-22T23:15:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148116,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.003596s ]
+[ 2022-11-22T23:15:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000753s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:15:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001644s ]
+[ 2022-11-22T23:15:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148121,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.002934s ]
+[ 2022-11-22T23:15:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000450s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:15:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000688s ]
+[ 2022-11-22T23:15:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148131,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.013379s ]
+[ 2022-11-22T23:15:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000403s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:15:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000657s ]
+[ 2022-11-22T23:15:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148136,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.015760s ]
+[ 2022-11-22T23:15:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000599s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:15:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000737s ]
+[ 2022-11-22T23:15:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148141,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002970s ]
+[ 2022-11-22T23:15:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000539s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:15:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001093s ]
+[ 2022-11-22T23:15:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148156,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003296s ]
+[ 2022-11-22T23:16:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001035s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:16:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001570s ]
+[ 2022-11-22T23:16:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148161,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.003474s ]
+[ 2022-11-22T23:16:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000475s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:16:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000681s ]
+[ 2022-11-22T23:16:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148166,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003169s ]
+[ 2022-11-22T23:16:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000677s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:16:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000943s ]
+[ 2022-11-22T23:16:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148176,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002765s ]
+[ 2022-11-22T23:16:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000454s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:16:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000679s ]
+[ 2022-11-22T23:16:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148181,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003367s ]
+[ 2022-11-22T23:16:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000488s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:16:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000656s ]
+[ 2022-11-22T23:16:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148186,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.005410s ]
+[ 2022-11-22T23:16:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000447s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:16:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.003249s ]
+[ 2022-11-22T23:16:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148202,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003449s ]
+[ 2022-11-22T23:16:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000548s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:16:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000681s ]
+[ 2022-11-22T23:16:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148207,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003511s ]
+[ 2022-11-22T23:16:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000541s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:16:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000884s ]
+[ 2022-11-22T23:16:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148212,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002756s ]
+[ 2022-11-22T23:17:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001125s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:17:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000905s ]
+[ 2022-11-22T23:17:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148221,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002404s ]
+[ 2022-11-22T23:17:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000495s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:17:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000958s ]
+[ 2022-11-22T23:17:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148226,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003490s ]
+[ 2022-11-22T23:17:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000529s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:17:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000847s ]
+[ 2022-11-22T23:17:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148231,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003039s ]
+[ 2022-11-22T23:17:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000458s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:17:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000714s ]
+[ 2022-11-22T23:17:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148247,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002862s ]
+[ 2022-11-22T23:17:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.006692s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:17:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001820s ]
+[ 2022-11-22T23:17:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148252,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002817s ]
+[ 2022-11-22T23:17:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000414s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:17:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000672s ]
+[ 2022-11-22T23:17:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148257,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003322s ]
+[ 2022-11-22T23:17:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000405s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:17:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000724s ]
+[ 2022-11-22T23:17:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148267,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.004090s ]
+[ 2022-11-22T23:17:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000589s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:17:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000951s ]
+[ 2022-11-22T23:17:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148272,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002796s ]
+[ 2022-11-22T23:17:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000411s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:17:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000704s ]
+[ 2022-11-22T23:17:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148277,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003119s ]
+[ 2022-11-22T23:18:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000569s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:18:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000701s ]
+[ 2022-11-22T23:18:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148291,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003180s ]
+[ 2022-11-22T23:18:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000562s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:18:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000703s ]
+[ 2022-11-22T23:18:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148296,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002429s ]
+[ 2022-11-22T23:18:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000524s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:18:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000813s ]
+[ 2022-11-22T23:18:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148301,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.002683s ]
+[ 2022-11-22T23:18:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000477s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:18:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000701s ]
+[ 2022-11-22T23:18:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148311,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002845s ]
+[ 2022-11-22T23:18:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000657s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:18:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000703s ]
+[ 2022-11-22T23:18:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148316,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.006111s ]
+[ 2022-11-22T23:18:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000486s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:18:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000723s ]
+[ 2022-11-22T23:18:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148321,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004135s ]
+[ 2022-11-22T23:18:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000536s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:18:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000829s ]
+[ 2022-11-22T23:18:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148336,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002607s ]
+[ 2022-11-22T23:19:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000831s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:19:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000718s ]
+[ 2022-11-22T23:19:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148341,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002925s ]
+[ 2022-11-22T23:19:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000458s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:19:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000861s ]
+[ 2022-11-22T23:19:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148346,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003252s ]
+[ 2022-11-22T23:19:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000447s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:19:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001185s ]
+[ 2022-11-22T23:19:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148356,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002901s ]
+[ 2022-11-22T23:19:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000448s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:19:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001126s ]
+[ 2022-11-22T23:19:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148361,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003443s ]
+[ 2022-11-22T23:19:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000534s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:19:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000707s ]
+[ 2022-11-22T23:19:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148366,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004311s ]
+[ 2022-11-22T23:19:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000494s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:19:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000694s ]
+[ 2022-11-22T23:19:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148381,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002233s ]
+[ 2022-11-22T23:19:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000476s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:19:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000835s ]
+[ 2022-11-22T23:19:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148387,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003723s ]
+[ 2022-11-22T23:19:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000534s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:19:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000728s ]
+[ 2022-11-22T23:19:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148392,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.005550s ]
+[ 2022-11-22T23:20:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000861s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:20:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000697s ]
+[ 2022-11-22T23:20:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148401,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.021819s ]
+[ 2022-11-22T23:20:07+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000488s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:20:07+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000706s ]
+[ 2022-11-22T23:20:07+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148407,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003557s ]
+[ 2022-11-22T23:20:12+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000446s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:20:12+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000811s ]
+[ 2022-11-22T23:20:12+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148412,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002972s ]
+[ 2022-11-22T23:20:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000637s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:20:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000724s ]
+[ 2022-11-22T23:20:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148427,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.004917s ]
+[ 2022-11-22T23:20:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000653s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:20:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001036s ]
+[ 2022-11-22T23:20:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148432,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003193s ]
+[ 2022-11-22T23:20:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000420s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:20:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000667s ]
+[ 2022-11-22T23:20:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148437,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002475s ]
+[ 2022-11-22T23:20:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000459s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:20:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000694s ]
+[ 2022-11-22T23:20:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148447,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002655s ]
+[ 2022-11-22T23:20:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001106s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:20:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000906s ]
+[ 2022-11-22T23:20:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148452,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002857s ]
+[ 2022-11-22T23:20:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000507s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:20:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000693s ]
+[ 2022-11-22T23:20:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148457,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002766s ]
+[ 2022-11-22T23:21:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000583s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:21:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000749s ]
+[ 2022-11-22T23:21:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148471,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002592s ]
+[ 2022-11-22T23:21:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000427s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:21:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000742s ]
+[ 2022-11-22T23:21:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148476,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002743s ]
+[ 2022-11-22T23:21:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000472s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:21:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000899s ]
+[ 2022-11-22T23:21:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148481,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.004246s ]
+[ 2022-11-22T23:21:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000551s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:21:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000688s ]
+[ 2022-11-22T23:21:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148491,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003346s ]
+[ 2022-11-22T23:21:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000473s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:21:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000761s ]
+[ 2022-11-22T23:21:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148496,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003480s ]
+[ 2022-11-22T23:21:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000652s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:21:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001344s ]
+[ 2022-11-22T23:21:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148501,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002984s ]
+[ 2022-11-22T23:21:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000527s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:21:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000787s ]
+[ 2022-11-22T23:21:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148516,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002291s ]
+[ 2022-11-22T23:22:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001522s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:22:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000997s ]
+[ 2022-11-22T23:22:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148521,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.042919s ]
+[ 2022-11-22T23:22:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000500s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:22:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000740s ]
+[ 2022-11-22T23:22:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148526,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.004121s ]
+[ 2022-11-22T23:22:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000465s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:22:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000819s ]
+[ 2022-11-22T23:22:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148536,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.004610s ]
+[ 2022-11-22T23:22:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.002213s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:22:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.003588s ]
+[ 2022-11-22T23:22:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148541,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002837s ]
+[ 2022-11-22T23:22:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000619s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:22:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000778s ]
+[ 2022-11-22T23:22:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148546,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002527s ]
+[ 2022-11-22T23:22:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000506s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:22:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000718s ]
+[ 2022-11-22T23:22:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148562,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002927s ]
+[ 2022-11-22T23:22:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000557s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:22:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001191s ]
+[ 2022-11-22T23:22:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148567,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003261s ]
+[ 2022-11-22T23:22:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000396s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:22:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000658s ]
+[ 2022-11-22T23:22:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148572,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.007850s ]
+[ 2022-11-22T23:23:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000706s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:23:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001129s ]
+[ 2022-11-22T23:23:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148581,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002721s ]
+[ 2022-11-22T23:23:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000441s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:23:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000726s ]
+[ 2022-11-22T23:23:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148586,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003086s ]
+[ 2022-11-22T23:23:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000616s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:23:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000676s ]
+[ 2022-11-22T23:23:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148591,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002533s ]
+[ 2022-11-22T23:23:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000428s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:23:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000749s ]
+[ 2022-11-22T23:23:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148607,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003943s ]
+[ 2022-11-22T23:23:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000489s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:23:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000753s ]
+[ 2022-11-22T23:23:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148612,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.005212s ]
+[ 2022-11-22T23:23:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000504s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:23:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000681s ]
+[ 2022-11-22T23:23:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148617,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003501s ]
+[ 2022-11-22T23:23:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000592s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:23:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000785s ]
+[ 2022-11-22T23:23:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148627,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003276s ]
+[ 2022-11-22T23:23:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000527s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:23:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000886s ]
+[ 2022-11-22T23:23:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148632,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002843s ]
+[ 2022-11-22T23:23:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000519s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:23:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000670s ]
+[ 2022-11-22T23:23:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148637,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003012s ]
+[ 2022-11-22T23:24:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000525s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:24:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000737s ]
+[ 2022-11-22T23:24:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148651,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003274s ]
+[ 2022-11-22T23:24:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000663s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:24:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001077s ]
+[ 2022-11-22T23:24:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148656,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.003465s ]
+[ 2022-11-22T23:24:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000499s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:24:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000786s ]
+[ 2022-11-22T23:24:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148661,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003113s ]
+[ 2022-11-22T23:24:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000904s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:24:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000684s ]
+[ 2022-11-22T23:24:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148671,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002808s ]
+[ 2022-11-22T23:24:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000553s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:24:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000722s ]
+[ 2022-11-22T23:24:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148676,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003412s ]
+[ 2022-11-22T23:24:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000566s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:24:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001300s ]
+[ 2022-11-22T23:24:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148681,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004640s ]
+[ 2022-11-22T23:24:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000873s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:24:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000726s ]
+[ 2022-11-22T23:24:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148696,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003194s ]
+[ 2022-11-22T23:25:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.011268s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:25:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000719s ]
+[ 2022-11-22T23:25:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148701,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.006479s ]
+[ 2022-11-22T23:25:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000472s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:25:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000790s ]
+[ 2022-11-22T23:25:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148706,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.004800s ]
+[ 2022-11-22T23:25:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000471s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:25:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.005181s ]
+[ 2022-11-22T23:25:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148716,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002831s ]
+[ 2022-11-22T23:25:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000585s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:25:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000806s ]
+[ 2022-11-22T23:25:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148721,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002593s ]
+[ 2022-11-22T23:25:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000394s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:25:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000695s ]
+[ 2022-11-22T23:25:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148726,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003444s ]
+[ 2022-11-22T23:25:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001004s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:25:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000899s ]
+[ 2022-11-22T23:25:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148742,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002490s ]
+[ 2022-11-22T23:25:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000547s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:25:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000970s ]
+[ 2022-11-22T23:25:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148747,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.004636s ]
+[ 2022-11-22T23:25:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000619s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:25:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000845s ]
+[ 2022-11-22T23:25:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148752,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.004403s ]
+[ 2022-11-22T23:26:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000660s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:26:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000830s ]
+[ 2022-11-22T23:26:02+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148761,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002352s ]
+[ 2022-11-22T23:26:07+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000571s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:26:07+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000705s ]
+[ 2022-11-22T23:26:07+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148767,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003169s ]
+[ 2022-11-22T23:26:12+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000445s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:26:12+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000700s ]
+[ 2022-11-22T23:26:12+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148772,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.005394s ]
+[ 2022-11-22T23:26:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000565s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:26:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000773s ]
+[ 2022-11-22T23:26:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148787,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002924s ]
+[ 2022-11-22T23:26:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000445s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:26:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001238s ]
+[ 2022-11-22T23:26:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148792,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003019s ]
+[ 2022-11-22T23:26:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000488s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:26:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000680s ]
+[ 2022-11-22T23:26:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148797,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002771s ]
+[ 2022-11-22T23:26:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000633s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:26:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000774s ]
+[ 2022-11-22T23:26:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148807,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002554s ]
+[ 2022-11-22T23:26:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001166s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:26:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000681s ]
+[ 2022-11-22T23:26:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148812,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.006983s ]
+[ 2022-11-22T23:26:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000408s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:26:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000648s ]
+[ 2022-11-22T23:26:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148817,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002675s ]
+[ 2022-11-22T23:27:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000530s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:27:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000945s ]
+[ 2022-11-22T23:27:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148831,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003129s ]
+[ 2022-11-22T23:27:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000494s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:27:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000722s ]
+[ 2022-11-22T23:27:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148836,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002389s ]
+[ 2022-11-22T23:27:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000440s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:27:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000710s ]
+[ 2022-11-22T23:27:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148841,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003097s ]
+[ 2022-11-22T23:27:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000428s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:27:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001937s ]
+[ 2022-11-22T23:27:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148851,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003765s ]
+[ 2022-11-22T23:27:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000537s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:27:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000759s ]
+[ 2022-11-22T23:27:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148856,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002506s ]
+[ 2022-11-22T23:27:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000556s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:27:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000679s ]
+[ 2022-11-22T23:27:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148861,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004020s ]
+[ 2022-11-22T23:27:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000641s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:27:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000722s ]
+[ 2022-11-22T23:27:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148876,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002695s ]
+[ 2022-11-22T23:28:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000392s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:28:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000641s ]
+[ 2022-11-22T23:28:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148881,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.010828s ]
+[ 2022-11-22T23:28:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000505s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:28:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.003638s ]
+[ 2022-11-22T23:28:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148886,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.004150s ]
+[ 2022-11-22T23:28:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000875s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:28:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000822s ]
+[ 2022-11-22T23:28:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148896,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002528s ]
+[ 2022-11-22T23:28:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000482s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:28:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000689s ]
+[ 2022-11-22T23:28:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148901,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.005905s ]
+[ 2022-11-22T23:28:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000538s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:28:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001044s ]
+[ 2022-11-22T23:28:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148906,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003690s ]
+[ 2022-11-22T23:28:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000533s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:28:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001034s ]
+[ 2022-11-22T23:28:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148922,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002709s ]
+[ 2022-11-22T23:28:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000464s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:28:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000676s ]
+[ 2022-11-22T23:28:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148927,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002829s ]
+[ 2022-11-22T23:28:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.003239s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:28:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000683s ]
+[ 2022-11-22T23:28:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148932,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002589s ]
+[ 2022-11-22T23:29:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000461s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:29:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000778s ]
+[ 2022-11-22T23:29:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148941,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.008619s ]
+[ 2022-11-22T23:29:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000495s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:29:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000668s ]
+[ 2022-11-22T23:29:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148946,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002895s ]
+[ 2022-11-22T23:29:12+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000534s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:29:12+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000769s ]
+[ 2022-11-22T23:29:12+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148952,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003097s ]
+[ 2022-11-22T23:29:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000474s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:29:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000686s ]
+[ 2022-11-22T23:29:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148967,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002565s ]
+[ 2022-11-22T23:29:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000553s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:29:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000643s ]
+[ 2022-11-22T23:29:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148972,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.008525s ]
+[ 2022-11-22T23:29:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000455s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:29:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000737s ]
+[ 2022-11-22T23:29:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148977,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.004439s ]
+[ 2022-11-22T23:29:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000582s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:29:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000671s ]
+[ 2022-11-22T23:29:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148987,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003051s ]
+[ 2022-11-22T23:29:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000456s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:29:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000792s ]
+[ 2022-11-22T23:29:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148992,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002672s ]
+[ 2022-11-22T23:29:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000637s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:29:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000672s ]
+[ 2022-11-22T23:29:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669148997,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003341s ]
+[ 2022-11-22T23:30:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000461s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:30:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000789s ]
+[ 2022-11-22T23:30:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149011,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002793s ]
+[ 2022-11-22T23:30:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000546s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:30:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000972s ]
+[ 2022-11-22T23:30:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149016,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002908s ]
+[ 2022-11-22T23:30:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000618s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:30:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000663s ]
+[ 2022-11-22T23:30:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149021,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.014161s ]
+[ 2022-11-22T23:30:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000462s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:30:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000692s ]
+[ 2022-11-22T23:30:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149031,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002342s ]
+[ 2022-11-22T23:30:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000435s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:30:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000687s ]
+[ 2022-11-22T23:30:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149036,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002881s ]
+[ 2022-11-22T23:30:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000443s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:30:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000690s ]
+[ 2022-11-22T23:30:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149041,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004079s ]
+[ 2022-11-22T23:30:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000443s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:30:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000968s ]
+[ 2022-11-22T23:30:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149056,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002780s ]
+[ 2022-11-22T23:31:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000593s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:31:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001539s ]
+[ 2022-11-22T23:31:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149061,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.008773s ]
+[ 2022-11-22T23:31:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000504s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:31:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000740s ]
+[ 2022-11-22T23:31:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149066,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.002480s ]
+[ 2022-11-22T23:31:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000482s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:31:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000993s ]
+[ 2022-11-22T23:31:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149076,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002617s ]
+[ 2022-11-22T23:31:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000580s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:31:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000811s ]
+[ 2022-11-22T23:31:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149081,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002339s ]
+[ 2022-11-22T23:31:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000492s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:31:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000914s ]
+[ 2022-11-22T23:31:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149086,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003209s ]
+[ 2022-11-22T23:31:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000406s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:31:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000666s ]
+[ 2022-11-22T23:31:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149101,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002906s ]
+[ 2022-11-22T23:31:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000446s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:31:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000807s ]
+[ 2022-11-22T23:31:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149106,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002881s ]
+[ 2022-11-22T23:31:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000684s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:31:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001060s ]
+[ 2022-11-22T23:31:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149112,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002983s ]
+[ 2022-11-22T23:32:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000435s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:32:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000716s ]
+[ 2022-11-22T23:32:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149121,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003098s ]
+[ 2022-11-22T23:32:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000489s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:32:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000727s ]
+[ 2022-11-22T23:32:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149126,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002885s ]
+[ 2022-11-22T23:32:12+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000440s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:32:12+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000877s ]
+[ 2022-11-22T23:32:12+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149132,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.006218s ]
+[ 2022-11-22T23:32:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000499s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:32:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000696s ]
+[ 2022-11-22T23:32:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149147,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002507s ]
+[ 2022-11-22T23:32:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001484s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:32:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000812s ]
+[ 2022-11-22T23:32:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149152,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002604s ]
+[ 2022-11-22T23:32:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000400s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:32:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000665s ]
+[ 2022-11-22T23:32:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149157,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003332s ]
+[ 2022-11-22T23:32:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000425s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:32:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001164s ]
+[ 2022-11-22T23:32:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149167,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003071s ]
+[ 2022-11-22T23:32:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000520s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:32:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000901s ]
+[ 2022-11-22T23:32:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149172,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.004037s ]
+[ 2022-11-22T23:32:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000590s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:32:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000721s ]
+[ 2022-11-22T23:32:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149177,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003075s ]
+[ 2022-11-22T23:33:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000629s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:33:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001267s ]
+[ 2022-11-22T23:33:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149191,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400060') [ RunTime:0.003441s ]
+[ 2022-11-22T23:33:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000449s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:33:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000649s ]
+[ 2022-11-22T23:33:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149196,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002881s ]
+[ 2022-11-22T23:33:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000424s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:33:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000690s ]
+[ 2022-11-22T23:33:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149201,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003841s ]
+[ 2022-11-22T23:33:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000414s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:33:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000713s ]
+[ 2022-11-22T23:33:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149211,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003427s ]
+[ 2022-11-22T23:33:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000450s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:33:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000645s ]
+[ 2022-11-22T23:33:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149216,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003065s ]
+[ 2022-11-22T23:33:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000530s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:33:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000686s ]
+[ 2022-11-22T23:33:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149221,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003531s ]
+[ 2022-11-22T23:33:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000589s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:33:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000678s ]
+[ 2022-11-22T23:33:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149236,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002989s ]
+[ 2022-11-22T23:34:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000544s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:34:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000805s ]
+[ 2022-11-22T23:34:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149241,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.005013s ]
+[ 2022-11-22T23:34:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000513s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:34:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000718s ]
+[ 2022-11-22T23:34:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149246,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003064s ]
+[ 2022-11-22T23:34:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000882s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:34:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000760s ]
+[ 2022-11-22T23:34:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149256,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002413s ]
+[ 2022-11-22T23:34:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000480s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:34:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000644s ]
+[ 2022-11-22T23:34:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149261,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002557s ]
+[ 2022-11-22T23:34:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000453s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:34:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000747s ]
+[ 2022-11-22T23:34:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149266,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003758s ]
+[ 2022-11-22T23:34:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000508s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:34:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000819s ]
+[ 2022-11-22T23:34:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149281,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002755s ]
+[ 2022-11-22T23:34:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001460s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:34:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000659s ]
+[ 2022-11-22T23:34:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149286,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.005144s ]
+[ 2022-11-22T23:34:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000394s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:34:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000687s ]
+[ 2022-11-22T23:34:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149292,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002874s ]
+[ 2022-11-22T23:35:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.036519s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:35:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001088s ]
+[ 2022-11-22T23:35:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149301,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003075s ]
+[ 2022-11-22T23:35:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000910s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:35:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000935s ]
+[ 2022-11-22T23:35:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149306,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003043s ]
+[ 2022-11-22T23:35:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000440s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:35:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001007s ]
+[ 2022-11-22T23:35:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149311,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003492s ]
+[ 2022-11-22T23:35:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000621s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:35:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000922s ]
+[ 2022-11-22T23:35:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149327,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003616s ]
+[ 2022-11-22T23:35:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000438s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:35:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000744s ]
+[ 2022-11-22T23:35:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149332,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003132s ]
+[ 2022-11-22T23:35:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000517s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:35:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000799s ]
+[ 2022-11-22T23:35:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149337,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003429s ]
+[ 2022-11-22T23:35:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000444s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:35:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000759s ]
+[ 2022-11-22T23:35:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149347,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002463s ]
+[ 2022-11-22T23:35:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001817s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:35:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000673s ]
+[ 2022-11-22T23:35:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149352,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003189s ]
+[ 2022-11-22T23:35:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000588s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:35:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000748s ]
+[ 2022-11-22T23:35:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149357,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003504s ]
+[ 2022-11-22T23:36:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000443s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:36:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000816s ]
+[ 2022-11-22T23:36:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149371,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002530s ]
+[ 2022-11-22T23:36:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000470s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:36:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000717s ]
+[ 2022-11-22T23:36:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149376,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002705s ]
+[ 2022-11-22T23:36:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000983s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:36:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000698s ]
+[ 2022-11-22T23:36:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149381,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.002570s ]
+[ 2022-11-22T23:36:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000472s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:36:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000685s ]
+[ 2022-11-22T23:36:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149391,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003096s ]
+[ 2022-11-22T23:36:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000595s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:36:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000742s ]
+[ 2022-11-22T23:36:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149396,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002384s ]
+[ 2022-11-22T23:36:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000661s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:36:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000820s ]
+[ 2022-11-22T23:36:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149401,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003135s ]
+[ 2022-11-22T23:36:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000453s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:36:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000681s ]
+[ 2022-11-22T23:36:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149416,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002334s ]
+[ 2022-11-22T23:37:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000431s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:37:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000689s ]
+[ 2022-11-22T23:37:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149421,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002765s ]
+[ 2022-11-22T23:37:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000384s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:37:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000655s ]
+[ 2022-11-22T23:37:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149426,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003211s ]
+[ 2022-11-22T23:37:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000556s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:37:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000733s ]
+[ 2022-11-22T23:37:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149436,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002450s ]
+[ 2022-11-22T23:37:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000551s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:37:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000679s ]
+[ 2022-11-22T23:37:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149441,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003612s ]
+[ 2022-11-22T23:37:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000532s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:37:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000867s ]
+[ 2022-11-22T23:37:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149446,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002630s ]
+[ 2022-11-22T23:37:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000661s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:37:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000961s ]
+[ 2022-11-22T23:37:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149461,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002423s ]
+[ 2022-11-22T23:37:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000498s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:37:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000811s ]
+[ 2022-11-22T23:37:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149466,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002955s ]
+[ 2022-11-22T23:37:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000609s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:37:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000903s ]
+[ 2022-11-22T23:37:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149472,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002741s ]
+[ 2022-11-22T23:38:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001442s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:38:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000986s ]
+[ 2022-11-22T23:38:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149481,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.007817s ]
+[ 2022-11-22T23:38:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001183s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:38:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000662s ]
+[ 2022-11-22T23:38:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149486,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.005218s ]
+[ 2022-11-22T23:38:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000649s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:38:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000789s ]
+[ 2022-11-22T23:38:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149491,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002528s ]
+[ 2022-11-22T23:38:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000538s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:38:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000760s ]
+[ 2022-11-22T23:38:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149506,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003947s ]
+[ 2022-11-22T23:38:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000487s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:38:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000969s ]
+[ 2022-11-22T23:38:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149512,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003548s ]
+[ 2022-11-22T23:38:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000471s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:38:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000742s ]
+[ 2022-11-22T23:38:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149517,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003331s ]
+[ 2022-11-22T23:38:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000538s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:38:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000831s ]
+[ 2022-11-22T23:38:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149527,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002422s ]
+[ 2022-11-22T23:38:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000496s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:38:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000682s ]
+[ 2022-11-22T23:38:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149532,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002562s ]
+[ 2022-11-22T23:38:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000556s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:38:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000674s ]
+[ 2022-11-22T23:38:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149537,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002871s ]
+[ 2022-11-22T23:39:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000442s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:39:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000644s ]
+[ 2022-11-22T23:39:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149551,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002405s ]
+[ 2022-11-22T23:39:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000441s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:39:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000710s ]
+[ 2022-11-22T23:39:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149556,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.005667s ]
+[ 2022-11-22T23:39:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000457s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:39:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000962s ]
+[ 2022-11-22T23:39:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149561,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003950s ]
+[ 2022-11-22T23:39:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000413s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:39:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000759s ]
+[ 2022-11-22T23:39:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149571,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002672s ]
+[ 2022-11-22T23:39:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000389s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:39:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000688s ]
+[ 2022-11-22T23:39:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149576,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002388s ]
+[ 2022-11-22T23:39:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000711s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:39:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000697s ]
+[ 2022-11-22T23:39:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149581,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003736s ]
+[ 2022-11-22T23:39:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000371s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:39:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000704s ]
+[ 2022-11-22T23:39:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149596,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002382s ]
+[ 2022-11-22T23:40:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.004056s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:40:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000749s ]
+[ 2022-11-22T23:40:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149601,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.003039s ]
+[ 2022-11-22T23:40:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000565s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:40:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000761s ]
+[ 2022-11-22T23:40:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149606,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.005691s ]
+[ 2022-11-22T23:40:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000434s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:40:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000964s ]
+[ 2022-11-22T23:40:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149616,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002657s ]
+[ 2022-11-22T23:40:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.002291s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:40:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001451s ]
+[ 2022-11-22T23:40:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149621,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.004846s ]
+[ 2022-11-22T23:40:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000480s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:40:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000662s ]
+[ 2022-11-22T23:40:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149626,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003104s ]
+[ 2022-11-22T23:40:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000522s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:40:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000858s ]
+[ 2022-11-22T23:40:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149641,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003520s ]
+[ 2022-11-22T23:40:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000505s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:40:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000700s ]
+[ 2022-11-22T23:40:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149646,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.004014s ]
+[ 2022-11-22T23:40:51+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000451s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:40:51+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000713s ]
+[ 2022-11-22T23:40:51+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149651,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002473s ]
+[ 2022-11-22T23:41:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.002144s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:41:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000774s ]
+[ 2022-11-22T23:41:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149661,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.006779s ]
+[ 2022-11-22T23:41:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000496s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:41:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000721s ]
+[ 2022-11-22T23:41:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149666,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003861s ]
+[ 2022-11-22T23:41:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000701s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:41:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000786s ]
+[ 2022-11-22T23:41:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149671,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002285s ]
+[ 2022-11-22T23:41:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000461s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:41:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000707s ]
+[ 2022-11-22T23:41:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149686,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002401s ]
+[ 2022-11-22T23:41:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000561s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:41:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000823s ]
+[ 2022-11-22T23:41:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149691,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002662s ]
+[ 2022-11-22T23:41:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000428s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:41:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000935s ]
+[ 2022-11-22T23:41:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149696,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003096s ]
+[ 2022-11-22T23:41:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001730s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:41:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000792s ]
+[ 2022-11-22T23:41:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149707,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002328s ]
+[ 2022-11-22T23:41:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000738s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:41:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000943s ]
+[ 2022-11-22T23:41:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149712,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002340s ]
+[ 2022-11-22T23:41:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000794s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:41:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000822s ]
+[ 2022-11-22T23:41:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149717,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003857s ]
+[ 2022-11-22T23:42:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000500s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:42:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000669s ]
+[ 2022-11-22T23:42:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149731,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002702s ]
+[ 2022-11-22T23:42:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000423s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:42:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000707s ]
+[ 2022-11-22T23:42:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149736,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.003273s ]
+[ 2022-11-22T23:42:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000409s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:42:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000839s ]
+[ 2022-11-22T23:42:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149741,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003493s ]
+[ 2022-11-22T23:42:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000591s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:42:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000656s ]
+[ 2022-11-22T23:42:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149751,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003007s ]
+[ 2022-11-22T23:42:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000641s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:42:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000659s ]
+[ 2022-11-22T23:42:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149756,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002361s ]
+[ 2022-11-22T23:42:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000403s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:42:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000769s ]
+[ 2022-11-22T23:42:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149761,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002777s ]
+[ 2022-11-22T23:42:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000424s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:42:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000669s ]
+[ 2022-11-22T23:42:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149776,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002660s ]
+[ 2022-11-22T23:43:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000661s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:43:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000787s ]
+[ 2022-11-22T23:43:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149781,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002824s ]
+[ 2022-11-22T23:43:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000643s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:43:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000660s ]
+[ 2022-11-22T23:43:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149786,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003614s ]
+[ 2022-11-22T23:43:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000388s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:43:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000817s ]
+[ 2022-11-22T23:43:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149796,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003300s ]
+[ 2022-11-22T23:43:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000549s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:43:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000749s ]
+[ 2022-11-22T23:43:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149801,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002436s ]
+[ 2022-11-22T23:43:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000461s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:43:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000797s ]
+[ 2022-11-22T23:43:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149806,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003126s ]
+[ 2022-11-22T23:43:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000515s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:43:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000734s ]
+[ 2022-11-22T23:43:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149821,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002331s ]
+[ 2022-11-22T23:43:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000495s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:43:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000714s ]
+[ 2022-11-22T23:43:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149826,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002522s ]
+[ 2022-11-22T23:43:51+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000904s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:43:51+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000970s ]
+[ 2022-11-22T23:43:51+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149831,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003415s ]
+[ 2022-11-22T23:44:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.006653s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:44:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000714s ]
+[ 2022-11-22T23:44:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149841,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.004164s ]
+[ 2022-11-22T23:44:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000408s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:44:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000767s ]
+[ 2022-11-22T23:44:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149846,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002504s ]
+[ 2022-11-22T23:44:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000429s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:44:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000714s ]
+[ 2022-11-22T23:44:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149851,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.006493s ]
+[ 2022-11-22T23:44:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000450s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:44:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000765s ]
+[ 2022-11-22T23:44:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149867,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002881s ]
+[ 2022-11-22T23:44:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000735s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:44:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000680s ]
+[ 2022-11-22T23:44:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149872,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003216s ]
+[ 2022-11-22T23:44:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000444s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:44:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000703s ]
+[ 2022-11-22T23:44:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149877,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002962s ]
+[ 2022-11-22T23:44:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000412s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:44:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000769s ]
+[ 2022-11-22T23:44:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149887,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002802s ]
+[ 2022-11-22T23:44:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000601s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:44:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000758s ]
+[ 2022-11-22T23:44:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149892,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003043s ]
+[ 2022-11-22T23:44:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000428s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:44:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000679s ]
+[ 2022-11-22T23:44:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149897,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002690s ]
+[ 2022-11-22T23:45:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000816s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:45:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000800s ]
+[ 2022-11-22T23:45:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149911,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.004307s ]
+[ 2022-11-22T23:45:17+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000711s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:45:17+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001013s ]
+[ 2022-11-22T23:45:17+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149917,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003247s ]
+[ 2022-11-22T23:45:22+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000538s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:45:22+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001223s ]
+[ 2022-11-22T23:45:22+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149922,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.004441s ]
+[ 2022-11-22T23:45:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000622s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:45:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000680s ]
+[ 2022-11-22T23:45:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149932,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002378s ]
+[ 2022-11-22T23:45:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000480s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:45:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001456s ]
+[ 2022-11-22T23:45:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149937,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002792s ]
+[ 2022-11-22T23:45:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000518s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:45:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000707s ]
+[ 2022-11-22T23:45:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149942,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004452s ]
+[ 2022-11-22T23:45:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000474s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:45:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000697s ]
+[ 2022-11-22T23:45:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149957,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002473s ]
+[ 2022-11-22T23:46:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000389s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:46:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000667s ]
+[ 2022-11-22T23:46:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149961,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002348s ]
+[ 2022-11-22T23:46:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000423s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:46:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000730s ]
+[ 2022-11-22T23:46:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149966,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003312s ]
+[ 2022-11-22T23:46:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000597s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:46:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000688s ]
+[ 2022-11-22T23:46:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149976,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002458s ]
+[ 2022-11-22T23:46:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000479s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:46:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000712s ]
+[ 2022-11-22T23:46:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149981,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002303s ]
+[ 2022-11-22T23:46:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000605s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:46:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000653s ]
+[ 2022-11-22T23:46:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669149986,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003118s ]
+[ 2022-11-22T23:46:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000585s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:46:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000682s ]
+[ 2022-11-22T23:46:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150001,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002274s ]
+[ 2022-11-22T23:46:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000595s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:46:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000752s ]
+[ 2022-11-22T23:46:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150006,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.006030s ]
+[ 2022-11-22T23:46:51+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000455s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:46:51+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000686s ]
+[ 2022-11-22T23:46:51+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150011,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002663s ]
+[ 2022-11-22T23:47:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000478s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:47:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000968s ]
+[ 2022-11-22T23:47:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150021,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.009446s ]
+[ 2022-11-22T23:47:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000498s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:47:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000678s ]
+[ 2022-11-22T23:47:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150026,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.004519s ]
+[ 2022-11-22T23:47:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000454s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:47:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000696s ]
+[ 2022-11-22T23:47:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150031,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002962s ]
+[ 2022-11-22T23:47:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000660s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:47:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000827s ]
+[ 2022-11-22T23:47:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150046,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003928s ]
+[ 2022-11-22T23:47:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000462s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:47:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000685s ]
+[ 2022-11-22T23:47:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150051,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002608s ]
+[ 2022-11-22T23:47:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000430s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:47:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000667s ]
+[ 2022-11-22T23:47:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150056,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003718s ]
+[ 2022-11-22T23:47:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000494s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:47:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000823s ]
+[ 2022-11-22T23:47:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150066,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002368s ]
+[ 2022-11-22T23:47:51+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000450s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:47:51+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000674s ]
+[ 2022-11-22T23:47:51+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150071,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003095s ]
+[ 2022-11-22T23:47:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000777s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:47:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000891s ]
+[ 2022-11-22T23:47:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150077,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003691s ]
+[ 2022-11-22T23:48:12+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000921s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:48:12+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000691s ]
+[ 2022-11-22T23:48:12+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150092,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002911s ]
+[ 2022-11-22T23:48:17+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000718s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:48:17+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001239s ]
+[ 2022-11-22T23:48:17+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150097,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003067s ]
+[ 2022-11-22T23:48:22+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000533s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:48:22+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000952s ]
+[ 2022-11-22T23:48:22+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150102,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002593s ]
+[ 2022-11-22T23:48:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000475s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:48:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001607s ]
+[ 2022-11-22T23:48:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150112,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003882s ]
+[ 2022-11-22T23:48:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000518s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:48:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000682s ]
+[ 2022-11-22T23:48:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150117,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002852s ]
+[ 2022-11-22T23:48:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000446s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:48:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000933s ]
+[ 2022-11-22T23:48:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150122,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003214s ]
+[ 2022-11-22T23:48:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.005340s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:48:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000693s ]
+[ 2022-11-22T23:48:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150137,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002646s ]
+[ 2022-11-22T23:49:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000495s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:49:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.002124s ]
+[ 2022-11-22T23:49:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150141,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.004612s ]
+[ 2022-11-22T23:49:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000437s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:49:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000738s ]
+[ 2022-11-22T23:49:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150146,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.004009s ]
+[ 2022-11-22T23:49:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000506s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:49:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000693s ]
+[ 2022-11-22T23:49:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150156,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002616s ]
+[ 2022-11-22T23:49:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000423s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:49:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000782s ]
+[ 2022-11-22T23:49:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150161,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.004249s ]
+[ 2022-11-22T23:49:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000453s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:49:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000665s ]
+[ 2022-11-22T23:49:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150166,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002978s ]
+[ 2022-11-22T23:49:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000553s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:49:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000694s ]
+[ 2022-11-22T23:49:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150181,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002942s ]
+[ 2022-11-22T23:49:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000457s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:49:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000799s ]
+[ 2022-11-22T23:49:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150186,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.003130s ]
+[ 2022-11-22T23:49:51+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000402s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:49:51+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000716s ]
+[ 2022-11-22T23:49:51+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150191,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003781s ]
+[ 2022-11-22T23:50:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001137s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:50:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001059s ]
+[ 2022-11-22T23:50:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150201,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003769s ]
+[ 2022-11-22T23:50:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000575s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:50:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000647s ]
+[ 2022-11-22T23:50:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150206,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002622s ]
+[ 2022-11-22T23:50:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000423s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:50:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000788s ]
+[ 2022-11-22T23:50:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150211,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003128s ]
+[ 2022-11-22T23:50:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000528s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:50:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000647s ]
+[ 2022-11-22T23:50:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150226,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002442s ]
+[ 2022-11-22T23:50:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000504s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:50:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000708s ]
+[ 2022-11-22T23:50:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150231,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002957s ]
+[ 2022-11-22T23:50:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000444s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:50:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000651s ]
+[ 2022-11-22T23:50:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150236,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003158s ]
+[ 2022-11-22T23:50:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000402s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:50:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000641s ]
+[ 2022-11-22T23:50:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150247,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002849s ]
+[ 2022-11-22T23:50:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000693s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:50:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000974s ]
+[ 2022-11-22T23:50:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150252,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003375s ]
+[ 2022-11-22T23:50:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000403s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:50:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000931s ]
+[ 2022-11-22T23:50:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150257,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002779s ]
+[ 2022-11-22T23:51:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000877s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:51:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001040s ]
+[ 2022-11-22T23:51:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150271,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002520s ]
+[ 2022-11-22T23:51:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000508s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:51:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000653s ]
+[ 2022-11-22T23:51:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150276,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002606s ]
+[ 2022-11-22T23:51:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000444s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:51:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000658s ]
+[ 2022-11-22T23:51:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150281,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.004086s ]
+[ 2022-11-22T23:51:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000570s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:51:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000796s ]
+[ 2022-11-22T23:51:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150292,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002729s ]
+[ 2022-11-22T23:51:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000387s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:51:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000684s ]
+[ 2022-11-22T23:51:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150297,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002946s ]
+[ 2022-11-22T23:51:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000578s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:51:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000712s ]
+[ 2022-11-22T23:51:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150302,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003421s ]
+[ 2022-11-22T23:51:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000490s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:51:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000658s ]
+[ 2022-11-22T23:51:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150317,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002618s ]
+[ 2022-11-22T23:52:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.005956s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:52:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000712s ]
+[ 2022-11-22T23:52:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150321,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002760s ]
+[ 2022-11-22T23:52:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001023s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:52:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.002388s ]
+[ 2022-11-22T23:52:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150326,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003308s ]
+[ 2022-11-22T23:52:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000391s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:52:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000707s ]
+[ 2022-11-22T23:52:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150336,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002926s ]
+[ 2022-11-22T23:52:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000468s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:52:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000746s ]
+[ 2022-11-22T23:52:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150341,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002384s ]
+[ 2022-11-22T23:52:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000429s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:52:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000707s ]
+[ 2022-11-22T23:52:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150346,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003224s ]
+[ 2022-11-22T23:52:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000647s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:52:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000697s ]
+[ 2022-11-22T23:52:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150361,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002574s ]
+[ 2022-11-22T23:52:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000569s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:52:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000738s ]
+[ 2022-11-22T23:52:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150366,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002883s ]
+[ 2022-11-22T23:52:51+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000729s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:52:51+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000689s ]
+[ 2022-11-22T23:52:51+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150371,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003489s ]
+[ 2022-11-22T23:53:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000478s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:53:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000848s ]
+[ 2022-11-22T23:53:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150381,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.004231s ]
+[ 2022-11-22T23:53:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.003482s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:53:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000753s ]
+[ 2022-11-22T23:53:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150386,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002755s ]
+[ 2022-11-22T23:53:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000478s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:53:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000760s ]
+[ 2022-11-22T23:53:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150391,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004817s ]
+[ 2022-11-22T23:53:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000408s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:53:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000721s ]
+[ 2022-11-22T23:53:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150406,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003081s ]
+[ 2022-11-22T23:53:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000410s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:53:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000665s ]
+[ 2022-11-22T23:53:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150411,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.003416s ]
+[ 2022-11-22T23:53:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000417s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:53:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000763s ]
+[ 2022-11-22T23:53:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150416,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.002707s ]
+[ 2022-11-22T23:53:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000607s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:53:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.006609s ]
+[ 2022-11-22T23:53:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150426,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.006248s ]
+[ 2022-11-22T23:53:51+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000482s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:53:51+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000728s ]
+[ 2022-11-22T23:53:51+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150431,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002703s ]
+[ 2022-11-22T23:53:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000404s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:53:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000717s ]
+[ 2022-11-22T23:53:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150436,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002650s ]
+[ 2022-11-22T23:54:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000606s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:54:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000716s ]
+[ 2022-11-22T23:54:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150451,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002370s ]
+[ 2022-11-22T23:54:17+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000956s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:54:17+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001699s ]
+[ 2022-11-22T23:54:17+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150457,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002898s ]
+[ 2022-11-22T23:54:22+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000459s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:54:22+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000703s ]
+[ 2022-11-22T23:54:22+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150462,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003874s ]
+[ 2022-11-22T23:54:32+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000595s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:54:32+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000733s ]
+[ 2022-11-22T23:54:32+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150472,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002583s ]
+[ 2022-11-22T23:54:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000558s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:54:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000683s ]
+[ 2022-11-22T23:54:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150477,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002934s ]
+[ 2022-11-22T23:54:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000463s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:54:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000904s ]
+[ 2022-11-22T23:54:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150482,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002797s ]
+[ 2022-11-22T23:54:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000397s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:54:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001064s ]
+[ 2022-11-22T23:54:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150497,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002915s ]
+[ 2022-11-22T23:55:02+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001241s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:55:02+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000699s ]
+[ 2022-11-22T23:55:02+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150502,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.009266s ]
+[ 2022-11-22T23:55:07+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000384s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:55:07+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000657s ]
+[ 2022-11-22T23:55:07+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150507,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002878s ]
+[ 2022-11-22T23:55:17+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000531s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:55:17+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000758s ]
+[ 2022-11-22T23:55:17+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150517,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002818s ]
+[ 2022-11-22T23:55:22+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000521s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:55:22+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000730s ]
+[ 2022-11-22T23:55:22+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150522,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.013977s ]
+[ 2022-11-22T23:55:27+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001412s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:55:27+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000736s ]
+[ 2022-11-22T23:55:27+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150527,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003103s ]
+[ 2022-11-22T23:55:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.001144s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:55:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000996s ]
+[ 2022-11-22T23:55:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150542,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003413s ]
+[ 2022-11-22T23:55:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000473s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:55:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000825s ]
+[ 2022-11-22T23:55:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150547,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.005810s ]
+[ 2022-11-22T23:55:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000516s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:55:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000695s ]
+[ 2022-11-22T23:55:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150552,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.003555s ]
+[ 2022-11-22T23:56:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.005585s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:56:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.003045s ]
+[ 2022-11-22T23:56:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150561,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.004598s ]
+[ 2022-11-22T23:56:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.005810s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:56:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000678s ]
+[ 2022-11-22T23:56:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150566,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002653s ]
+[ 2022-11-22T23:56:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000546s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:56:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000834s ]
+[ 2022-11-22T23:56:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150571,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002597s ]
+[ 2022-11-22T23:56:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000501s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:56:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000696s ]
+[ 2022-11-22T23:56:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150586,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.004112s ]
+[ 2022-11-22T23:56:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000580s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:56:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000701s ]
+[ 2022-11-22T23:56:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150591,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.003070s ]
+[ 2022-11-22T23:56:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000514s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:56:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000812s ]
+[ 2022-11-22T23:56:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150596,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.002970s ]
+[ 2022-11-22T23:56:47+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000438s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:56:47+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000781s ]
+[ 2022-11-22T23:56:47+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150607,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002481s ]
+[ 2022-11-22T23:56:52+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000699s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:56:52+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000745s ]
+[ 2022-11-22T23:56:52+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150612,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.004507s ]
+[ 2022-11-22T23:56:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000429s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:56:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000668s ]
+[ 2022-11-22T23:56:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150617,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002728s ]
+[ 2022-11-22T23:57:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000922s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:57:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000718s ]
+[ 2022-11-22T23:57:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150631,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003707s ]
+[ 2022-11-22T23:57:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000721s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:57:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000745s ]
+[ 2022-11-22T23:57:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150636,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107','CT054220400071') [ RunTime:0.002270s ]
+[ 2022-11-22T23:57:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000545s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:57:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000711s ]
+[ 2022-11-22T23:57:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150641,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400013') [ RunTime:0.013708s ]
+[ 2022-11-22T23:57:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000540s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:57:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000826s ]
+[ 2022-11-22T23:57:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150651,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002138s ]
+[ 2022-11-22T23:57:37+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000578s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:57:37+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000829s ]
+[ 2022-11-22T23:57:37+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150657,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002872s ]
+[ 2022-11-22T23:57:42+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000552s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:57:42+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001084s ]
+[ 2022-11-22T23:57:42+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150662,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003958s ]
+[ 2022-11-22T23:57:57+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000409s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:57:57+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000934s ]
+[ 2022-11-22T23:57:57+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150677,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.002905s ]
+[ 2022-11-22T23:58:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.003817s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:58:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000985s ]
+[ 2022-11-22T23:58:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150681,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002881s ]
+[ 2022-11-22T23:58:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000518s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:58:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000702s ]
+[ 2022-11-22T23:58:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150686,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.002823s ]
+[ 2022-11-22T23:58:16+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000574s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:58:16+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000779s ]
+[ 2022-11-22T23:58:16+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150696,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002387s ]
+[ 2022-11-22T23:58:21+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000409s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:58:21+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000823s ]
+[ 2022-11-22T23:58:21+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150701,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.002840s ]
+[ 2022-11-22T23:58:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000430s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:58:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001234s ]
+[ 2022-11-22T23:58:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150706,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.004056s ]
+[ 2022-11-22T23:58:41+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000687s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:58:41+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000754s ]
+[ 2022-11-22T23:58:41+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150721,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.004132s ]
+[ 2022-11-22T23:58:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000438s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:58:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000740s ]
+[ 2022-11-22T23:58:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150726,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.002810s ]
+[ 2022-11-22T23:58:51+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000493s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:58:51+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000674s ]
+[ 2022-11-22T23:58:51+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150731,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.002222s ]
+[ 2022-11-22T23:59:01+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000546s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:59:01+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000934s ]
+[ 2022-11-22T23:59:01+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150741,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.003586s ]
+[ 2022-11-22T23:59:06+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000448s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:59:06+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001079s ]
+[ 2022-11-22T23:59:06+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150746,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.004127s ]
+[ 2022-11-22T23:59:11+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000491s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:59:11+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000683s ]
+[ 2022-11-22T23:59:11+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150751,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.002856s ]
+[ 2022-11-22T23:59:26+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000511s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:59:26+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000730s ]
+[ 2022-11-22T23:59:26+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150766,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400060') [ RunTime:0.003006s ]
+[ 2022-11-22T23:59:31+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000597s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:59:31+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001428s ]
+[ 2022-11-22T23:59:31+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150771,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400107') [ RunTime:0.003199s ]
+[ 2022-11-22T23:59:36+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000599s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:59:36+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000995s ]
+[ 2022-11-22T23:59:36+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150776,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400071','CT054220400013') [ RunTime:0.003108s ]
+[ 2022-11-22T23:59:46+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.004124s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:59:46+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000744s ]
+[ 2022-11-22T23:59:46+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150786,`is_online`=1  WHERE  `cabinet_id` IN ('CT044210601941') [ RunTime:0.002468s ]
+[ 2022-11-22T23:59:51+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000604s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:59:51+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000800s ]
+[ 2022-11-22T23:59:51+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150791,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220102963') [ RunTime:0.003491s ]
+[ 2022-11-22T23:59:56+03:00 ][ sql ] [ DB ] CONNECT:[ UseTime:0.000478s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ 2022-11-22T23:59:56+03:00 ][ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000683s ]
+[ 2022-11-22T23:59:56+03:00 ][ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1669150796,`is_online`=1  WHERE  `cabinet_id` IN ('CT054220400091','CT054220400031') [ RunTime:0.003649s ]

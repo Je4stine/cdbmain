@@ -1,0 +1,151 @@
+2023-01-05 08:42:18
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301050842165343
+            [device_num] => 8
+            [lock_id] => 1
+        )
+
+)
+
+ 
+ 
+ 2023-01-05 11:05:34
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301051105322906
+            [device_num] => 8
+            [lock_id] => 3
+        )
+
+)
+
+ 
+ 
+ 2023-01-05 11:11:56
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301051111551581
+            [device_num] => 8
+            [lock_id] => 5
+        )
+
+)
+
+ 
+ 
+ 2023-01-05 11:58:03
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301051158023593
+            [device_num] => 8
+            [lock_id] => 8
+        )
+
+)
+
+ 
+ 
+ 2023-01-05 12:20:28
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301051220267069
+            [device_num] => 8
+            [lock_id] => 8
+        )
+
+)
+
+ 
+ 
+ 2023-01-05 13:01:26
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301051301252862
+            [device_num] => 8
+            [lock_id] => 7
+        )
+
+)
+
+ 
+ 
+ 2023-01-05 15:25:02
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301051525011481
+            [device_num] => 8
+            [lock_id] => 2
+        )
+
+)
+
+ 
+ 
+ 2023-01-05 16:07:32
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301051607308809
+            [device_num] => 8
+            [lock_id] => 2
+        )
+
+)
+
+ 
+ 
+ 2023-01-05 16:34:44
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301051634439135
+            [device_num] => 8
+            [lock_id] => 2
+        )
+
+)
+
+ 
+ 
+ 2023-01-05 16:59:34
+Array
+(
+    [code] => 1
+    [data] => Array
+        (
+            [order_no] => 202301051659333502
+            [device_num] => 8
+            [lock_id] => 2
+        )
+
+)
+
+ 
+ 
+ 

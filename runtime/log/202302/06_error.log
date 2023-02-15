@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2023-02-06T16:30:43+03:00 ] 172.31.39.51 196.201.212.129 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+[ 2023-02-06T16:30:54+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+[ 2023-02-06T16:31:04+03:00 ] 172.31.39.51 196.201.212.127 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()
+---------------------------------------------------------------
+[ 2023-02-06T16:31:15+03:00 ] 172.31.39.51 196.201.212.74 POST /app/callback/b2cResult
+[ error ] [2]Invalid argument supplied for foreach()

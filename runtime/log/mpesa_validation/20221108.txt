@@ -1,0 +1,22 @@
+2022-11-08 13:17:57
+
+ 
+ 
+ 2022-11-08 13:42:57
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QK89IGNXW7",
+            "TransTime": "20221108134256",
+            "TransAmount": "10.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "245677",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 738",
+            "FirstName": "LEI"
+        }
+        
+ 
+ 
+ 

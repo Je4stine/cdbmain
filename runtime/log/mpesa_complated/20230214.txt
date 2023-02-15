@@ -1,0 +1,35 @@
+2023-02-14 16:27:25
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RBE3N87AJB",
+            "TransTime": "20230214162722",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "992419",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "999.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 422",
+            "FirstName": "SAM"
+        }
+        
+ 
+ 
+ 2023-02-14 16:59:24
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RBE3NB7RXH",
+            "TransTime": "20230214165921",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "969726",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "1998.00",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 576",
+            "FirstName": "RICHARD"
+        }
+        
+ 
+ 
+ 

@@ -1,0 +1,69 @@
+2023-01-22 00:45:05
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAM0WE1RKG",
+            "TransTime": "20230122004504",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "961156",
+            "InvoiceNumber": "0",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 852",
+            "FirstName": "EMMA"
+        }
+        
+ 
+ 
+ 2023-01-22 07:29:48
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAM0WI8CW8",
+            "TransTime": "20230122072947",
+            "TransAmount": "11850.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "516600",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 316",
+            "FirstName": "DANIEL"
+        }
+        
+ 
+ 
+ 2023-01-22 07:32:51
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAM2WIDUL8",
+            "TransTime": "20230122073251",
+            "TransAmount": "11850.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "516600",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 316",
+            "FirstName": "DANIEL"
+        }
+        
+ 
+ 
+ 2023-01-22 11:31:01
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "RAM6WYCYKO",
+            "TransTime": "20230122113100",
+            "TransAmount": "120.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "13085333",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 654",
+            "FirstName": "Ambrose"
+        }
+        
+ 
+ 
+ 

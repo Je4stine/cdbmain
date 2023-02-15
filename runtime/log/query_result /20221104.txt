@@ -1,0 +1,17 @@
+2022-11-04 11:50:08
+{"Result":{"ResultType":0,"ResultCode":"TP40153","ResultDesc":"The operator has no permission to perform this operation or does not belong to the specified organization.","OriginatorConversationID":"19095-146871697-1","ConversationID":"AG_20221104_20205d8f974c86aa20c0","TransactionID":"QK40000000","ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2022-11-04 11:50:19
+{"Result":{"ResultType":0,"ResultCode":"TP40153","ResultDesc":"The operator has no permission to perform this operation or does not belong to the specified organization.","OriginatorConversationID":"19095-146871697-1","ConversationID":"AG_20221104_20205d8f974c86aa20c0","TransactionID":"QK40000000","ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2022-11-04 11:50:31
+{"Result":{"ResultType":0,"ResultCode":"TP40153","ResultDesc":"The operator has no permission to perform this operation or does not belong to the specified organization.","OriginatorConversationID":"19095-146871697-1","ConversationID":"AG_20221104_20205d8f974c86aa20c0","TransactionID":"QK40000000","ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 2022-11-04 11:50:42
+{"Result":{"ResultType":0,"ResultCode":"TP40153","ResultDesc":"The operator has no permission to perform this operation or does not belong to the specified organization.","OriginatorConversationID":"19095-146871697-1","ConversationID":"AG_20221104_20205d8f974c86aa20c0","TransactionID":"QK40000000","ReferenceData":{"ReferenceItem":{"Key":"Occasion"}}}}
+ 
+ 
+ 

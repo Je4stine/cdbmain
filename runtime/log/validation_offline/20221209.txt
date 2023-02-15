@@ -1,0 +1,35 @@
+2022-12-09 00:26:54
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QL90Q6M0S8",
+            "TransTime": "20221209002647",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "992094",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 806",
+            "FirstName": "NEEMA"
+        }
+        
+ 
+ 
+ 2022-12-09 00:27:46
+{
+            "TransactionType": "Pay Bill",
+            "TransID": "QL96Q6MKQ6",
+            "TransTime": "20221209002739",
+            "TransAmount": "999.00",
+            "BusinessShortCode": "444333",
+            "BillRefNumber": "992094",
+            "InvoiceNumber": "",
+            "OrgAccountBalance": "",
+            "ThirdPartyTransID": "",
+            "MSISDN": "2547 ***** 806",
+            "FirstName": "NEEMA"
+        }
+        
+ 
+ 
+ 

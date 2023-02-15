@@ -1,0 +1,572 @@
+---------------------------------------------------------------
+[ 2022-11-02T07:07:19+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/login
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001029s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000683s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000462s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667369239,`is_online`=1,`network_card`='89860448041980033196'  WHERE  `id` = null [ RunTime:0.000408s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:07:20+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000626s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery_log` [ RunTime:0.000880s ]
+[ sql ] [ SQL ] INSERT INTO `battery_log` (`device_id` , `battery_id` , `create_time`) VALUES ('CT021907049019' , 'CT1905111118' , 1667369240) [ RunTime:0.002933s ]
+[ sql ] [ SQL ] INSERT INTO `battery_log` (`device_id` , `battery_id` , `create_time`) VALUES ('CT021907049019' , 'BT1905210007' , 1667369240) [ RunTime:0.002549s ]
+[ sql ] [ SQL ] INSERT INTO `battery_log` (`device_id` , `battery_id` , `create_time`) VALUES ('CT021907049019' , 'CT1905111575' , 1667369240) [ RunTime:0.003061s ]
+[ sql ] [ SQL ] INSERT INTO `battery_log` (`device_id` , `battery_id` , `create_time`) VALUES ('CT021907049019' , 'LC2111422595' , 1667369240) [ RunTime:0.003083s ]
+[ sql ] [ SQL ] INSERT INTO `battery_log` (`device_id` , `battery_id` , `create_time`) VALUES ('CT021907049019' , 'LC2104169034' , 1667369240) [ RunTime:0.006133s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000726s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000503s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000408s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667369240  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.004600s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:07:49+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/set/info
+[ sql ] [ DB ] CONNECT:[ UseTime:0.023906s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `config` [ RunTime:0.001835s ]
+[ sql ] [ SQL ] SELECT * FROM `config` WHERE  `type` = 'basic_info' LIMIT 1 [ RunTime:0.000419s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:07:49+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/set/info
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002286s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `config` [ RunTime:0.000749s ]
+[ sql ] [ SQL ] SELECT * FROM `config` WHERE  `type` = 'charge_info' LIMIT 1 [ RunTime:0.000364s ]
+[ sql ] [ SQL ] SELECT `data` FROM `config` WHERE  `type` = 'battery_power' LIMIT 1 [ RunTime:0.000255s ]
+[ sql ] [ SQL ] SELECT * FROM `config` WHERE  `type` = 'withdrawal' LIMIT 1 [ RunTime:0.000266s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:07:49+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/user/detail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001384s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `operator_users` [ RunTime:0.000695s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`name`,`phone`,`avatar` FROM `operator_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000318s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:07:52+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000481s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000742s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 LIMIT 1 [ RunTime:0.000326s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.001217s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667369222 LIMIT 1 [ RunTime:0.000288s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667369222 LIMIT 1 [ RunTime:0.000210s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.000519s ]
+[ sql ] [ SQL ] SELECT * FROM `agency` WHERE  `not_delete` = 1  AND `type` = 1 ORDER BY `id`  desc [ RunTime:0.000302s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `agency` WHERE  `not_delete` = 1  AND `type` = 2  AND `id` IN (0) [ RunTime:0.000173s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:07:55+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000557s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000740s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1  AND `c`.`heart_time` > 1667369225  AND `c`.`is_online` = 1 LIMIT 1 [ RunTime:0.000392s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1  AND `c`.`heart_time` > 1667369225  AND `c`.`is_online` = 1 ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000361s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667369225 LIMIT 1 [ RunTime:0.000365s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667369225 LIMIT 1 [ RunTime:0.006331s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:04+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000607s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000960s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1  AND `c`.`cabinet_id` LIKE '%49019%' LIMIT 1 [ RunTime:0.000457s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1  AND `c`.`cabinet_id` LIKE '%49019%' ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667369234 LIMIT 1 [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667369234 LIMIT 1 [ RunTime:0.000242s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:09+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/info
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000483s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.000688s ]
+[ sql ] [ SQL ] SELECT `name` FROM `agency` WHERE  `id` = -1 LIMIT 1 [ RunTime:0.000211s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`brokerage` FROM `agency` WHERE  `not_delete` = 1  AND `parent_id` = -1  AND `type` = 2 [ RunTime:0.000215s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:11+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/add
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000441s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000880s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000422s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `qrcode` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000334s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019' LIMIT 1 [ RunTime:0.000305s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `cabinet_id`='CT021907049019',`model`='zs6',`device_num`=6,`sid`=0,`agency_id`=0,`employee_id`=0,`is_fault`=0,`qrcode`='CT021907049019',`create_time`=1667369291,`not_delete`=1  WHERE  `id` = 1 [ RunTime:0.003071s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `device_agency` [ RunTime:0.001683s ]
+[ sql ] [ SQL ] DELETE FROM `device_agency`    WHERE  `device_code` = 'CT021907049019'  AND `type` = 1 [ RunTime:0.001158s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `operator_log` [ RunTime:0.000432s ]
+[ sql ] [ SQL ] INSERT INTO `operator_log` (`module` , `controller` , `action` , `ip` , `os` , `user_id` , `relation_id` , `querystring` , `create_time`) VALUES ('operate' , 'Equipment' , 'add' , '159.138.63.251' , 'Windows 10' , 1 , 1 , '恢复机柜' , 1667369291) [ RunTime:0.003686s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:11+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000472s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000988s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1  AND `c`.`cabinet_id` LIKE '%49019%' LIMIT 1 [ RunTime:0.000387s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1  AND `c`.`cabinet_id` LIKE '%49019%' ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000626s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667369241 LIMIT 1 [ RunTime:0.000297s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667369241 LIMIT 1 [ RunTime:0.000274s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.000643s ]
+[ sql ] [ SQL ] SELECT * FROM `agency` WHERE  `not_delete` = 1  AND `type` = 1 ORDER BY `id`  desc [ RunTime:0.000511s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `agency` WHERE  `not_delete` = 1  AND `type` = 2  AND `id` IN (0) [ RunTime:0.000208s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:15+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000485s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000879s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000546s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000526s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000409s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000432s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000300s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667369295  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002298s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:18+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/detail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000576s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001019s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `id` = 1  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000433s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:23+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000496s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000892s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000421s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000621s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000387s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000388s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000252s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667369303  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.006143s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:23+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/operate
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000442s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000736s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000497s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `config` [ RunTime:0.000570s ]
+[ sql ] [ SQL ] SELECT * FROM `config` [ RunTime:0.000332s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000525s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `lease_order_202211` [ RunTime:0.000573s ]
+[ sql ] [ SQL ] SELECT `battery_id` FROM `lease_order_202211` WHERE  `device_code` = 'CT021907049019'  AND `status` = 2  AND `end_time` > 1667369180 [ RunTime:0.000315s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000430s ]
+[ sql ] [ SQL ] SELECT * FROM `battery` WHERE  `device_id` IN ('BT1905210007','LC2111422595') [ RunTime:0.000299s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `operator_log` [ RunTime:0.001169s ]
+[ sql ] [ SQL ] INSERT INTO `operator_log` (`module` , `controller` , `action` , `ip` , `os` , `user_id` , `relation_id` , `querystring` , `create_time`) VALUES ('operate' , 'Equipment' , 'operate' , '159.138.63.251' , 'Windows 10' , 1 , 0 , '命令操作' , 1667369303) [ RunTime:0.004746s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:25+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000490s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000872s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000331s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000575s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000727s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000742s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000469s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667369305  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003103s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:27+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/returnBattery
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000619s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000825s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667369307,`is_online`=1  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002580s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000978s ]
+[ sql ] [ SQL ] SELECT * FROM `battery` WHERE  `device_id` = 'LC2111422595'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000443s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000474s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000539s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` = 'LC2111422595'  AND `status` = 1  AND `type` = 1 LIMIT 1 [ RunTime:0.000231s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:27+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005010s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery_log` [ RunTime:0.000758s ]
+[ sql ] [ SQL ] INSERT INTO `battery_log` (`device_id` , `battery_id` , `create_time`) VALUES ('CT021907049019' , 'LC2111422595' , 1667369307) [ RunTime:0.002367s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000858s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000396s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001597s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000456s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000444s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.001236s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667369307  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.004238s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:28+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/detail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000432s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000712s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `id` = 1  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000397s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:08:33+01:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000550s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000813s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1  AND `c`.`cabinet_id` LIKE '%49019%' LIMIT 1 [ RunTime:0.000419s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1  AND `c`.`cabinet_id` LIKE '%49019%' ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000372s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667369263 LIMIT 1 [ RunTime:0.000314s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667369263 LIMIT 1 [ RunTime:0.000258s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.000961s ]
+[ sql ] [ SQL ] SELECT * FROM `agency` WHERE  `not_delete` = 1  AND `type` = 1 ORDER BY `id`  desc [ RunTime:0.000440s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `agency` WHERE  `not_delete` = 1  AND `type` = 2  AND `id` IN (0) [ RunTime:0.000216s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:09:09+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/login
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000831s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000922s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000441s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667369349,`is_online`=1,`network_card`='89860448041980033196'  WHERE  `id` = 1 [ RunTime:0.002997s ]
+---------------------------------------------------------------
+[ 2022-11-02T07:09:10+01:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000657s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001403s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000437s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000580s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000492s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000411s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000299s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667369350  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003333s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:20:03+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/user/detail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001559s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `operator_users` [ RunTime:0.001397s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`name`,`phone`,`avatar` FROM `operator_users` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000365s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:20:03+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000526s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000879s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 LIMIT 1 [ RunTime:0.000546s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000555s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667369953 LIMIT 1 [ RunTime:0.000257s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667369953 LIMIT 1 [ RunTime:0.000286s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.000714s ]
+[ sql ] [ SQL ] SELECT * FROM `agency` WHERE  `not_delete` = 1  AND `type` = 1 ORDER BY `id`  desc [ RunTime:0.000265s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `agency` WHERE  `not_delete` = 1  AND `type` = 2  AND `id` IN (0) [ RunTime:0.000260s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:20:08+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000563s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000724s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 LIMIT 1 [ RunTime:0.000348s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000474s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667369958 LIMIT 1 [ RunTime:0.000336s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667369958 LIMIT 1 [ RunTime:0.000345s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.000493s ]
+[ sql ] [ SQL ] SELECT * FROM `agency` WHERE  `not_delete` = 1  AND `type` = 1 ORDER BY `id`  desc [ RunTime:0.000347s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `agency` WHERE  `not_delete` = 1  AND `type` = 2  AND `id` IN (0) [ RunTime:0.000229s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:20:16+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000450s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000854s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 LIMIT 1 [ RunTime:0.000377s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000446s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667369966 LIMIT 1 [ RunTime:0.000413s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667369966 LIMIT 1 [ RunTime:0.000237s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.000794s ]
+[ sql ] [ SQL ] SELECT * FROM `agency` WHERE  `not_delete` = 1  AND `type` = 1 ORDER BY `id`  desc [ RunTime:0.000269s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `agency` WHERE  `not_delete` = 1  AND `type` = 2  AND `id` IN (0) [ RunTime:0.000172s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:20:17+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000454s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000679s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 LIMIT 1 [ RunTime:0.000285s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000509s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667369967 LIMIT 1 [ RunTime:0.000299s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667369967 LIMIT 1 [ RunTime:0.000263s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.000806s ]
+[ sql ] [ SQL ] SELECT * FROM `agency` WHERE  `not_delete` = 1  AND `type` = 1 ORDER BY `id`  desc [ RunTime:0.000362s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `agency` WHERE  `not_delete` = 1  AND `type` = 2  AND `id` IN (0) [ RunTime:0.000428s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:23:48+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/detail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000962s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000704s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `id` = 1  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000465s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:23:49+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000481s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000810s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000522s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001376s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000391s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000397s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000306s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667370229  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002812s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:23:51+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000450s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000726s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 LIMIT 1 [ RunTime:0.000535s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667370181 LIMIT 1 [ RunTime:0.000396s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667370181 LIMIT 1 [ RunTime:0.000261s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.005692s ]
+[ sql ] [ SQL ] SELECT * FROM `agency` WHERE  `not_delete` = 1  AND `type` = 1 ORDER BY `id`  desc [ RunTime:0.000316s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `agency` WHERE  `not_delete` = 1  AND `type` = 2  AND `id` IN (0) [ RunTime:0.000227s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:31:05+03:00 ] 172.31.39.51 159.138.63.251 POST /operate/equipment/index?page=1
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000487s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000731s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 LIMIT 1 [ RunTime:0.000431s ]
+[ sql ] [ SQL ] SELECT `c`.`id`,`c`.`cabinet_id`,`c`.`qrcode`,`c`.`is_online`,`c`.`model`,`c`.`mode`,`c`.`is_fault`,`c`.`device_num`,`c`.`heart_time`,`c`.`agency_id`,`c`.`employee_id`,JSON_UNQUOTE(s.name->'$.zh') name,`s`.`area`,`s`.`address` FROM `charecabinet` `c` LEFT JOIN `seller` `s` ON `c`.`sid`=`s`.`id` WHERE  `c`.`not_delete` = 1 ORDER BY c.create_time desc LIMIT 0,20 [ RunTime:0.000381s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `is_online` = 1  AND `heart_time` > 1667370615 LIMIT 1 [ RunTime:0.000337s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `charecabinet` WHERE  `not_delete` = 1  AND `heart_time` <= 1667370615 LIMIT 1 [ RunTime:0.000239s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `agency` [ RunTime:0.000513s ]
+[ sql ] [ SQL ] SELECT * FROM `agency` WHERE  `not_delete` = 1  AND `type` = 1 ORDER BY `id`  desc [ RunTime:0.000254s ]
+[ sql ] [ SQL ] SELECT `id`,`name` FROM `agency` WHERE  `not_delete` = 1  AND `type` = 2  AND `id` IN (0) [ RunTime:0.000190s ]
+---------------------------------------------------------------
+[ 2022-11-02T09:36:27+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000585s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001195s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000341s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000489s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000386s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000413s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000347s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667370987  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002516s ]
+---------------------------------------------------------------
+[ 2022-11-02T10:06:27+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000568s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000960s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000338s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000514s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000370s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000316s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667372787  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003641s ]
+---------------------------------------------------------------
+[ 2022-11-02T10:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000647s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001162s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000410s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000676s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000505s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000712s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000342s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667374586  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002888s ]
+---------------------------------------------------------------
+[ 2022-11-02T11:06:27+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000718s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001270s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000607s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000692s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000581s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000537s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000502s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667376387  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.004467s ]
+---------------------------------------------------------------
+[ 2022-11-02T11:36:27+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000663s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000884s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000330s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001131s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000409s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000419s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000521s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667378187  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002608s ]
+---------------------------------------------------------------
+[ 2022-11-02T12:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000524s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000804s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000359s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000474s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000464s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000359s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000342s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667379986  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002687s ]
+---------------------------------------------------------------
+[ 2022-11-02T12:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000476s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000746s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000344s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000535s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000390s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000372s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000279s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667381786  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002651s ]
+---------------------------------------------------------------
+[ 2022-11-02T13:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000498s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000932s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.001411s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000617s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000371s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000499s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000257s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667383586  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.004191s ]
+---------------------------------------------------------------
+[ 2022-11-02T13:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001131s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001028s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000751s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000717s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000769s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000811s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000407s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667385386  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003103s ]
+---------------------------------------------------------------
+[ 2022-11-02T14:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000475s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001002s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000350s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000381s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000665s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000271s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667387186  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003578s ]
+---------------------------------------------------------------
+[ 2022-11-02T14:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000492s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000899s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000313s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000470s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000379s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000354s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000246s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667388986  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003102s ]
+---------------------------------------------------------------
+[ 2022-11-02T15:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000443s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000875s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000322s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000699s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000410s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000385s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000253s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667390786  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003056s ]
+---------------------------------------------------------------
+[ 2022-11-02T15:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000484s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000883s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000525s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000404s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000399s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000291s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667392586  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002701s ]
+---------------------------------------------------------------
+[ 2022-11-02T16:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000492s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000912s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000339s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000513s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000359s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000351s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000245s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667394386  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003000s ]
+---------------------------------------------------------------
+[ 2022-11-02T16:36:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000691s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001571s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000703s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000664s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000416s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000426s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000301s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667396186  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002358s ]
+---------------------------------------------------------------
+[ 2022-11-02T17:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.005711s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000928s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000551s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001367s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.001107s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000419s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000284s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667397986  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003082s ]
+---------------------------------------------------------------
+[ 2022-11-02T17:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010051s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001094s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000367s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000457s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000492s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000356s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000292s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667399785  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003647s ]
+---------------------------------------------------------------
+[ 2022-11-02T18:06:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000592s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001696s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000461s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000597s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000674s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000455s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000364s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667401585  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003718s ]
+---------------------------------------------------------------
+[ 2022-11-02T18:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000517s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000810s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000439s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000477s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000386s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000346s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000251s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667403385  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002665s ]
+---------------------------------------------------------------
+[ 2022-11-02T19:06:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000475s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001001s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000315s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000487s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000506s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000340s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000430s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667405185  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003644s ]
+---------------------------------------------------------------
+[ 2022-11-02T19:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000587s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000723s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000409s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000492s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000428s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000354s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000391s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667406985  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002141s ]
+---------------------------------------------------------------
+[ 2022-11-02T20:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000517s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000785s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000323s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000588s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000624s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000409s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000276s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667408786  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.004008s ]
+---------------------------------------------------------------
+[ 2022-11-02T20:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001167s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000844s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000345s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000604s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000509s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000357s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000529s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667410585  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002398s ]
+---------------------------------------------------------------
+[ 2022-11-02T21:06:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000559s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000877s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000343s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000475s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000557s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000371s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000382s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667412385  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003207s ]
+---------------------------------------------------------------
+[ 2022-11-02T21:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000485s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000788s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000377s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000476s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000467s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000424s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000305s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667414185  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002764s ]
+---------------------------------------------------------------
+[ 2022-11-02T22:06:26+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000540s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.000773s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000350s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000499s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000379s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000384s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000262s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667415986  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.004968s ]
+---------------------------------------------------------------
+[ 2022-11-02T22:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003441s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.003812s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000360s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.000608s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000412s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.002210s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000338s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667417785  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003017s ]
+---------------------------------------------------------------
+[ 2022-11-02T23:06:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000637s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.001155s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000354s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001060s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000435s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000379s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000276s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667419585  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.002458s ]
+---------------------------------------------------------------
+[ 2022-11-02T23:36:25+03:00 ] 172.31.39.51 13.245.77.239 POST /cloud/Reception/stockDetail
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001669s ] mysql:dbname=cdb;host=127.0.0.1;port=3306;charset=utf8mb4
+[ sql ] [ SQL ] SHOW COLUMNS FROM `order_active` [ RunTime:0.002502s ]
+[ sql ] [ SQL ] SELECT `id` FROM `order_active` WHERE  `battery_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `status` IN (1,4)  AND `type` = 1 [ RunTime:0.000329s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `charecabinet` [ RunTime:0.001996s ]
+[ sql ] [ SQL ] SELECT * FROM `charecabinet` WHERE  `cabinet_id` = 'CT021907049019'  AND `not_delete` = 1 LIMIT 1 [ RunTime:0.000519s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `battery` [ RunTime:0.000348s ]
+[ sql ] [ SQL ] SELECT `device_id` FROM `battery` WHERE  `device_id` IN ('CT1905111118','BT1905210007','CT1905111575','LC2111422595','LC2104169034')  AND `not_delete` = 1 [ RunTime:0.000295s ]
+[ sql ] [ SQL ] UPDATE `charecabinet`  SET `heart_time`=1667421385  WHERE  `cabinet_id` = 'CT021907049019' [ RunTime:0.003677s ]
